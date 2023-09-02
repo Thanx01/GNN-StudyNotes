@@ -1,0 +1,356 @@
+<http://www.worldkg.org/resource/5669666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/4248887014>	<RegionId>	13_27
+<http://www.worldkg.org/resource/5671109>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/61914065>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/196117057>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/357624578>	<http://www.worldkg.org/schema/religion>	religion-jewish
+<http://www.worldkg.org/resource/5673067>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5673067>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/61914065>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Terrace
+<http://www.worldkg.org/resource/104077634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/5403868126>	<http://www.worldkg.org/schema/routeRef>	routeRef-M3;M101
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/level>	level--2
+<http://www.worldkg.org/resource/104077634>	<RegionId>	13_27
+<http://www.worldkg.org/resource/104984000>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/196117057>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/5673067>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/196117057>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5669666>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/5671789>	<RegionId>	13_27
+<http://www.worldkg.org/resource/3623472008>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/1203032532>	<http://www.w3.org/2000/01/rdf-schema#label>	Gertie A. Gorman Memorial
+<http://www.worldkg.org/resource/5403868126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/5981269523>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Artwork>
+<http://www.worldkg.org/resource/5669666>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/734216064>
+<http://www.worldkg.org/resource/4233195990>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5403868126>
+<http://www.worldkg.org/resource/5981269523>	<http://www.w3.org/2000/01/rdf-schema#label>	Sidewalk Flowers
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/421840993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/196117055>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673067>	<RegionId>	13_27
+<http://www.worldkg.org/resource/4248887014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwayStation>
+<http://www.worldkg.org/resource/61914066>	<http://www.worldkg.org/schema/cyclewayBoth>	cyclewayBoth-no
+<http://www.worldkg.org/resource/420874488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/4233195990>	<http://www.w3.org/2000/01/rdf-schema#label>	PR Mabi Mobile 
+<http://www.worldkg.org/resource/104984000>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/5669666>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673069>
+<http://www.worldkg.org/resource/5673069>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/wikimediaCommons>	wikimediaCommons-Category:191st Street (IRT Broadway – Seventh Avenue Line)
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-no
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/196117055>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914065>
+<http://www.worldkg.org/resource/5673067>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671109>
+<http://www.worldkg.org/resource/4248887014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportStation>
+<http://www.worldkg.org/resource/223486858>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<http://www.worldkg.org/resource/196117055>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5403868126>
+<http://www.worldkg.org/resource/4233195990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/196117055>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/4248887014>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/cuisine>	cuisine-regional
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/196117057>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874488>
+<http://www.worldkg.org/resource/357624578>	<RegionId>	13_27
+<http://www.worldkg.org/resource/5981269523>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/196117057>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/725335343>
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/5669666>	<http://www.w3.org/2000/01/rdf-schema#label>	West 192nd Street
+<http://www.worldkg.org/resource/104984000>	<RegionId>	13_27
+<http://www.worldkg.org/resource/5673069>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/421840993>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874488>
+<http://www.worldkg.org/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117055>
+<http://www.worldkg.org/resource/5673069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/734216064>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/421840993>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117055>
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1547
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671109>
+<http://www.worldkg.org/resource/5671109>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/61914065>
+<http://www.worldkg.org/resource/3623472008>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671789>
+<http://www.worldkg.org/resource/61914065>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/104984000>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5669666>
+<http://www.worldkg.org/resource/5673067>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 12:00-23:30
+<http://www.worldkg.org/resource/5403868126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/104077634>	<http://www.w3.org/2000/01/rdf-schema#label>	Gorman Memorial Park
+<http://www.worldkg.org/resource/5671789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/2797628447>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/196117057>	<RegionId>	13_27
+<http://www.worldkg.org/resource/196117057>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/3623507882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/357624578>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Sinai Jewish Center
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/5403868126>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/734216064>	<RegionId>	13_27
+<http://www.worldkg.org/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/421840993>
+<http://www.worldkg.org/resource/196117057>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/421840993>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671109>
+<http://www.worldkg.org/resource/2797628447>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1555
+<http://www.worldkg.org/resource/421840993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874488>
+<http://www.worldkg.org/resource/61914065>	<RegionId>	13_27
+<http://www.worldkg.org/resource/1203032532>	<Point_pois-Within-Point_pois>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/5403868126>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/104984000>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/network>	network-NYC Subway
+<http://www.worldkg.org/resource/5673069>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/223486857>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/3623472008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/725335343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/196117055>	<RegionId>	13_27
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914065>
+<http://www.worldkg.org/resource/196117057>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/61914066>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1203032532>
+<http://www.worldkg.org/resource/275103020>	<RegionId>	13_27
+<http://www.worldkg.org/resource/61914066>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5671789>	<http://www.w3.org/2000/01/rdf-schema#label>	West 189th Street
+<http://www.worldkg.org/resource/61914066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/421840993>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/357624578>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2099805
+<http://www.worldkg.org/resource/2797628447>	<http://www.worldkg.org/schema/nameEn>	nameEn-Grito - Mexican Grill
+<http://www.worldkg.org/resource/3623507882>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/104984000>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/357624578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/104984000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/4233195990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Beverages>
+<http://www.worldkg.org/resource/5671789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/3623507882>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357624578>
+<http://www.worldkg.org/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/5673067>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1203032532>
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:191st Street station
+<http://www.worldkg.org/resource/196117055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/2797628447>	<http://www.w3.org/2000/01/rdf-schema#label>	Grito
+<http://www.worldkg.org/resource/61914066>	<RegionId>	13_27
+<http://www.worldkg.org/resource/734216064>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/5669666>
+<http://www.worldkg.org/resource/4248887014>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/725335343>
+<http://www.worldkg.org/resource/5673069>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/104984000>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5673067>	<http://www.worldkg.org/schema/cyclewayBoth>	cyclewayBoth-no
+<http://www.worldkg.org/resource/3623507882>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/421840993>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/5673067>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4248887014>
+<http://www.worldkg.org/resource/275103020>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/196117055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/104077634>	<http://www.worldkg.org/schema/ele>	ele-39
+<http://www.worldkg.org/resource/421840993>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/startDate>	startDate-1911-01-14
+<http://www.worldkg.org/resource/275103020>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/61914065>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/725335343>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/196117057>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/5671109>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/420874488>	<RegionId>	13_27
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Contain-Point_pois>	<http://www.worldkg.org/resource/1203032532>
+<http://www.worldkg.org/resource/4233195990>	<RegionId>	13_27
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117055>
+<http://www.worldkg.org/resource/2797628447>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420874488>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4233195990>
+<http://www.worldkg.org/resource/421840993>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/5671789>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/421840993>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5403868126>
+<http://www.worldkg.org/resource/4233195990>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<http://www.worldkg.org/resource/2797628447>	<http://www.worldkg.org/schema/cuisine>	cuisine-mexican
+<http://www.worldkg.org/resource/61914065>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/phone>	phone-+1-212-568-0367
+<http://www.worldkg.org/resource/420874488>	<http://www.worldkg.org/schema/onewayBicycle>	onewayBicycle-no
+<http://www.worldkg.org/resource/104077634>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2078994
+<http://www.worldkg.org/resource/196117057>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/5669666>	<RegionId>	13_27
+<http://www.worldkg.org/resource/5669666>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/223486858>	<RegionId>	13_27
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/nameRu>	nameRu-Бродвей
+<http://www.worldkg.org/resource/3623472008>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 10:30-20:00
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-separate
+<http://www.worldkg.org/resource/196117055>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/5669666>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/104984000>
+<http://www.worldkg.org/resource/61914066>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/5669666>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/196117057>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5403868126>
+<http://www.worldkg.org/resource/104984000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/725335343>	<http://www.w3.org/2000/01/rdf-schema#label>	Fine Fare
+<http://www.worldkg.org/resource/1203032532>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671109>
+<http://www.worldkg.org/resource/61914065>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1203032532>
+<http://www.worldkg.org/resource/5671789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3623472008>
+<http://www.worldkg.org/resource/223486857>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/5673067>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/104984000>	<http://www.w3.org/2000/01/rdf-schema#label>	Bennett Avenue
+<http://www.worldkg.org/resource/420874488>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673067>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275103020>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/5671789>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/61914066>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/2797628447>	<http://www.worldkg.org/schema/phone>	phone-2127950700
+<http://www.worldkg.org/resource/104077634>	<http://www.worldkg.org/schema/source>	source-http://www.nycgovparks.org/parks/M031/
+<http://www.worldkg.org/resource/734216064>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Tryon Gardens
+<http://www.worldkg.org/resource/357624578>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/height>	height-14.1
+<http://www.worldkg.org/resource/5673069>	<RegionId>	13_27
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/61914066>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/223486857>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4233195990>
+<http://www.worldkg.org/resource/223486857>	<RegionId>	13_27
+<http://www.worldkg.org/resource/196117055>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/104984000>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/734216064>
+<http://www.worldkg.org/resource/223486858>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673069>
+<http://www.worldkg.org/resource/5673067>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/5673067>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/223486857>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5403868126>
+<http://www.worldkg.org/resource/61914065>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/denomination>	denomination-greek_orthodox
+<http://www.worldkg.org/resource/5671109>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/734216064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/196117057>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117055>
+<http://www.worldkg.org/resource/223486857>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Avenue
+<http://www.worldkg.org/resource/5671109>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/4248887014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-4421
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/357624578>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/421840993>
+<http://www.worldkg.org/resource/5673067>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/61914065>
+<http://www.worldkg.org/resource/223486858>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5669666>
+<http://www.worldkg.org/resource/223486858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/196117055>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/5671789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/420874488>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5403868126>
+<http://www.worldkg.org/resource/196117055>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/421840993>
+<http://www.worldkg.org/resource/5673069>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<http://www.worldkg.org/resource/5669666>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/357624578>	<http://www.worldkg.org/schema/denomination>	denomination-ashkenazi_orthodox
+<http://www.worldkg.org/resource/1203032532>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Memorial>
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/2797628447>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/275103020>
+<http://www.worldkg.org/resource/223486858>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/5671789>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/223486858>
+<http://www.worldkg.org/resource/5671109>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1203032532>
+<http://www.worldkg.org/resource/223486858>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/734216064>
+<http://www.worldkg.org/resource/5671789>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/196117057>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/421840993>
+<http://www.worldkg.org/resource/5403868126>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/196117055>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4233195990>
+<http://www.worldkg.org/resource/5673067>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/725335343>
+<http://www.worldkg.org/resource/5403868126>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/61914066>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5981269523>
+<http://www.worldkg.org/resource/734216064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/LanduseResidential>
+<http://www.worldkg.org/resource/5669666>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/725335343>	<RegionId>	13_27
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874488>
+<http://www.worldkg.org/resource/5671109>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/2797628447>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/61914065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/223486858>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624578>
+<http://www.worldkg.org/resource/3623472008>	<RegionId>	13_27
+<http://www.worldkg.org/resource/61914066>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/61914065>
+<http://www.worldkg.org/resource/196117057>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4248887014>
+<http://www.worldkg.org/resource/3623472008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/223486858>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104984000>
+<http://www.worldkg.org/resource/421840993>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4233195990>
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3623472008>
+<http://www.worldkg.org/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117055>
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/cuisine>	cuisine-chinese
+<http://www.worldkg.org/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874488>
+<http://www.worldkg.org/resource/2797628447>	<RegionId>	13_27
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/421840993>
+<http://www.worldkg.org/resource/5673069>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/ref>	ref-US 9
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1063998
+<http://www.worldkg.org/resource/5673067>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5673069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5671109>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/421840993>
+<http://www.worldkg.org/resource/420874488>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/5671109>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Terrace
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-wlan
+<http://www.worldkg.org/resource/734216064>	<http://www.worldkg.org/schema/residential>	residential-apartments
+<http://www.worldkg.org/resource/104984000>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673069>
+<http://www.worldkg.org/resource/196117055>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/196117055>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/421840993>	<RegionId>	13_27
+<http://www.worldkg.org/resource/2797628447>	<http://www.worldkg.org/schema/website>	website-http://www.gritomexicangrill.com
+<http://www.worldkg.org/resource/5671109>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/421840993>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/223486857>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/3623472008>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/420874488>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Hill
+<http://www.worldkg.org/resource/357624578>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3623507882>
+<http://www.worldkg.org/resource/1203032532>	<http://www.worldkg.org/schema/source>	source-nycgovparks.org
+<http://www.worldkg.org/resource/725335343>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1617
+<http://www.worldkg.org/resource/5669666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914066>
+<http://www.worldkg.org/resource/5671109>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/subway>	subway-yes
+<http://www.worldkg.org/resource/275103020>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/2797628447>
+<http://www.worldkg.org/resource/421840993>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/operator>	operator-New York City Transit Authority
+<http://www.worldkg.org/resource/104077634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/61914066>	<http://www.w3.org/2000/01/rdf-schema#label>	Wadsworth Terrace
+<http://www.worldkg.org/resource/223486858>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3623472008>
+<http://www.worldkg.org/resource/734216064>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/104984000>
+<http://www.worldkg.org/resource/61914066>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/104077634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671789>
+<http://www.worldkg.org/resource/3623507882>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-4384
+<http://www.worldkg.org/resource/5403868126>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue & West 192nd Street
+<http://www.worldkg.org/resource/1203032532>	<RegionId>	13_27
+<http://www.worldkg.org/resource/223486857>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/5981269523>	<RegionId>	13_27
+<http://www.worldkg.org/resource/61914065>	<http://www.worldkg.org/schema/cyclewayBoth>	cyclewayBoth-no
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673067>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/4248887014>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117057>
+<http://www.worldkg.org/resource/420874488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/196117057>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4233195990>
+<http://www.worldkg.org/resource/5981269523>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/223486857>
+<http://www.worldkg.org/resource/3623507882>	<RegionId>	13_27
+<http://www.worldkg.org/resource/223486858>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/5673069>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104984000>
+<http://www.worldkg.org/resource/4248887014>	<http://www.worldkg.org/schema/station>	station-subway
+<http://www.worldkg.org/resource/223486857>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5981269523>
+<http://www.worldkg.org/resource/223486858>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671789>
+<http://www.worldkg.org/resource/725335343>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/ShopSupermarket>
+<http://www.worldkg.org/resource/223486857>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275103020>
+<http://www.worldkg.org/resource/61914066>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671109>
+<http://www.worldkg.org/resource/1203032532>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5403868126>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4233195990>
+<http://www.worldkg.org/resource/3623472008>	<http://www.w3.org/2000/01/rdf-schema#label>	Chan's Kitchen
+<http://www.worldkg.org/resource/4248887014>	<http://www.w3.org/2000/01/rdf-schema#label>	191st Street
+<http://www.worldkg.org/resource/196117055>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874488>
+<http://www.worldkg.org/resource/5403868126>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117055>
+<http://www.worldkg.org/resource/223486857>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914065>
+<http://www.worldkg.org/resource/5671789>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/725335343>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673067>
+<http://www.worldkg.org/resource/3623507882>	<http://www.w3.org/2000/01/rdf-schema#label>	La Cabana Salvadorena
+<http://www.worldkg.org/resource/104984000>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/5981269523>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/61914065>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671109>
+<http://www.worldkg.org/resource/223486858>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3623507882>
+<http://www.worldkg.org/resource/725335343>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4248887014>
+<http://www.worldkg.org/resource/61914065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/275103020>	<http://www.w3.org/2000/01/rdf-schema#label>	Sts. Anargyroi Greek Orthodox Church
+<http://www.worldkg.org/resource/61914066>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104077634>
+<http://www.worldkg.org/resource/275103020>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/5673069>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/5671789>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/357624578>	<http://www.worldkg.org/schema/ele>	ele-35
+<http://www.worldkg.org/resource/223486858>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/223486858>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/5403868126>	<RegionId>	13_27
+<http://www.worldkg.org/resource/5671109>	<RegionId>	13_27
+<http://www.worldkg.org/resource/421840993>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph

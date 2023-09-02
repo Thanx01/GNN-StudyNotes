@@ -1,0 +1,340 @@
+<http://www.worldkg.org/resource/9702602>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46618199>
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/tunnel>	tunnel-yes
+<http://www.worldkg.org/resource/46617000>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/33146406>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/226126658>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/46592773>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/hgv>	hgv-designated
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592773>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/owner>	owner-Amtrak
+<http://www.worldkg.org/resource/226126658>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:George Washington Bridge
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46592770>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/layer>	layer-2
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46592772>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Park Greenway
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946881>
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/196946301>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/cutting>	cutting-yes
+<http://www.worldkg.org/resource/226126658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46618199>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/5670670>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/usage>	usage-branch
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/horse>	horse-no
+<http://www.worldkg.org/resource/1761539675>	<Point_pofw-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/278618232>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46592773>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46592770>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson River Greenway
+<http://www.worldkg.org/resource/196946879>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46617000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/196946879>	<http://www.w3.org/2000/01/rdf-schema#label>	West 186th Street
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/9702602>
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/electrified>	electrified-no
+<http://www.worldkg.org/resource/196946879>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/foot>	foot-no
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/usage>	usage-branch
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/tracktype>	tracktype-grade1
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/surface>	surface-paved
+<http://www.worldkg.org/resource/226126658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/278618232>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/1761539675>	<http://www.worldkg.org/schema/religion>	religion-jewish
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226126658>
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/motorcar>	motorcar-designated
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/surface>	surface-paved;wood
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/196946881>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/46592773>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-right
+<http://www.worldkg.org/resource/9702602>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/cutting>	cutting-yes
+<http://www.worldkg.org/resource/196946881>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-1
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/46618199>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/bicycle>	bicycle-no
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-2
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/46592767>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/bridge>	bridge-yes
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/9702602>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/notName>	notName-West Side Highway
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/46592771>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/ref>	ref-I 95;US 1
+<http://www.worldkg.org/resource/275096168>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/tracktype>	tracktype-grade1
+<http://www.worldkg.org/resource/46617000>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/226126658>
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/motorcar>	motorcar-designated
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275096168>
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/1761539675>	<http://www.w3.org/2000/01/rdf-schema#label>	Bais Medrash Machzikei Torah
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946879>
+<http://www.worldkg.org/resource/1761539675>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670670>
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/surface>	surface-paved
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/inlineSkates>	inlineSkates-yes
+<http://www.worldkg.org/resource/278618232>	<RegionId>	13_19
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/226126658>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592773>
+<http://www.worldkg.org/resource/46592773>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/9702602>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/196946879>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/46618199>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/bridge>	bridge-yes
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/46592773>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/226126658>
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/toll>	toll-no
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/ref>	ref-I 95;US 1;US 9
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/description>	description-Amtrak Bridge on the Hudson River Greenway near W180th St has been reopened, at least temporarily, following temporary closure [source: https://nyc.streetsblog.org/2018/11/09/crucial-greenway-bridge-reopens/]
+<http://www.worldkg.org/resource/532037969>	<http://www.w3.org/2000/01/rdf-schema#label>	West Side Line
+<http://www.worldkg.org/resource/5670670>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/46592767>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46592773>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226126658>
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/5670670>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1761539675>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907V
+<http://www.worldkg.org/resource/196946881>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46617000>
+<http://www.worldkg.org/resource/5670670>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226126658>
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/160062002>	<http://www.w3.org/2000/01/rdf-schema#label>	West Side Line
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/surface>	surface-concrete
+<http://www.worldkg.org/resource/196946879>	<RegionId>	13_19
+<http://www.worldkg.org/resource/9702602>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/9702602>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/9702602>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/46592771>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/196946881>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/inlineSkates>	inlineSkates-yes
+<http://www.worldkg.org/resource/226126658>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/layer>	layer-1
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<http://www.worldkg.org/resource/5670670>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/275096168>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46617000>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/46618199>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/1761539675>	<RegionId>	13_19
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/275096168>	<http://www.w3.org/2000/01/rdf-schema#label>	Inspiration Point
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/226126658>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/foot>	foot-no
+<http://www.worldkg.org/resource/46592767>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Park Greenway
+<http://www.worldkg.org/resource/160062002>	<RegionId>	13_19
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/532037969>	<Line_railway-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-55 mph
+<http://www.worldkg.org/resource/160062002>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/275096168>	<http://www.worldkg.org/schema/height>	height-11.5
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-55 mph
+<http://www.worldkg.org/resource/5670670>	<http://www.w3.org/2000/01/rdf-schema#label>	West 181st Street
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/46618199>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/226126658>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670670>
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/9702602>
+<http://www.worldkg.org/resource/5670670>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592773>
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46592769>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Park Greenway
+<http://www.worldkg.org/resource/196946881>	<http://www.w3.org/2000/01/rdf-schema#label>	Chittenden Avenue
+<http://www.worldkg.org/resource/46592773>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/196946301>	<Point_pofw-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/1761539675>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/operator>	operator-Amtrak
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/bridge>	bridge-yes
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/46592773>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46592772>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Path>
+<http://www.worldkg.org/resource/46617000>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/1761539675>	<http://www.worldkg.org/schema/denomination>	denomination-orthodox_sephardi
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/tracktype>	tracktype-grade1
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592773>
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/46592769>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46617000>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196946881>
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/278618232>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/46592767>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Path>
+<http://www.worldkg.org/resource/196946881>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/1761539675>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/196946879>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/operator>	operator-Amtrak
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/inlineSkates>	inlineSkates-yes
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/layer>	layer-1
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/5670670>
+<http://www.worldkg.org/resource/46618199>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/goods>	goods-no
+<http://www.worldkg.org/resource/196946301>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/46592773>
+<http://www.worldkg.org/resource/46617000>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/46592772>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46592771>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Path>
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/46592773>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907V
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/9702602>
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592771>
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/surface>	surface-paved
+<http://www.worldkg.org/resource/532037969>	<RegionId>	13_19
+<http://www.worldkg.org/resource/160062002>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Rail>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/532037969>	<http://www.worldkg.org/schema/electrified>	electrified-no
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46618199>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/ref>	ref-HH;NY 9A
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/surface>	surface-paved
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/notName>	notName-West Side Highway
+<http://www.worldkg.org/resource/196946881>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196946879>
+<http://www.worldkg.org/resource/46592773>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-shared_lane
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/46617000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/46617000>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46592769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Path>
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/tracktype>	tracktype-grade1
+<http://www.worldkg.org/resource/196946879>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/46592770>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/160062002>
+<http://www.worldkg.org/resource/46592771>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Park Greenway
+<http://www.worldkg.org/resource/46617000>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<http://www.worldkg.org/resource/9702602>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington Bridge (upper level)
+<http://www.worldkg.org/resource/46592770>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/tracktype>	tracktype-grade1
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/source>	source-local knowledge
+<http://www.worldkg.org/resource/46592772>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/196946301>	<RegionId>	13_19
+<http://www.worldkg.org/resource/160062002>	<Line_railway-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/196946301>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/LanduseResidential>
+<http://www.worldkg.org/resource/196946879>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196946881>
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/toll>	toll-no
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/46618199>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/bicycle>	bicycle-no
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/278618232>
+<http://www.worldkg.org/resource/275096168>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/33146406>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/inlineSkates>	inlineSkates-yes
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/layer>	layer-1
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/46592771>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/toll>	toll-no
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46618199>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/9702602>
+<http://www.worldkg.org/resource/226126658>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46618199>	<RegionId>	13_19
+<http://www.worldkg.org/resource/160062002>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/1761539675>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/226126658>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/33146406>
+<http://www.worldkg.org/resource/46592773>	<http://www.w3.org/2000/01/rdf-schema#label>	Lafayette Plaza
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/196946881>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/inlineSkates>	inlineSkates-yes
+<http://www.worldkg.org/resource/46592770>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Path>
+<http://www.worldkg.org/resource/532037969>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Rail>
+<http://www.worldkg.org/resource/160062002>	<http://www.worldkg.org/schema/owner>	owner-Amtrak
+<http://www.worldkg.org/resource/46592773>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46618199>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/532037969>
+<http://www.worldkg.org/resource/46592773>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670670>
+<http://www.worldkg.org/resource/226126658>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/46617000>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:George Washington Bridge
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/196946879>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/196946301>	<http://www.w3.org/2000/01/rdf-schema#label>	Castle Village
+<http://www.worldkg.org/resource/532037969>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/33146406>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/horse>	horse-no
+<http://www.worldkg.org/resource/46592773>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592767>
+<http://www.worldkg.org/resource/5670670>	<RegionId>	13_19
+<http://www.worldkg.org/resource/196946881>	<RegionId>	13_19
+<http://www.worldkg.org/resource/46592767>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/196946301>
+<http://www.worldkg.org/resource/226126658>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46618199>	<http://www.w3.org/2000/01/rdf-schema#label>	George Washington Bridge (lower level)
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/278618232>	<http://www.worldkg.org/schema/ref>	ref-HH;NY 9A
+<http://www.worldkg.org/resource/46592769>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46592770>
+<http://www.worldkg.org/resource/46592770>	<http://www.worldkg.org/schema/bridge>	bridge-trestle
+<http://www.worldkg.org/resource/196946881>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-both
+<http://www.worldkg.org/resource/5670670>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/46592767>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/5670670>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/46592772>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/46592772>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/33146406>	<RegionId>	13_19
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/toll>	toll-no
+<http://www.worldkg.org/resource/226126658>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/532037969>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46592769>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/46592769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/275096168>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1089184
+<http://www.worldkg.org/resource/33146406>	<http://www.worldkg.org/schema/goods>	goods-no
+<http://www.worldkg.org/resource/46592771>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/33146406>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592769>
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46592772>
+<http://www.worldkg.org/resource/9702602>	<http://www.worldkg.org/schema/surface>	surface-concrete
+<http://www.worldkg.org/resource/278618232>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/33146406>

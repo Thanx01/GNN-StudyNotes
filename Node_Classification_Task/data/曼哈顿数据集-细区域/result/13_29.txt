@@ -1,0 +1,137 @@
+<http://www.worldkg.org/resource/275113779>	<http://www.w3.org/2000/01/rdf-schema#label>	Intermediate School 218
+<http://www.worldkg.org/resource/275114059>	<http://www.worldkg.org/schema/height>	height-20.9
+<http://www.worldkg.org/resource/5672050>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/5671703>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275114046>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1064216
+<http://www.worldkg.org/resource/275114046>	<http://www.w3.org/2000/01/rdf-schema#label>	35 Thayer
+<http://www.worldkg.org/resource/275114059>	<http://www.w3.org/2000/01/rdf-schema#label>	Kingdom Hall of Jehovah's Witnesses
+<http://www.worldkg.org/resource/275114059>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275114046>
+<http://www.worldkg.org/resource/275114059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/357624576>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734864202>
+<http://www.worldkg.org/resource/5669981>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673361>
+<http://www.worldkg.org/resource/357624576>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5673361>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275114059>
+<http://www.worldkg.org/resource/275114046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/275114046>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-35
+<http://www.worldkg.org/resource/275114059>	<RegionId>	13_29
+<http://www.worldkg.org/resource/5671703>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5669981>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5671645>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/275114046>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/5673361>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624576>
+<http://www.worldkg.org/resource/734864203>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/734864202>
+<http://www.worldkg.org/resource/275114059>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/275114046>	<http://www.worldkg.org/schema/height>	height-18.7
+<http://www.worldkg.org/resource/5671703>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/357624576>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5669981>
+<http://www.worldkg.org/resource/5669981>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671645>
+<http://www.worldkg.org/resource/275113779>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingSchool>
+<http://www.worldkg.org/resource/5672050>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/489170296>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5669981>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673361>	<http://www.w3.org/2000/01/rdf-schema#label>	Thayer Street
+<http://www.worldkg.org/resource/275114059>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/275113779>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5671703>
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1076756
+<http://www.worldkg.org/resource/489170296>	<RegionId>	13_29
+<http://www.worldkg.org/resource/357624576>	<Point_pofw-Within-Point_pofw>	<http://www.worldkg.org/resource/275114059>
+<http://www.worldkg.org/resource/489170296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/357624576>	<http://www.worldkg.org/schema/ele>	ele-8
+<http://www.worldkg.org/resource/5672050>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/734864203>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-separate
+<http://www.worldkg.org/resource/357624576>	<http://www.worldkg.org/schema/denomination>	denomination-jehovahs_witness
+<http://www.worldkg.org/resource/489170296>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5669679>
+<http://www.worldkg.org/resource/5671703>	<http://www.w3.org/2000/01/rdf-schema#label>	West 196th Street
+<http://www.worldkg.org/resource/5673361>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673361>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5669981>
+<http://www.worldkg.org/resource/357624576>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2099804
+<http://www.worldkg.org/resource/5673361>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275114046>
+<http://www.worldkg.org/resource/734864203>	<RegionId>	13_29
+<http://www.worldkg.org/resource/734864202>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/5669679>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5669981>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275114059>
+<http://www.worldkg.org/resource/734864202>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/734864203>
+<http://www.worldkg.org/resource/275113779>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/489170296>
+<http://www.worldkg.org/resource/5671645>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/734864203>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673361>
+<http://www.worldkg.org/resource/275113779>	<RegionId>	13_29
+<http://www.worldkg.org/resource/734864203>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Hill
+<http://www.worldkg.org/resource/357624576>	<http://www.w3.org/2000/01/rdf-schema#label>	Kingdom Hall of Jehovah's Witnesses
+<http://www.worldkg.org/resource/5671645>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5669981>
+<http://www.worldkg.org/resource/734864202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/5673361>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5669981>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/275114059>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5669981>
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-4600
+<http://www.worldkg.org/resource/734864202>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/489170296>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671703>
+<http://www.worldkg.org/resource/357624576>	<RegionId>	13_29
+<http://www.worldkg.org/resource/5671645>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5669981>	<http://www.w3.org/2000/01/rdf-schema#label>	Arden Street
+<http://www.worldkg.org/resource/5671703>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275113779>
+<http://www.worldkg.org/resource/5673361>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5669679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/275114046>	<RegionId>	13_29
+<http://www.worldkg.org/resource/5672050>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<http://www.worldkg.org/resource/734864202>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5671645>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5669679>
+<http://www.worldkg.org/resource/5669679>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-lane
+<http://www.worldkg.org/resource/5671645>	<http://www.w3.org/2000/01/rdf-schema#label>	Sickles Street
+<http://www.worldkg.org/resource/275113779>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5669679>
+<http://www.worldkg.org/resource/734864203>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/5669679>	<RegionId>	13_29
+<http://www.worldkg.org/resource/275114046>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5673361>
+<http://www.worldkg.org/resource/357624576>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/734864202>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/5673361>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734864202>
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083896
+<http://www.worldkg.org/resource/734864202>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/275114059>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1064180
+<http://www.worldkg.org/resource/5672050>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/275114059>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734864202>
+<http://www.worldkg.org/resource/5673361>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/ele>	ele-11
+<http://www.worldkg.org/resource/5669679>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275113779>
+<http://www.worldkg.org/resource/275113779>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5672050>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5673361>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734864203>
+<http://www.worldkg.org/resource/734864202>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<http://www.worldkg.org/resource/734864202>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275114059>
+<http://www.worldkg.org/resource/275114046>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5672050>	<RegionId>	13_29
+<http://www.worldkg.org/resource/489170296>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5669679>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671645>
+<http://www.worldkg.org/resource/275114059>	<Point_pofw-Contain-Point_pofw>	<http://www.worldkg.org/resource/357624576>
+<http://www.worldkg.org/resource/734864202>	<RegionId>	13_29
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/height>	height-28.9
+<http://www.worldkg.org/resource/275114046>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-5
+<http://www.worldkg.org/resource/357624576>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/489170296>	<http://www.w3.org/2000/01/rdf-schema#label>	Ellwood Street
+<http://www.worldkg.org/resource/5671703>	<RegionId>	13_29
+<http://www.worldkg.org/resource/5669679>	<http://www.w3.org/2000/01/rdf-schema#label>	Sherman Avenue
+<http://www.worldkg.org/resource/5669981>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624576>
+<http://www.worldkg.org/resource/5671645>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/489170296>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5672050>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/5671703>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/275114059>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673361>
+<http://www.worldkg.org/resource/5669679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5671703>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/489170296>
+<http://www.worldkg.org/resource/734864202>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624576>
+<http://www.worldkg.org/resource/5673361>	<RegionId>	13_29
+<http://www.worldkg.org/resource/357624576>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673361>
+<http://www.worldkg.org/resource/734864202>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673361>
+<http://www.worldkg.org/resource/734864203>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/489170296>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275113779>
+<http://www.worldkg.org/resource/5669679>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/489170296>
+<http://www.worldkg.org/resource/5669981>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/275113779>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-5
+<http://www.worldkg.org/resource/734864203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/734864203>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/734864202>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-separate
+<http://www.worldkg.org/resource/734864203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/275114059>	<http://www.worldkg.org/schema/denomination>	denomination-jehovahs_witness
+<http://www.worldkg.org/resource/275114046>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275114059>
+<http://www.worldkg.org/resource/5669981>	<RegionId>	13_29
+<http://www.worldkg.org/resource/5671645>	<RegionId>	13_29

@@ -1,0 +1,158 @@
+<http://www.worldkg.org/resource/664315722>	<RegionId>	12_3
+<http://www.worldkg.org/resource/6899386345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pharmacy>
+<http://www.worldkg.org/resource/357621351>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6899386345>
+<http://www.worldkg.org/resource/6001869972>	<http://www.worldkg.org/schema/bench>	bench-no
+<http://www.worldkg.org/resource/6001375861>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001869972>
+<http://www.worldkg.org/resource/6217812888>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<http://www.worldkg.org/resource/4969057543>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670261>
+<http://www.worldkg.org/resource/6217812888>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46693868>
+<http://www.worldkg.org/resource/6001370411>	<http://www.worldkg.org/schema/operatorType>	operatorType-public
+<http://www.worldkg.org/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621351>
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/onewayBicycle>	onewayBicycle-no
+<http://www.worldkg.org/resource/664315722>	<http://www.w3.org/2000/01/rdf-schema#label>	Lovina House
+<http://www.worldkg.org/resource/664315722>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/5670261>	<RegionId>	12_3
+<http://www.worldkg.org/resource/6001375861>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670261>
+<http://www.worldkg.org/resource/357621351>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/6001370411>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670261>
+<http://www.worldkg.org/resource/6001370411>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/664315722>
+<http://www.worldkg.org/resource/4969057544>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-83
+<http://www.worldkg.org/resource/4969057543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6680630112>	<http://www.worldkg.org/schema/brand>	brand-USPS
+<http://www.worldkg.org/resource/6217812888>	<http://www.worldkg.org/schema/operatorType>	operatorType-public
+<http://www.worldkg.org/resource/46693868>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6899386345>	<http://www.worldkg.org/schema/dispensing>	dispensing-yes
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7022680977>
+<http://www.worldkg.org/resource/6899386345>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6899386345>	<RegionId>	12_3
+<http://www.worldkg.org/resource/7022680977>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46693868>
+<http://www.worldkg.org/resource/6680630112>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<http://www.worldkg.org/resource/6001370411>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001375861>
+<http://www.worldkg.org/resource/6899386345>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7022680977>
+<http://www.worldkg.org/resource/5670261>	<http://www.w3.org/2000/01/rdf-schema#label>	East 110th Street
+<http://www.worldkg.org/resource/6001370411>	<http://www.worldkg.org/schema/brand>	brand-USPS
+<http://www.worldkg.org/resource/6680630112>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001370411>
+<http://www.worldkg.org/resource/6001869972>	<RegionId>	12_3
+<http://www.worldkg.org/resource/5670261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/6001375861>	<http://www.worldkg.org/schema/organic>	organic-yes
+<http://www.worldkg.org/resource/664315722>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/6001370411>
+<http://www.worldkg.org/resource/6001869972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6001370411>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostBox>
+<http://www.worldkg.org/resource/4969057543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Convenience>
+<http://www.worldkg.org/resource/6217812888>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/6001869972>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue & East 111th Street
+<http://www.worldkg.org/resource/6001370411>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/4969057544>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4969057543>
+<http://www.worldkg.org/resource/7022680977>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6899386345>
+<http://www.worldkg.org/resource/6217812888>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621351>
+<http://www.worldkg.org/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4969057543>
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<http://www.worldkg.org/resource/6217812888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostBox>
+<http://www.worldkg.org/resource/664315722>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/4969057544>
+<http://www.worldkg.org/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6001375861>
+<http://www.worldkg.org/resource/7022680977>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6217812888>
+<http://www.worldkg.org/resource/6001869972>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6001370411>	<RegionId>	12_3
+<http://www.worldkg.org/resource/664315722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5670261>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/6217812888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6680630112>	<http://www.worldkg.org/schema/operator>	operator-United States Postal Service
+<http://www.worldkg.org/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6001370411>
+<http://www.worldkg.org/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6001375861>
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-lane
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/357621351>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46693868>
+<http://www.worldkg.org/resource/6001370411>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q668687
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/5670261>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46693868>
+<http://www.worldkg.org/resource/6001375861>	<http://www.worldkg.org/schema/airConditioning>	airConditioning-yes
+<http://www.worldkg.org/resource/6217812888>	<RegionId>	12_3
+<http://www.worldkg.org/resource/7022680977>	<http://www.w3.org/2000/01/rdf-schema#label>	Maxwell’s
+<http://www.worldkg.org/resource/46693868>	<http://www.w3.org/2000/01/rdf-schema#label>	East 110th Street
+<http://www.worldkg.org/resource/6680630112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6680630112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostBox>
+<http://www.worldkg.org/resource/6001370411>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001869972>
+<http://www.worldkg.org/resource/6001375861>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/ShopSupermarket>
+<http://www.worldkg.org/resource/6001869972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/4969057544>	<http://www.w3.org/2000/01/rdf-schema#label>	S & J Laundromat
+<http://www.worldkg.org/resource/6001375861>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/4969057543>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/664315722>
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/6001375861>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1660
+<http://www.worldkg.org/resource/6001370411>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/6217812888>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7022680977>
+<http://www.worldkg.org/resource/4969057544>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6680630112>	<http://www.worldkg.org/schema/operatorType>	operatorType-public
+<http://www.worldkg.org/resource/5670261>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4969057544>
+<http://www.worldkg.org/resource/664315722>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/46693868>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670261>
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6217812888>	<http://www.worldkg.org/schema/operator>	operator-United States Postal Service
+<http://www.worldkg.org/resource/6001370411>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<http://www.worldkg.org/resource/664315722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/664315722>	<http://www.worldkg.org/schema/phone>	phone-+1-917-406-3123
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/6680630112>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/46693868>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6217812888>
+<http://www.worldkg.org/resource/6680630112>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001869972>
+<http://www.worldkg.org/resource/357621351>	<http://www.worldkg.org/schema/ele>	ele-6
+<http://www.worldkg.org/resource/6001370411>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6001375861>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001370411>
+<http://www.worldkg.org/resource/6001375861>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-no
+<http://www.worldkg.org/resource/664315722>	<http://www.worldkg.org/schema/website>	website-https://www.lovinahouse.com/
+<http://www.worldkg.org/resource/4969057544>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670261>
+<http://www.worldkg.org/resource/6001370411>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6680630112>
+<http://www.worldkg.org/resource/6680630112>	<RegionId>	12_3
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-lane
+<http://www.worldkg.org/resource/6001869972>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6680630112>
+<http://www.worldkg.org/resource/357621351>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7022680977>
+<http://www.worldkg.org/resource/357621351>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083884
+<http://www.worldkg.org/resource/664315722>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-71
+<http://www.worldkg.org/resource/357621351>	<RegionId>	12_3
+<http://www.worldkg.org/resource/4969057543>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4969057544>
+<http://www.worldkg.org/resource/7022680977>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Bar>
+<http://www.worldkg.org/resource/6001869972>	<http://www.worldkg.org/schema/routeRef>	routeRef-M1;M1ltd
+<http://www.worldkg.org/resource/46693868>	<RegionId>	12_3
+<http://www.worldkg.org/resource/357621351>	<http://www.w3.org/2000/01/rdf-schema#label>	Northside Center Day School
+<http://www.worldkg.org/resource/6217812888>	<http://www.worldkg.org/schema/brand>	brand-USPS
+<http://www.worldkg.org/resource/6001869972>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001370411>
+<http://www.worldkg.org/resource/357621351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/4969057544>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Laundry>
+<http://www.worldkg.org/resource/6217812888>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q668687
+<http://www.worldkg.org/resource/6899386345>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621351>
+<http://www.worldkg.org/resource/46693868>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/357621351>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1302
+<http://www.worldkg.org/resource/6680630112>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q668687
+<http://www.worldkg.org/resource/6001375861>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/7022680977>	<RegionId>	12_3
+<http://www.worldkg.org/resource/6680630112>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/6899386345>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue Pharmacy
+<http://www.worldkg.org/resource/46693868>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/6001869972>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/7022680977>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621351>
+<http://www.worldkg.org/resource/4969057543>	<RegionId>	12_3
+<http://www.worldkg.org/resource/7022680977>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670261>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/664315722>
+<http://www.worldkg.org/resource/6001370411>	<http://www.worldkg.org/schema/operator>	operator-United States Postal Service
+<http://www.worldkg.org/resource/6001375861>	<RegionId>	12_3
+<http://www.worldkg.org/resource/4969057543>	<http://www.w3.org/2000/01/rdf-schema#label>	Shop Smart Food Center
+<http://www.worldkg.org/resource/6001375861>	<http://www.w3.org/2000/01/rdf-schema#label>	NYC Fresh Market
+<http://www.worldkg.org/resource/357621351>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6217812888>
+<http://www.worldkg.org/resource/357621351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6001869972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/6217812888>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/6001869972>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6001375861>
+<http://www.worldkg.org/resource/6001375861>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46693868>
+<http://www.worldkg.org/resource/664315722>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670261>
+<http://www.worldkg.org/resource/664315722>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/4969057543>
+<http://www.worldkg.org/resource/4969057544>	<RegionId>	12_3
+<http://www.worldkg.org/resource/664315722>	<http://www.worldkg.org/schema/email>	email-thelovinahouse@gmail.com
+<http://www.worldkg.org/resource/5670261>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/4969057544>	<http://www.worldkg.org/schema/phone>	phone-+1-212-996-0400
+<http://www.worldkg.org/resource/4969057544>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/664315722>

@@ -1,0 +1,146 @@
+<http://www.worldkg.org/resource/104502445>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5406637838>
+<http://www.worldkg.org/resource/104502445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/517694722>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5984057921>
+<http://www.worldkg.org/resource/5406637838>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5984057921>
+<http://www.worldkg.org/resource/275117815>	<http://www.w3.org/2000/01/rdf-schema#label>	Beth Medrash Jeshurun
+<http://www.worldkg.org/resource/5406637838>	<RegionId>	13_7
+<http://www.worldkg.org/resource/275110416>	<http://www.worldkg.org/schema/height>	height-15.0
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-no
+<http://www.worldkg.org/resource/275117815>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/275110416>	<http://www.w3.org/2000/01/rdf-schema#label>	Evangelical Lutheran Church of Our Saviours Atonement
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5673064>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/275117832>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5673064>
+<http://www.worldkg.org/resource/104502445>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/517694723>
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<http://www.worldkg.org/resource/104502445>	<http://www.w3.org/2000/01/rdf-schema#label>	Margaret Corbin Plaza
+<http://www.worldkg.org/resource/5984057921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/5406637838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5673064>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5673064>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<http://www.worldkg.org/resource/517694723>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/104502445>
+<http://www.worldkg.org/resource/61914064>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/5406637838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwayStation>
+<http://www.worldkg.org/resource/61914064>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<http://www.worldkg.org/resource/275117815>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/517694723>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5406637838>
+<http://www.worldkg.org/resource/104502445>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/517694722>
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/operator>	operator-New York City Transit Authority
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<http://www.worldkg.org/resource/275110416>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275117832>
+<http://www.worldkg.org/resource/517694723>	<RegionId>	13_7
+<http://www.worldkg.org/resource/5406637838>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104502445>
+<http://www.worldkg.org/resource/61914064>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/275117832>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1064472
+<http://www.worldkg.org/resource/275110416>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5406637838>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/517694722>
+<http://www.worldkg.org/resource/61914064>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<http://www.worldkg.org/resource/275117815>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-220
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/tactilePaving>	tactilePaving-no
+<http://www.worldkg.org/resource/5673064>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/5406637838>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportStation>
+<http://www.worldkg.org/resource/61914064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/61914064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5673064>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275117832>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/104502445>	<RegionId>	13_7
+<http://www.worldkg.org/resource/275117832>	<http://www.w3.org/2000/01/rdf-schema#label>	Ft Tryon Nursing Home
+<http://www.worldkg.org/resource/517694722>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104502445>
+<http://www.worldkg.org/resource/5406637838>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/517694723>
+<http://www.worldkg.org/resource/275117832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/275117832>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275110416>
+<http://www.worldkg.org/resource/275117815>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1084216
+<http://www.worldkg.org/resource/61914064>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226010206>
+<http://www.worldkg.org/resource/5673064>	<http://www.w3.org/2000/01/rdf-schema#label>	West 190th Street
+<http://www.worldkg.org/resource/226010206>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5984057921>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5406637838>
+<http://www.worldkg.org/resource/275117815>	<http://www.worldkg.org/schema/height>	height-2.6
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-lane
+<http://www.worldkg.org/resource/275117832>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275117815>
+<http://www.worldkg.org/resource/517694722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-wlan
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/incline>	incline-down
+<http://www.worldkg.org/resource/517694722>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/517694723>
+<http://www.worldkg.org/resource/5984057921>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue & Cabrini Boulevard
+<http://www.worldkg.org/resource/5984057921>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/104502445>
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/104502445>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5984057921>
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/stepCount>	stepCount-130
+<http://www.worldkg.org/resource/517694722>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5406637838>
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/routeRef>	routeRef-M4;M98ltd
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/5673064>	<RegionId>	13_7
+<http://www.worldkg.org/resource/61914064>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275117832>	<RegionId>	13_7
+<http://www.worldkg.org/resource/275117815>	<RegionId>	13_7
+<http://www.worldkg.org/resource/5984057921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/226010206>	<RegionId>	13_7
+<http://www.worldkg.org/resource/5984057921>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/517694722>
+<http://www.worldkg.org/resource/5984057921>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/station>	station-subway
+<http://www.worldkg.org/resource/275117815>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275117832>
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/startDate>	startDate-1932-09-10
+<http://www.worldkg.org/resource/275117832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingCommercial>
+<http://www.worldkg.org/resource/275117832>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-6
+<http://www.worldkg.org/resource/226010206>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Steps>
+<http://www.worldkg.org/resource/517694722>	<RegionId>	13_7
+<http://www.worldkg.org/resource/275110416>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5673064>
+<http://www.worldkg.org/resource/5673064>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275117832>
+<http://www.worldkg.org/resource/517694723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/bin>	bin-no
+<http://www.worldkg.org/resource/226010206>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/61914064>
+<http://www.worldkg.org/resource/5673064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5984057921>	<RegionId>	13_7
+<http://www.worldkg.org/resource/275117815>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5673064>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275110416>
+<http://www.worldkg.org/resource/275117832>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-801
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/junction>	junction-roundabout
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/subway>	subway-yes
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<http://www.worldkg.org/resource/517694723>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Unclassified>
+<http://www.worldkg.org/resource/517694723>	<http://www.w3.org/2000/01/rdf-schema#label>	Margaret Corbin Plaza
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-lane
+<http://www.worldkg.org/resource/275110416>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/surface>	surface-concrete
+<http://www.worldkg.org/resource/275110416>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-178
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/level>	level--2
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:190th Street station
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/104502445>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/104502445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Unclassified>
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-lane
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/foot>	foot-designated
+<http://www.worldkg.org/resource/61914064>	<RegionId>	13_7
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/handrail>	handrail-yes
+<http://www.worldkg.org/resource/61914064>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-20 mph
+<http://www.worldkg.org/resource/517694722>	<http://www.w3.org/2000/01/rdf-schema#label>	Margaret Corbin Plaza
+<http://www.worldkg.org/resource/5673064>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/5673064>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/bench>	bench-no
+<http://www.worldkg.org/resource/226010206>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/junction>	junction-roundabout
+<http://www.worldkg.org/resource/226010206>	<http://www.worldkg.org/schema/ramp>	ramp-no
+<http://www.worldkg.org/resource/5984057921>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/517694723>
+<http://www.worldkg.org/resource/275110416>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1064455
+<http://www.worldkg.org/resource/5406637838>	<http://www.w3.org/2000/01/rdf-schema#label>	190th Street
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/wikimediaCommons>	wikimediaCommons-Category:190th Street (IND Eighth Avenue Line)
+<http://www.worldkg.org/resource/275110416>	<RegionId>	13_7
+<http://www.worldkg.org/resource/275117832>	<http://www.worldkg.org/schema/height>	height-24.1
+<http://www.worldkg.org/resource/5984057921>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/517694722>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Unclassified>
+<http://www.worldkg.org/resource/275117815>	<http://www.worldkg.org/schema/religion>	religion-jewish
+<http://www.worldkg.org/resource/517694723>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/517694722>
+<http://www.worldkg.org/resource/517694723>	<http://www.worldkg.org/schema/junction>	junction-roundabout
+<http://www.worldkg.org/resource/5406637838>	<http://www.worldkg.org/schema/network>	network-NYC Subway
+<http://www.worldkg.org/resource/517694722>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/517694723>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5984057921>

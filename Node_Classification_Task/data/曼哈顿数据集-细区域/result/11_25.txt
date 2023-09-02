@@ -1,0 +1,121 @@
+<http://www.worldkg.org/resource/5415653037>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4111168991>
+<http://www.worldkg.org/resource/5415654673>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/243056519>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/664893485>
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/website>	website-https://www.starbucks.com/store-locator/store/18230/145th-bradhurst-301-w-145th-st-new-york-ny-100393159-us
+<http://www.worldkg.org/resource/4450364090>	<http://www.w3.org/2000/01/rdf-schema#label>	Manhattanville Coffee
+<http://www.worldkg.org/resource/5415653037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/243056519>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670851>
+<http://www.worldkg.org/resource/4111168991>	<http://www.w3.org/2000/01/rdf-schema#label>	Starbucks
+<http://www.worldkg.org/resource/5415653037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/5670851>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5415654673>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664893485>
+<http://www.worldkg.org/resource/664893485>	<RegionId>	11_25
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/6296848388>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 10:00-22:00
+<http://www.worldkg.org/resource/243056519>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6296848388>
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10039
+<http://www.worldkg.org/resource/243046574>	<RegionId>	11_25
+<http://www.worldkg.org/resource/4450364090>	<RegionId>	11_25
+<http://www.worldkg.org/resource/5670851>	<RegionId>	11_25
+<http://www.worldkg.org/resource/4450364090>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cafe>
+<http://www.worldkg.org/resource/5415653037>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/5415654673>	<RegionId>	11_25
+<http://www.worldkg.org/resource/664893485>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5415654673>
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/brand>	brand-Starbucks
+<http://www.worldkg.org/resource/5415653037>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/4450364090>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670851>
+<http://www.worldkg.org/resource/5670851>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/243046574>
+<http://www.worldkg.org/resource/5415654673>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/drinkTea>	drinkTea-yes
+<http://www.worldkg.org/resource/5670851>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/243056519>
+<http://www.worldkg.org/resource/664893485>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5384049995>
+<http://www.worldkg.org/resource/5670851>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/664893485>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6296848388>
+<http://www.worldkg.org/resource/4111168991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-301
+<http://www.worldkg.org/resource/5670851>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4450364090>
+<http://www.worldkg.org/resource/243046574>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/cuisine>	cuisine-coffee_shop
+<http://www.worldkg.org/resource/243056519>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/6296848388>	<RegionId>	11_25
+<http://www.worldkg.org/resource/5415654673>	<http://www.worldkg.org/schema/routeRef>	routeRef-M10
+<http://www.worldkg.org/resource/4450364090>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/243056519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/664893485>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th, Su 06:00-22:00; Fr 06:00-22:30; Sa 05:30-22:30
+<http://www.worldkg.org/resource/5384049995>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 147th Street
+<http://www.worldkg.org/resource/4450364090>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/243046574>
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q37158
+<http://www.worldkg.org/resource/5384049995>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/5415653037>	<RegionId>	11_25
+<http://www.worldkg.org/resource/243046574>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5415654673>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/5384049995>	<http://www.worldkg.org/schema/routeRef>	routeRef-M10
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Eighth Avenue (Manhattan)
+<http://www.worldkg.org/resource/6296848388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/664893485>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4111168991>
+<http://www.worldkg.org/resource/243046574>	<http://www.w3.org/2000/01/rdf-schema#label>	Edgecombe Avenue
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q215562
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/664893485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/243056519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6296848388>	<http://www.w3.org/2000/01/rdf-schema#label>	Jacob Restaurant
+<http://www.worldkg.org/resource/4111168991>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5415653037>
+<http://www.worldkg.org/resource/6296848388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/243056519>
+<http://www.worldkg.org/resource/243056519>	<RegionId>	11_25
+<http://www.worldkg.org/resource/4111168991>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cafe>
+<http://www.worldkg.org/resource/5415653037>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664893485>
+<http://www.worldkg.org/resource/6296848388>	<http://www.worldkg.org/schema/phone>	phone-+1-212-866-3663
+<http://www.worldkg.org/resource/5415653037>	<http://www.worldkg.org/schema/routeRef>	routeRef-M10
+<http://www.worldkg.org/resource/5415653037>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/5384049995>	<http://www.worldkg.org/schema/bench>	bench-no
+<http://www.worldkg.org/resource/5670851>	<http://www.w3.org/2000/01/rdf-schema#label>	Bradhurst Avenue
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/5415654673>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5384049995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/243056519>	<http://www.w3.org/2000/01/rdf-schema#label>	West 144th Street
+<http://www.worldkg.org/resource/5670851>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5384049995>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/4111168991>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670851>
+<http://www.worldkg.org/resource/5670851>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/6296848388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664893485>
+<http://www.worldkg.org/resource/6296848388>	<http://www.worldkg.org/schema/cuisine>	cuisine-soul
+<http://www.worldkg.org/resource/664893485>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5415653037>
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/243056519>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5415654673>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/4111168991>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664893485>
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/243056519>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5415653037>
+<http://www.worldkg.org/resource/5415653037>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/4450364090>	<http://www.worldkg.org/schema/nameEn>	nameEn-Manhattanville Coffee
+<http://www.worldkg.org/resource/664893485>	<http://www.worldkg.org/schema/maxspeedType>	maxspeedType-US-NY:urban
+<http://www.worldkg.org/resource/5415654673>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/5415653037>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5384049995>	<RegionId>	11_25
+<http://www.worldkg.org/resource/243046574>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4450364090>
+<http://www.worldkg.org/resource/5415653037>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/4111168991>	<RegionId>	11_25
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Starbucks
+<http://www.worldkg.org/resource/6296848388>	<http://www.worldkg.org/schema/email>	email-cateringquote@jacobrestaurant.com;jacob373@jacobrestaurant.com
+<http://www.worldkg.org/resource/5415654673>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 150th Street
+<http://www.worldkg.org/resource/4111168991>	<http://www.worldkg.org/schema/phone>	phone-+1 212-690-7835
+<http://www.worldkg.org/resource/664893485>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/243056519>
+<http://www.worldkg.org/resource/664893485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5415654673>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/5415653037>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 145th Street
+<http://www.worldkg.org/resource/6296848388>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2695
+<http://www.worldkg.org/resource/6296848388>	<http://www.worldkg.org/schema/website>	website-http://www.jacobrestaurant.com
+<http://www.worldkg.org/resource/5670851>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4111168991>
+<http://www.worldkg.org/resource/243046574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/243046574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5384049995>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664893485>
+<http://www.worldkg.org/resource/5384049995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5415653037>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/243056519>
+<http://www.worldkg.org/resource/5384049995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/243056519>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/243046574>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670851>
+<http://www.worldkg.org/resource/6296848388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5415654673>	<http://www.worldkg.org/schema/lit>	lit-yes

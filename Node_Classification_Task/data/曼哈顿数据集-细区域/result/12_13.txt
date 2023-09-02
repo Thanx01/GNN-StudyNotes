@@ -1,0 +1,967 @@
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/5588242637>	<http://www.w3.org/2000/01/rdf-schema#label>	Eastmore Cleaners
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/station>	station-subway
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/266923308>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingChurch>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/7243635305>	<RegionId>	12_13
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/operator>	operator-Metropolitan Transportation Authority
+<http://www.worldkg.org/resource/664750646>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-141
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/751946710>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/4757891123>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589024668>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4757891123>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/operator>	operator-Educational Housing Services
+<http://www.worldkg.org/resource/46694772>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7041755292>
+<http://www.worldkg.org/resource/266923308>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1259
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1051738
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/7243635305>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/7041755292>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/353133686>	<RegionId>	12_13
+<http://www.worldkg.org/resource/6145823789>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5588242637>	<RegionId>	12_13
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/covered>	covered-no
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083564
+<http://www.worldkg.org/resource/751946710>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/cuisine>	cuisine-sandwich
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664750646>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/7243635305>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th 09:30-19:00; Fr 09:00-15:00; Su 10:00-17:30
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/7041755292>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/751946710>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/7041755292>
+<http://www.worldkg.org/resource/68674959>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/751946710>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th 10:00-23:00; Fr, Sa 10:00-24:00; Su 11:00-23:00
+<http://www.worldkg.org/resource/353220112>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/6145823789>	<http://www.w3.org/2000/01/rdf-schema#label>	Little Luzzo's
+<http://www.worldkg.org/resource/46694772>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-both
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/353133686>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Avenue
+<http://www.worldkg.org/resource/664697032>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7041755292>
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/network>	network-MTA New York City Bus
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/7041755292>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/266923359>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/266923308>	<http://www.w3.org/2000/01/rdf-schema#label>	St. Francis de Sales Church
+<http://www.worldkg.org/resource/756080941>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/756080941>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/664750647>	<http://www.w3.org/2000/01/rdf-schema#label>	CVS Pharmacy
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5780317666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Convenience>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/794487286>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/oldName>	oldName-4th Avenue
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/openingHours>	openingHours-11:00-22:30
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/usage>	usage-main
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/353220112>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1505
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/dog>	dog-no
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/664750646>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/startDate>	startDate-1973
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/794487286>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/46694772>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/353133686>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4757891123>
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/664750647>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pharmacy>
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/664750646>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/652023441>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/branch>	branch-Upper East
+<http://www.worldkg.org/resource/751946710>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/bench>	bench-no
+<http://www.worldkg.org/resource/5978792117>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/353220077>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5607297102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SportsCentre>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/794487286>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/46694772>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/email>	email-vinylwineshop@gmail.com
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1051699
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/website>	website-https://www.littleluzzos.com
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/652023438>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266923359>
+<http://www.worldkg.org/resource/7243635305>	<http://www.w3.org/2000/01/rdf-schema#label>	Unique Cut Barber Shop
+<http://www.worldkg.org/resource/756080941>	<RegionId>	12_13
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/3589888056>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/664697032>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/facebook>	facebook-https://www.facebook.com/sfdsnyc/
+<http://www.worldkg.org/resource/68674959>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Avenue
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1491
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/68674959>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1501
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/dispensing>	dispensing-yes
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/architect>	architect-Costas Kondylis
+<http://www.worldkg.org/resource/652023438>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Third Avenue
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/68674959>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/website>	website-https://www.sfdsnyc.org/
+<http://www.worldkg.org/resource/5780317666>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5588242637>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/664750646>	<http://www.w3.org/2000/01/rdf-schema#label>	Pure & Natural
+<http://www.worldkg.org/resource/756080941>	<http://www.w3.org/2000/01/rdf-schema#label>	East 96th Street
+<http://www.worldkg.org/resource/353133686>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/tunnel>	tunnel-yes
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/fax>	fax-+1 646-559-5284
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/353220112>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/664750646>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Convenience>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Park Avenue
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/664697032>	<http://www.w3.org/2000/01/rdf-schema#label>	Monterey Public Garden
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/serviceTimes>	serviceTimes-Sa 05:00+; Mo-Fr 08:30+; Su 09:00+, 11:00+, 12:30+
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/1261183482>	<http://www.w3.org/2000/01/rdf-schema#label>	96th Street
+<http://www.worldkg.org/resource/794487286>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/4757891123>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/seats>	seats-18
+<http://www.worldkg.org/resource/6145823789>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/652023441>	<http://www.w3.org/2000/01/rdf-schema#label>	3rd Avenue
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/353220077>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5577592712>	<http://www.w3.org/2000/01/rdf-schema#label>	Taco Bell
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/794487286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/756080941>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/353220112>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/layer>	layer--1
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/7041755292>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266923359>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/3589024668>	<RegionId>	12_13
+<http://www.worldkg.org/resource/652023438>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/roofShape>	roofShape-flat
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/bin>	bin-no
+<http://www.worldkg.org/resource/68674959>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/353133686>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/353220112>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/website>	website-https://themonterey.com
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/internetAccessFee>	internetAccessFee-no
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/phone>	phone-+1 212-369-2300
+<http://www.worldkg.org/resource/5721487665>	<http://www.w3.org/2000/01/rdf-schema#label>	Bardolino Pizza
+<http://www.worldkg.org/resource/5577785575>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/664750646>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/ref>	ref-5772
+<http://www.worldkg.org/resource/5577785575>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Alcohol>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/652023441>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/drinkTea>	drinkTea-yes
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/owner>	owner-The Chetrit Group
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-no
+<http://www.worldkg.org/resource/7243635305>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/ele>	ele-13
+<http://www.worldkg.org/resource/751946710>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Park Avenue
+<http://www.worldkg.org/resource/266923308>	<RegionId>	12_13
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/68674959>	<RegionId>	12_13
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/7041755292>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/operator>	operator-Metro-North Railroad
+<http://www.worldkg.org/resource/4757891123>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/preschool>	preschool-yes
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/664697032>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/website>	website-https://www.studenthousing.org/buildings/1760-third-avenue
+<http://www.worldkg.org/resource/4757891123>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/cuisine>	cuisine-tex-mex
+<http://www.worldkg.org/resource/46694772>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5640004458>	<RegionId>	12_13
+<http://www.worldkg.org/resource/652023441>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/756080941>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:96th Street (Manhattan)
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/5780317666>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/652023438>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/4757891123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 10:00-23:00
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083763
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Taco Bell
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/652023441>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/operator>	operator-Preschool of America
+<http://www.worldkg.org/resource/652023438>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/756080941>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/tactilePaving>	tactilePaving-no
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/5978792117>	<http://www.w3.org/2000/01/rdf-schema#label>	New Bani Grocery
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/owner>	owner-Metropolitan Transportation Authority
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/4757891123>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5780317666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/353220077>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/departuresBoard>	departuresBoard-timetable
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/phone>	phone-+1 212-860-8603
+<http://www.worldkg.org/resource/353220112>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/email>	email-littleluzzos@gmail.com
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/cuisine>	cuisine-coffee_shop
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1503
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/664750646>	<http://www.worldkg.org/schema/phone>	phone-+1 212-870-0390
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/ref>	ref-401958
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th 12:00-21:00; Fr 11:00-22:00; Sa, Su 11:00-21:00
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/tactilePaving>	tactilePaving-no
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/buildingColour>	buildingColour-#AD9274
+<http://www.worldkg.org/resource/4757891123>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/1261183482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/266923308>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/network>	network-MTA New York City Bus
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266923359>
+<http://www.worldkg.org/resource/46694772>	<RegionId>	12_13
+<http://www.worldkg.org/resource/3589024668>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/4757891123>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/openingHours>	openingHours-Tu-Su 16:00-00:00
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 08:00-18:00
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/664750647>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/266923359>	<http://www.w3.org/2000/01/rdf-schema#label>	EHS 1760 Third Avenue
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/353133686>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589024668>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/roofColour>	roofColour-#7D7A67
+<http://www.worldkg.org/resource/664697032>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-both
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/3589888042>	<http://www.w3.org/2000/01/rdf-schema#label>	Vinyl Beer
+<http://www.worldkg.org/resource/266923359>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/7041755292>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/phone>	phone-+1 212-860-3399
+<http://www.worldkg.org/resource/5640004458>	<http://www.w3.org/2000/01/rdf-schema#label>	Spice Noodle
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/751946710>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/3589888042>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/4757891123>	<http://www.w3.org/2000/01/rdf-schema#label>	Earl's Beer & Cheese
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/website>	website-https://www.vinylbeershop.com
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/toilets>	toilets-yes
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/contactTwitter>	contactTwitter-vinylwineshop
+<http://www.worldkg.org/resource/5780317666>	<RegionId>	12_13
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-wlan
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/6145823789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/353220112>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/frequency>	frequency-0
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-45 mph
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6379099273>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Starbucks
+<http://www.worldkg.org/resource/5577785575>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/5721487665>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/7243635305>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/652023438>	<http://www.w3.org/2000/01/rdf-schema#label>	3rd Avenue
+<http://www.worldkg.org/resource/794487286>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/3589888042>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/5780317666>	<http://www.w3.org/2000/01/rdf-schema#label>	786 Candy Store
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/751946710>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/266923359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5607297102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/652023441>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/startDate>	startDate-1992
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/indoor>	indoor-yes
+<http://www.worldkg.org/resource/6379099273>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3589024668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/5978792117>	<RegionId>	12_13
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/phone>	phone-+1 646-370-4100
+<http://www.worldkg.org/resource/353220112>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/3589888042>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/756080941>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/5588242637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/DryCleaning>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q37158
+<http://www.worldkg.org/resource/652023438>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/652023438>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/ele>	ele-22
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/operator>	operator-Monterey 96 Street, LLC
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/7041755292>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/5607297102>	<http://www.w3.org/2000/01/rdf-schema#label>	VITAL Climbing Gym
+<http://www.worldkg.org/resource/5780317666>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10128
+<http://www.worldkg.org/resource/794487286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Rail>
+<http://www.worldkg.org/resource/4757891123>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/iscedLevel>	iscedLevel-0
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/1261183482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwayStation>
+<http://www.worldkg.org/resource/1261183482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportStation>
+<http://www.worldkg.org/resource/5640004458>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/353133686>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/652023441>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/phone>	phone-+1 646-476-4018
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/7041755292>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/266923308>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589024668>
+<http://www.worldkg.org/resource/353133686>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/68674959>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/height>	height-57.5
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/oldRailwayOperator>	oldRailwayOperator-NYC
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/652023441>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/nameEn>	nameEn-Park Avenue
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/fee>	fee-yes
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/7041755292>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/routeRef>	routeRef-M96
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/website>	website-http://orderbardolinopizza.com
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/subway>	subway-yes
+<http://www.worldkg.org/resource/652023441>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/5640004458>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/353133686>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/3589888056>	<http://www.w3.org/2000/01/rdf-schema#label>	Preschool of America
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/3589888056>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityKindergarten>
+<http://www.worldkg.org/resource/353133686>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/353220077>	<http://www.w3.org/2000/01/rdf-schema#label>	East 96th Street
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/353133686>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/353220112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/6379099273>	<RegionId>	12_13
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/phone>	phone-+1 212-831-0193
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/height>	height-28.8
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/3589024668>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-119
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/3589888056>	<RegionId>	12_13
+<http://www.worldkg.org/resource/652023438>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/652023441>
+<http://www.worldkg.org/resource/353220112>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/website>	website-https://locations.tacobell.com/ny/manhattan/1503-lexington-ave.html
+<http://www.worldkg.org/resource/756080941>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/voltage>	voltage-700
+<http://www.worldkg.org/resource/2357937268>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/openingHours>	openingHours-24/7
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/751946710>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/postalCode>	postalCode-10029
+<http://www.worldkg.org/resource/7041755292>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/phone>	phone-+1-212-410-7070
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/652023438>	<http://www.worldkg.org/schema/lanes>	lanes-6
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Francis de Sales Roman Catholic Church (Manhattan, NYC)
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/operator>	operator-New York City Transit Authority
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/68674959>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:96th Street (Manhattan)
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083565
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/751946710>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q2078880
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/phone>	phone-+1 212-289-0425
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/passengerInformationDisplay>	passengerInformationDisplay-yes
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-wlan
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 08:00-16:00; Sa, Su 08:30-16:00
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4757891123>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/46694772>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/664697032>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/2357937268>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/twitter>	twitter-https://twitter.com/sfdsnyc
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/phone>	phone-+1 212-987-3700
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/ele>	ele-20
+<http://www.worldkg.org/resource/652023441>	<http://www.worldkg.org/schema/lanes>	lanes-5
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/passengerInformationDisplay>	passengerInformationDisplay-no
+<http://www.worldkg.org/resource/751946710>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/7243635305>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-115
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/2357937268>	<http://www.w3.org/2000/01/rdf-schema#label>	Starbucks
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5978792117>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1517
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/contactFacebook>	contactFacebook-vinylwineshop
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/phone>	phone-+1 646-850-1706
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/website>	website-https://www.starbucks.com/store-locator/store/19114/96th-lexington-1491-lexington-avenue-new-york-ny-100297307-us
+<http://www.worldkg.org/resource/68674959>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/353133686>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/664750646>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 10:00-23:00; Sa 10:30-23:00; Su 11:30-22:00
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/3589024668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/664750647>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/5588242637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10128
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/3589888056>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/happyHours>	happyHours-16:00-19:00
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/routeRef>	routeRef-M96
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-19
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1506
+<http://www.worldkg.org/resource/5588242637>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/353220112>	<http://www.w3.org/2000/01/rdf-schema#label>	Lexington Avenue
+<http://www.worldkg.org/resource/5780317666>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/6145823789>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/756080941>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5721487665>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/353220077>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7041755292>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-3
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th 13:00-21:00; Fr 12:00-21:00; Sa 11:00-21:00; Su 12:00-20:00
+<http://www.worldkg.org/resource/3589024668>	<http://www.w3.org/2000/01/rdf-schema#label>	T & J Jamaican Flava
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/phone>	phone-+1-212-369-0313
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/4757891123>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Bar>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5588242637>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1492
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/bin>	bin-yes
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/46694772>	<http://www.w3.org/2000/01/rdf-schema#label>	East 97th Street
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5607297102>	<RegionId>	12_13
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/756080941>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/cuisine>	cuisine-vietnamese; chinese
+<http://www.worldkg.org/resource/5577592712>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5721493494>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5780317666>	<http://www.worldkg.org/schema/coffee>	coffee-yes
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/353220077>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/7041755292>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/5577785575>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5978792117>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Convenience>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/website>	website-https://www.cvs.com/store-locator/details-directions/5772
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1491
+<http://www.worldkg.org/resource/3589888042>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Beverages>
+<http://www.worldkg.org/resource/664750646>	<RegionId>	12_13
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/fee>	fee-yes
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/fax>	fax-+1 212-996-2028
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/denomination>	denomination-roman_catholic
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/1261183482>	<RegionId>	12_13
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/266923308>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/driveThrough>	driveThrough-no
+<http://www.worldkg.org/resource/7041755292>	<http://www.worldkg.org/schema/departuresBoard>	departuresBoard-timetable
+<http://www.worldkg.org/resource/794487286>	<RegionId>	12_13
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/level>	level--1
+<http://www.worldkg.org/resource/751946710>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/652023441>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/email>	email-info@vinylbeershop.com
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/664697032>	<http://www.worldkg.org/schema/access>	access-yes
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/266923359>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/794487286>	<http://www.worldkg.org/schema/electrified>	electrified-rail
+<http://www.worldkg.org/resource/5577785575>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/353220112>	<RegionId>	12_13
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1509
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th 05:30-22:00; Su 06:00-21:30; Fr, Sa 05:30-22:30
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/3589024668>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/664750647>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/5978792117>	<http://www.worldkg.org/schema/phone>	phone-+1 212-410-6992
+<http://www.worldkg.org/resource/5721487665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/dietVegan>	dietVegan-yes
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/353220077>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:CVS Pharmacy
+<http://www.worldkg.org/resource/751946710>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/website>	website-https://www.earlsny.com
+<http://www.worldkg.org/resource/5721487665>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/46694772>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/6145823789>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/phone>	phone-+1 212-289-3846
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/website>	website-https://judysspanishrestaurant.com/
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266923359>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/751946710>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266923359>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/covered>	covered-no
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5780317666>	<http://www.worldkg.org/schema/openingHours>	openingHours-24/7
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/phone>	phone-+1 646-362-3400
+<http://www.worldkg.org/resource/2357937268>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cafe>
+<http://www.worldkg.org/resource/7243635305>	<http://www.worldkg.org/schema/phone>	phone-+1 212-737-0637
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/266923359>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/652023441>
+<http://www.worldkg.org/resource/5607297102>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Climbing>
+<http://www.worldkg.org/resource/46694772>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/652023441>
+<http://www.worldkg.org/resource/6379099273>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/brand>	brand-VITAL
+<http://www.worldkg.org/resource/794487286>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/664750647>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750646>
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/brand>	brand-Starbucks
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/oldName>	oldName-4th Avenue
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/5577592712>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/nameEn>	nameEn-Park Avenue
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/4757891123>	<http://www.worldkg.org/schema/phone>	phone-+1 212-289-1581
+<http://www.worldkg.org/resource/751946710>	<http://www.w3.org/2000/01/rdf-schema#label>	The Monterey
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/operator>	operator-Metropolitan Transportation Authority
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5640004458>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/46694772>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/5577592712>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/266923359>	<RegionId>	12_13
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/266923359>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1760
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/353220077>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/794487286>	<http://www.w3.org/2000/01/rdf-schema#label>	Hudson Line MT3
+<http://www.worldkg.org/resource/2357937268>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/5577592712>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6145823789>
+<http://www.worldkg.org/resource/4757891123>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/652023441>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Third Avenue
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/5721493494>	<RegionId>	12_13
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/794487286>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/353220077>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/website>	website-https://www.vinylwineshop.com
+<http://www.worldkg.org/resource/652023438>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/3589888042>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/website>	website-https://www.vitalclimbinggym.com/upper-east
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/652023441>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266923359>
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/652023438>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/353220077>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/altName>	altName-Asian Gourmet
+<http://www.worldkg.org/resource/652023438>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7041755292>
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q752941
+<http://www.worldkg.org/resource/5780317666>	<http://www.worldkg.org/schema/phone>	phone-+1 212-860-0182
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/5721493494>	<http://www.w3.org/2000/01/rdf-schema#label>	Judy's Spanish Restaurant
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/652023438>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/3589888056>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/email>	email-manhattancrew@vitalclimbinggym.com
+<http://www.worldkg.org/resource/756080941>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/266923359>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/664697032>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-no
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/openingHours>	openingHours-06:00-20:00
+<http://www.worldkg.org/resource/5577785575>	<http://www.w3.org/2000/01/rdf-schema#label>	Vinyl Wine
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/5978792117>	<http://www.worldkg.org/schema/dog>	dog-no
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1500
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/openingHours>	openingHours-24/7
+<http://www.worldkg.org/resource/664697032>	<RegionId>	12_13
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-137
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/652023438>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664697032>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/664750647>
+<http://www.worldkg.org/resource/5780317666>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/5588242637>	<http://www.worldkg.org/schema/phone>	phone-+1 212-369-9677
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/network>	network-NYC Subway
+<http://www.worldkg.org/resource/1261183482>	<http://www.worldkg.org/schema/train>	train-yes
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721487665>
+<http://www.worldkg.org/resource/2357937268>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/266923308>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/7243635305>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Hairdresser>
+<http://www.worldkg.org/resource/353220112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/5978792117>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/6379099273>	<http://www.w3.org/2000/01/rdf-schema#label>	East 96th Street & Lexington Avenue
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1082901
+<http://www.worldkg.org/resource/6145823789>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/68674959>	<http://www.worldkg.org/schema/nameRu>	nameRu-Парк-Авеню
+<http://www.worldkg.org/resource/5721487665>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5588242637>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/3589888056>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577785575>
+<http://www.worldkg.org/resource/353220112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/266923308>	<http://www.worldkg.org/schema/startDate>	startDate-1903
+<http://www.worldkg.org/resource/46694772>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5640004458>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/5721493494>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5577592712>
+<http://www.worldkg.org/resource/5607297102>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 08:00-23:00; Sa, Su 10:00-20:00
+<http://www.worldkg.org/resource/756080941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5577785575>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/266923308>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/751946710>	<http://www.worldkg.org/schema/owner>	owner-Cammeby's International Group
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1257
+<http://www.worldkg.org/resource/6379099273>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/7041755292>	<http://www.w3.org/2000/01/rdf-schema#label>	East 96th Street & 3rd Avenue
+<http://www.worldkg.org/resource/353220077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/2357937268>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888056>
+<http://www.worldkg.org/resource/266923359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Dormitory>
+<http://www.worldkg.org/resource/664750646>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/website>	website-http://www.preschoolofamerica.us
+<http://www.worldkg.org/resource/5577592712>	<http://www.worldkg.org/schema/brand>	brand-Taco Bell
+<http://www.worldkg.org/resource/1261183482>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/6379099273>
+<http://www.worldkg.org/resource/5640004458>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/794487286>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/3589024668>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/cuisine>	cuisine-italian
+<http://www.worldkg.org/resource/5721493494>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/46694772>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/cuisine>	cuisine-dominican
+<http://www.worldkg.org/resource/664750647>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/openingHours>	openingHours-09:00-22:00
+<http://www.worldkg.org/resource/46694772>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5780317666>
+<http://www.worldkg.org/resource/5576468754>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978792117>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/756080941>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5576468754>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/5721487665>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/3589024668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/6379099273>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/5607297102>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5588242637>
+<http://www.worldkg.org/resource/664750647>	<http://www.worldkg.org/schema/brand>	brand-CVS Pharmacy
+<http://www.worldkg.org/resource/5721493494>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1505
+<http://www.worldkg.org/resource/3589024668>	<http://www.worldkg.org/schema/cuisine>	cuisine-caribbean
+<http://www.worldkg.org/resource/266923359>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/46694772>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1261183482>
+<http://www.worldkg.org/resource/68674959>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4757891123>
+<http://www.worldkg.org/resource/353220112>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lexington Avenue
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3589888042>
+<http://www.worldkg.org/resource/664697032>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/652023438>
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7243635305>
+<http://www.worldkg.org/resource/664750647>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/353220112>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5607297102>
+<http://www.worldkg.org/resource/3589024668>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/664750646>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937268>
+<http://www.worldkg.org/resource/652023441>	<RegionId>	12_13
+<http://www.worldkg.org/resource/5780317666>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-141
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220077>
+<http://www.worldkg.org/resource/652023441>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46694772>
+<http://www.worldkg.org/resource/6145823789>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/3589888042>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/751946710>
+<http://www.worldkg.org/resource/6145823789>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/353220112>
+<http://www.worldkg.org/resource/3589888056>	<http://www.worldkg.org/schema/email>	email-emims@preschoolofamerica.us
+<http://www.worldkg.org/resource/5577785575>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266923308>
+<http://www.worldkg.org/resource/5577592712>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5721493494>
+<http://www.worldkg.org/resource/2357937268>	<RegionId>	12_13
+<http://www.worldkg.org/resource/3589888042>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1491
+<http://www.worldkg.org/resource/353133686>	<http://www.worldkg.org/schema/nameRu>	nameRu-Парк-Авеню
+<http://www.worldkg.org/resource/68674959>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3589024668>
+<http://www.worldkg.org/resource/664697032>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/756080941>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/353133686>
+<http://www.worldkg.org/resource/7243635305>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68674959>
+<http://www.worldkg.org/resource/756080941>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1261183482>

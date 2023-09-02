@@ -1,0 +1,212 @@
+<http://www.worldkg.org/resource/5670574>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/2826581769>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10002
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/2826581781>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5017973122>
+<http://www.worldkg.org/resource/278258566>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Library>
+<http://www.worldkg.org/resource/2826581781>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10002
+<http://www.worldkg.org/resource/613508218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/3708656303>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-379
+<http://www.worldkg.org/resource/2826581781>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2622180738>
+<http://www.worldkg.org/resource/2826581781>	<http://www.w3.org/2000/01/rdf-schema#label>	The Doughnut Plant
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5017973122>
+<http://www.worldkg.org/resource/2826581781>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cafe>
+<http://www.worldkg.org/resource/7674034587>	<RegionId>	3_19
+<http://www.worldkg.org/resource/7674034587>	<http://www.w3.org/2000/01/rdf-schema#label>	Citibank
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1004053
+<http://www.worldkg.org/resource/39662323>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/108235836>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5231713029>
+<http://www.worldkg.org/resource/108235836>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/496977101>
+<http://www.worldkg.org/resource/2826581769>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 07:00-22:00
+<http://www.worldkg.org/resource/5017973122>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2622180738>
+<http://www.worldkg.org/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5017973122>
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/website>	website-https://www.doughnutplant.com/
+<http://www.worldkg.org/resource/5670574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/39956203>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/613508218>
+<http://www.worldkg.org/resource/2826581781>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/496977101>
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:East Broadway (Manhattan)
+<http://www.worldkg.org/resource/5670574>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/39956203>
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-192
+<http://www.worldkg.org/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3117106008>
+<http://www.worldkg.org/resource/3708656303>	<RegionId>	3_19
+<http://www.worldkg.org/resource/2622180738>	<http://www.worldkg.org/schema/phone>	phone-(212)228-5483
+<http://www.worldkg.org/resource/7674034587>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39662323>
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/note>	note-This segment is oneway as of 2019 STOP CHANGING IT
+<http://www.worldkg.org/resource/3117106008>	<http://www.worldkg.org/schema/openingHours>	openingHours-Sa-Su 11:00-18:00
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/3117106008>	<http://www.w3.org/2000/01/rdf-schema#label>	Hester Street Fair
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/brand>	brand-Citi Bike
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/613508218>	<http://www.w3.org/2000/01/rdf-schema#label>	Grand Street
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/toilets>	toilets-yes
+<http://www.worldkg.org/resource/496977101>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:New York Public Library
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/2622180738>	<http://www.worldkg.org/schema/cuisine>	cuisine-pizza
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/5017973122>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2826581781>
+<http://www.worldkg.org/resource/5231713029>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/drinkingWater>	drinkingWater-yes
+<http://www.worldkg.org/resource/496977101>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/website>	website-https://citibikenyc.com/
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/phone>	phone-+1 212-505-3700
+<http://www.worldkg.org/resource/613508218>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670574>
+<http://www.worldkg.org/resource/5231713029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/801764674>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/39956203>
+<http://www.worldkg.org/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2826581781>
+<http://www.worldkg.org/resource/7674034587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Bank>
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/2622180738>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5017973122>
+<http://www.worldkg.org/resource/39662323>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/108235836>	<http://www.w3.org/2000/01/rdf-schema#label>	Seward Park
+<http://www.worldkg.org/resource/3117106008>	<RegionId>	3_19
+<http://www.worldkg.org/resource/5017973122>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/ShopBakery>
+<http://www.worldkg.org/resource/801764674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/39956203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/nameEn>	nameEn-Doughnut Plant
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:East Broadway (Manhattan)
+<http://www.worldkg.org/resource/278258566>	<http://www.w3.org/2000/01/rdf-schema#label>	Seward Park Library
+<http://www.worldkg.org/resource/2826581769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:List of New York Public Library Branches
+<http://www.worldkg.org/resource/5231713029>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/496977101>
+<http://www.worldkg.org/resource/5670574>	<RegionId>	3_19
+<http://www.worldkg.org/resource/108235836>	<Point_pois-Contain-Point_pois>	<http://www.worldkg.org/resource/3117106008>
+<http://www.worldkg.org/resource/2622180738>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10002
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/operator>	operator-New York Public Library
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5017973122>	<http://www.worldkg.org/schema/nameEn>	nameEn-kossar's bialys
+<http://www.worldkg.org/resource/39662323>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-track
+<http://www.worldkg.org/resource/496977101>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2622180738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/108235836>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Seward Park (Manhattan)
+<http://www.worldkg.org/resource/278258566>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/2826581769>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/5017973122>	<RegionId>	3_19
+<http://www.worldkg.org/resource/613508218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2826581769>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-175
+<http://www.worldkg.org/resource/3708656303>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2826581769>
+<http://www.worldkg.org/resource/3117106008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q2974438
+<http://www.worldkg.org/resource/5670574>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/613508218>	<RegionId>	3_19
+<http://www.worldkg.org/resource/5231713029>	<http://www.w3.org/2000/01/rdf-schema#label>	Essex Street & Canal Street
+<http://www.worldkg.org/resource/2826581769>	<RegionId>	3_19
+<http://www.worldkg.org/resource/39662323>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/39956203>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/801764674>
+<http://www.worldkg.org/resource/801764674>	<http://www.w3.org/2000/01/rdf-schema#label>	East Broadway
+<http://www.worldkg.org/resource/5017973122>	<http://www.w3.org/2000/01/rdf-schema#label>	kossar's bialys
+<http://www.worldkg.org/resource/7674034587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/108235836>	<http://www.worldkg.org/schema/website>	website-https://www.nycgovparks.org/parks/seward-park
+<http://www.worldkg.org/resource/39662323>	<RegionId>	3_19
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/cuisine>	cuisine-donut
+<http://www.worldkg.org/resource/39956203>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/39662323>
+<http://www.worldkg.org/resource/5231713029>	<http://www.worldkg.org/schema/routeRef>	routeRef-M9
+<http://www.worldkg.org/resource/496977101>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/39956203>	<RegionId>	3_19
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:Motivate (company)
+<http://www.worldkg.org/resource/7674034587>	<http://www.worldkg.org/schema/brand>	brand-Citibank
+<http://www.worldkg.org/resource/5231713029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/613508218>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/2826581769>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3708656303>
+<http://www.worldkg.org/resource/39956203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/3708656303>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BicycleRental>
+<http://www.worldkg.org/resource/5231713029>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/5670574>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/2622180738>	<http://www.w3.org/2000/01/rdf-schema#label>	Pizza a Casa - Pizza School
+<http://www.worldkg.org/resource/5670574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/496977101>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/networkWikidata>	networkWikidata-Q2974438
+<http://www.worldkg.org/resource/7674034587>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q857063
+<http://www.worldkg.org/resource/3117106008>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/496977101>
+<http://www.worldkg.org/resource/2826581769>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/ShopSupermarket>
+<http://www.worldkg.org/resource/108235836>	<http://www.worldkg.org/schema/ele>	ele-10
+<http://www.worldkg.org/resource/108235836>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/capacity>	capacity-28
+<http://www.worldkg.org/resource/2622180738>	<http://www.worldkg.org/schema/website>	website-https://pizzaschool.com/
+<http://www.worldkg.org/resource/496977101>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/2826581769>	<http://www.w3.org/2000/01/rdf-schema#label>	Fine Fare Supermarket
+<http://www.worldkg.org/resource/2826581769>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39662323>
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/3117106008>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Marketplace>
+<http://www.worldkg.org/resource/496977101>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5231713029>
+<http://www.worldkg.org/resource/5670574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayTrack>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/network>	network-Citi Bike
+<http://www.worldkg.org/resource/7674034587>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2826581769>
+<http://www.worldkg.org/resource/39662323>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<http://www.worldkg.org/resource/5017973122>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/39662323>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7674034587>
+<http://www.worldkg.org/resource/39956203>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/39956203>	<http://www.w3.org/2000/01/rdf-schema#label>	East Broadway
+<http://www.worldkg.org/resource/2826581781>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Th, Su 06:30-20:00; Fr-Sa 06:30-21:00
+<http://www.worldkg.org/resource/2622180738>	<RegionId>	3_19
+<http://www.worldkg.org/resource/5231713029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/108235836>	<RegionId>	3_19
+<http://www.worldkg.org/resource/39662323>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/2622180738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/108235836>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 06:00-22:00
+<http://www.worldkg.org/resource/39662323>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/496977101>	<RegionId>	3_19
+<http://www.worldkg.org/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/278258566>
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/website>	website-http://www.nypl.org/locations/seward-park
+<http://www.worldkg.org/resource/613508218>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39956203>
+<http://www.worldkg.org/resource/5670574>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/613508218>
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-lane
+<http://www.worldkg.org/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2826581781>
+<http://www.worldkg.org/resource/2622180738>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/operatorType>	operatorType-private
+<http://www.worldkg.org/resource/5231713029>	<RegionId>	3_19
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10002
+<http://www.worldkg.org/resource/3708656303>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39662323>
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/fee>	fee-yes
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/phone>	phone-+1-212-477-6770
+<http://www.worldkg.org/resource/108235836>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-964887
+<http://www.worldkg.org/resource/496977101>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Essex Street
+<http://www.worldkg.org/resource/39662323>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/108235836>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3708656303>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7674034587>
+<http://www.worldkg.org/resource/3117106008>	<Point_pois-Within-Point_pois>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/801764674>	<RegionId>	3_19
+<http://www.worldkg.org/resource/2826581769>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7674034587>
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/height>	height-20.9
+<http://www.worldkg.org/resource/39662323>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/39956203>
+<http://www.worldkg.org/resource/2622180738>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-371
+<http://www.worldkg.org/resource/5231713029>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/108235836>
+<http://www.worldkg.org/resource/278258566>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/801764674>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/39956203>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/613508218>	<http://www.worldkg.org/schema/crossing>	crossing-zebra
+<http://www.worldkg.org/resource/3708656303>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670574>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/108235836>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2622180738>
+<http://www.worldkg.org/resource/2826581781>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/39956203>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670574>
+<http://www.worldkg.org/resource/39662323>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3708656303>
+<http://www.worldkg.org/resource/3117106008>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10002
+<http://www.worldkg.org/resource/5670574>	<http://www.w3.org/2000/01/rdf-schema#label>	Samuel Dickstein Plaza
+<http://www.worldkg.org/resource/7674034587>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3708656303>
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/operatorType>	operatorType-public
+<http://www.worldkg.org/resource/2622180738>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2826581781>
+<http://www.worldkg.org/resource/5017973122>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/496977101>
+<http://www.worldkg.org/resource/496977101>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5017973122>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2622180738>
+<http://www.worldkg.org/resource/496977101>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/2826581781>	<RegionId>	3_19
+<http://www.worldkg.org/resource/3708656303>	<http://www.worldkg.org/schema/operator>	operator-Motivate
+<http://www.worldkg.org/resource/2622180738>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/496977101>
+<http://www.worldkg.org/resource/7674034587>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Citibank
+<http://www.worldkg.org/resource/5231713029>	<http://www.worldkg.org/schema/bench>	bench-no
+<http://www.worldkg.org/resource/278258566>	<RegionId>	3_19
+<http://www.worldkg.org/resource/801764674>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/39662323>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2826581769>
+<http://www.worldkg.org/resource/496977101>	<http://www.w3.org/2000/01/rdf-schema#label>	Essex Street
+<http://www.worldkg.org/resource/278258566>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes

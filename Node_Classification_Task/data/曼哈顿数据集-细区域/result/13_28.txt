@@ -1,0 +1,223 @@
+<http://www.worldkg.org/resource/5672264>	<http://www.worldkg.org/schema/cyclewayBoth>	cyclewayBoth-no
+<http://www.worldkg.org/resource/326119982>	<Line_railway-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275111569>
+<http://www.worldkg.org/resource/5671112>	<RegionId>	13_28
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/326119982>
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275111569>
+<http://www.worldkg.org/resource/5672264>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/164842044>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46344718>
+<http://www.worldkg.org/resource/46344718>	<RegionId>	13_28
+<http://www.worldkg.org/resource/164842044>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46344718>
+<http://www.worldkg.org/resource/5671112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/4248884824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportStation>
+<http://www.worldkg.org/resource/5673208>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5672264>
+<http://www.worldkg.org/resource/357624574>	<http://www.w3.org/2000/01/rdf-schema#label>	Inwood Jewish Center
+<http://www.worldkg.org/resource/164839573>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4248884824>
+<http://www.worldkg.org/resource/357631906>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671112>
+<http://www.worldkg.org/resource/5671112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357631906>
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/ele>	ele-14
+<http://www.worldkg.org/resource/5672264>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Dyckman-Hillside Substation
+<http://www.worldkg.org/resource/5671285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357631906>
+<http://www.worldkg.org/resource/164842044>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<http://www.worldkg.org/resource/357631906>	<http://www.worldkg.org/schema/ele>	ele-12
+<http://www.worldkg.org/resource/357578879>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357624574>
+<http://www.worldkg.org/resource/5671112>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/bridge>	bridge-yes
+<http://www.worldkg.org/resource/275111569>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Substation>
+<http://www.worldkg.org/resource/5670177>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673208>
+<http://www.worldkg.org/resource/275111569>	<Line_railway-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46344718>
+<http://www.worldkg.org/resource/275111569>	<http://www.w3.org/2000/01/rdf-schema#label>	Substation 17
+<http://www.worldkg.org/resource/164842044>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/357578879>	<RegionId>	13_28
+<http://www.worldkg.org/resource/357624574>	<http://www.worldkg.org/schema/ele>	ele-15
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1064061
+<http://www.worldkg.org/resource/357624574>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357578879>
+<http://www.worldkg.org/resource/164842044>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/4248884824>	<http://www.worldkg.org/schema/network>	network-NYC Subway
+<http://www.worldkg.org/resource/275111593>	<RegionId>	13_28
+<http://www.worldkg.org/resource/164839573>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-129
+<http://www.worldkg.org/resource/4248884824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/734871771>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Hill
+<http://www.worldkg.org/resource/357631906>	<http://www.w3.org/2000/01/rdf-schema#label>	Washington Heights Academy
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/height>	height-11.4
+<http://www.worldkg.org/resource/357624574>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671112>
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/operator>	operator-New York City Transit Authority
+<http://www.worldkg.org/resource/164839573>	<RegionId>	13_28
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46344718>
+<http://www.worldkg.org/resource/734871771>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5672264>	<http://www.w3.org/2000/01/rdf-schema#label>	Fairview Avenue
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/bridge>	bridge-yes
+<http://www.worldkg.org/resource/164839573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46344718>	<Line_railway-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275111569>
+<http://www.worldkg.org/resource/357624574>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/357578879>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-961374
+<http://www.worldkg.org/resource/5670177>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/164842044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-4558
+<http://www.worldkg.org/resource/326119982>	<RegionId>	13_28
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275111569>
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671112>
+<http://www.worldkg.org/resource/5671285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/357624574>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671285>
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5672264>
+<http://www.worldkg.org/resource/357578879>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 152
+<http://www.worldkg.org/resource/5673208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46344718>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/5673208>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway Terrace
+<http://www.worldkg.org/resource/5670177>	<RegionId>	13_28
+<http://www.worldkg.org/resource/5671285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/357578879>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/5671112>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671285>
+<http://www.worldkg.org/resource/357578879>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671285>
+<http://www.worldkg.org/resource/5670177>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5670177>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/734871771>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/164839573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624574>
+<http://www.worldkg.org/resource/5672264>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673208>
+<http://www.worldkg.org/resource/46344718>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/164842044>
+<http://www.worldkg.org/resource/5671285>	<RegionId>	13_28
+<http://www.worldkg.org/resource/357631906>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/164839573>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5671285>	<http://www.w3.org/2000/01/rdf-schema#label>	Bogardus Place
+<http://www.worldkg.org/resource/357578879>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671112>
+<http://www.worldkg.org/resource/164842044>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/326119982>
+<http://www.worldkg.org/resource/5670177>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5671112>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357578879>
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/voltage>	voltage-625
+<http://www.worldkg.org/resource/5671285>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Bogardus Place
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/electrified>	electrified-rail
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-1
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/frequency>	frequency-0
+<http://www.worldkg.org/resource/164839573>	<http://www.w3.org/2000/01/rdf-schema#label>	Nagle Avenue
+<http://www.worldkg.org/resource/5672264>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/357624574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/46344718>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/4248884824>
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
+<http://www.worldkg.org/resource/164839573>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/5671112>	<http://www.w3.org/2000/01/rdf-schema#label>	Ellwood Street
+<http://www.worldkg.org/resource/326119982>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/357631906>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357578879>
+<http://www.worldkg.org/resource/275111569>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/357624574>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357631906>
+<http://www.worldkg.org/resource/5672264>	<RegionId>	13_28
+<http://www.worldkg.org/resource/5672264>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/5670177>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/altName>	altName-Dyckman-Hillside Substation
+<http://www.worldkg.org/resource/357578879>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/4248884824>	<http://www.w3.org/2000/01/rdf-schema#label>	Dyckman Street
+<http://www.worldkg.org/resource/357631906>	<RegionId>	13_28
+<http://www.worldkg.org/resource/5671285>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671112>
+<http://www.worldkg.org/resource/5671112>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/46344718>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<http://www.worldkg.org/resource/5671112>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/326119982>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/4248884824>
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/level>	level-1
+<http://www.worldkg.org/resource/5670177>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/4248884824>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/357631906>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/5671112>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624574>
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/326119982>	<Line_railway-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46344718>
+<http://www.worldkg.org/resource/164842044>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/substation>	substation-traction
+<http://www.worldkg.org/resource/5673208>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275111593>
+<http://www.worldkg.org/resource/5672264>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670177>
+<http://www.worldkg.org/resource/275111569>	<Line_railway-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/326119982>
+<http://www.worldkg.org/resource/164839573>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357631906>
+<http://www.worldkg.org/resource/275111569>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingService>
+<http://www.worldkg.org/resource/4248884824>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/46344718>
+<http://www.worldkg.org/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/164842044>
+<http://www.worldkg.org/resource/5671112>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5673208>	<RegionId>	13_28
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/voltage>	voltage-625
+<http://www.worldkg.org/resource/4248884824>	<http://www.worldkg.org/schema/subway>	subway-yes
+<http://www.worldkg.org/resource/4248884824>	<http://www.worldkg.org/schema/station>	station-subway
+<http://www.worldkg.org/resource/164842044>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/164842044>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-separate
+<http://www.worldkg.org/resource/5673208>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5671285>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/357578879>	<http://www.worldkg.org/schema/ele>	ele-9
+<http://www.worldkg.org/resource/5671285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275111593>
+<http://www.worldkg.org/resource/46344718>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/357631906>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/734871771>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5670177>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672264>
+<http://www.worldkg.org/resource/357631906>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671285>
+<http://www.worldkg.org/resource/326119982>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwaySubway>
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/level>	level-1
+<http://www.worldkg.org/resource/4248884824>	<http://www.worldkg.org/schema/operator>	operator-New York City Transit Authority
+<http://www.worldkg.org/resource/4248884824>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-limited
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/5671285>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/164842044>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4248884824>
+<http://www.worldkg.org/resource/357578879>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357631906>
+<http://www.worldkg.org/resource/46344718>	<Line_railway-Adjacent-Line_railway>	<http://www.worldkg.org/resource/326119982>
+<http://www.worldkg.org/resource/46344718>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwaySubway>
+<http://www.worldkg.org/resource/164839573>	<http://www.worldkg.org/schema/cyclewayBoth>	cyclewayBoth-no
+<http://www.worldkg.org/resource/4248884824>	<RegionId>	13_28
+<http://www.worldkg.org/resource/734871771>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164842044>
+<http://www.worldkg.org/resource/4248884824>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/326119982>
+<http://www.worldkg.org/resource/5670177>	<http://www.w3.org/2000/01/rdf-schema#label>	West 193rd Street
+<http://www.worldkg.org/resource/164842044>	<RegionId>	13_28
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/electrified>	electrified-rail
+<http://www.worldkg.org/resource/4248884824>	<http://www.worldkg.org/schema/level>	level-1
+<http://www.worldkg.org/resource/357578879>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/164839573>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275111593>
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 08:00-17:00; Sa 08:00-16:00
+<http://www.worldkg.org/resource/4248884824>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164842044>
+<http://www.worldkg.org/resource/4248884824>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwayStation>
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/frequency>	frequency-0
+<http://www.worldkg.org/resource/275111569>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/357631906>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357624574>
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671285>
+<http://www.worldkg.org/resource/326119982>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/326119982>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/164842044>
+<http://www.worldkg.org/resource/357631906>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2367530
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/layer>	layer-1
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671112>
+<http://www.worldkg.org/resource/5671112>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734871771>
+<http://www.worldkg.org/resource/357624574>	<RegionId>	13_28
+<http://www.worldkg.org/resource/46344718>	<http://www.worldkg.org/schema/layer>	layer-1
+<http://www.worldkg.org/resource/734871771>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4248884824>
+<http://www.worldkg.org/resource/4248884824>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/164842044>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/275111593>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostOffice>
+<http://www.worldkg.org/resource/275111593>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort George Station Post Office
+<http://www.worldkg.org/resource/734871771>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671285>
+<http://www.worldkg.org/resource/164839573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/164839573>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357578879>
+<http://www.worldkg.org/resource/275111569>	<RegionId>	13_28
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1064070
+<http://www.worldkg.org/resource/5673208>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670177>
+<http://www.worldkg.org/resource/734871771>	<RegionId>	13_28
+<http://www.worldkg.org/resource/164839573>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/326119982>
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/5670177>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/275111593>
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/357624574>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673208>
+<http://www.worldkg.org/resource/46344718>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/734871771>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-separate
+<http://www.worldkg.org/resource/357624574>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2099803
+<http://www.worldkg.org/resource/164839573>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/height>	height-17.7
+<http://www.worldkg.org/resource/164842044>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5671285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357578879>
+<http://www.worldkg.org/resource/5671285>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357624574>
+<http://www.worldkg.org/resource/275111593>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670177>
+<http://www.worldkg.org/resource/357624574>	<http://www.worldkg.org/schema/religion>	religion-jewish
+<http://www.worldkg.org/resource/275111593>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/275111569>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/275111593>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083810
+<http://www.worldkg.org/resource/5673208>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<http://www.worldkg.org/resource/326119982>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/164839573>
+<http://www.worldkg.org/resource/326119982>	<http://www.w3.org/2000/01/rdf-schema#label>	IRT Broadway–Seventh Avenue Line
+<http://www.worldkg.org/resource/326119982>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-4
+<http://www.worldkg.org/resource/5673208>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275111569>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10040
