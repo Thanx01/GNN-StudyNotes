@@ -1,0 +1,454 @@
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/225158141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/420878087>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/5670540>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<http://www.worldkg.org/resource/6863378285>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/6957709110>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/5673505>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/265800196>
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/46613634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/225158141>
+<http://www.worldkg.org/resource/5673505>	<http://www.w3.org/2000/01/rdf-schema#label>	West 117th Street
+<http://www.worldkg.org/resource/6899386346>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/265799245>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/420878084>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/420878115>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/2714230679>	<RegionId>	11_1
+<http://www.worldkg.org/resource/46613634>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/6957709097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420878075>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083695
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/5673505>	<RegionId>	11_1
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6957709100>	<http://www.w3.org/2000/01/rdf-schema#label>	CVS Pharmacy
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/46613634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/225158141>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/fax>	fax-+1 212-876-8686
+<http://www.worldkg.org/resource/5673505>	<http://www.worldkg.org/schema/maxspeedConditional>	maxspeedConditional-5 mph @ (08:00-20:00)
+<http://www.worldkg.org/resource/420878084>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/420878084>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/46613634>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6899386346>
+<http://www.worldkg.org/resource/420878087>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/5719013573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670540>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/5673505>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/265799245>
+<http://www.worldkg.org/resource/6957709100>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5670540>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5670540>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6957709110>	<http://www.worldkg.org/schema/brand>	brand-Popeyes
+<http://www.worldkg.org/resource/265799248>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3938132962>
+<http://www.worldkg.org/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/420878084>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:CVS Pharmacy
+<http://www.worldkg.org/resource/420878075>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/420878084>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/branch>	branch-5th Ave & 116th St
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/46613634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/420878085>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/420878115>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/6899386346>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/6899386346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/46613634>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/265800196>
+<http://www.worldkg.org/resource/6799248313>	<http://www.worldkg.org/schema/brand>	brand-T-Mobile
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878086>
+<http://www.worldkg.org/resource/6863378285>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-142
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/265799245>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-37
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/6899386346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/3938132962>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/420878115>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878075>
+<http://www.worldkg.org/resource/420878084>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/6957709107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/branch>	branch-Harlem
+<http://www.worldkg.org/resource/265800196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/operatorType>	operatorType-private
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/6957709107>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/6863378285>	<http://www.w3.org/2000/01/rdf-schema#label>	Carver Federal Savings Bank
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 08:30-19:30; Sa 10:00-17:00; Su 11:00-16:00
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/email>	email-store4163@theupsstore.com
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/265799248>	<http://www.worldkg.org/schema/height>	height-35.9
+<http://www.worldkg.org/resource/6957709097>	<http://www.w3.org/2000/01/rdf-schema#label>	Dunkin'
+<http://www.worldkg.org/resource/265799245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/LanduseConstruction>
+<http://www.worldkg.org/resource/5673505>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/46613634>	<RegionId>	11_1
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/420878086>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/265799245>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/phone>	phone-+1 212-348-2199
+<http://www.worldkg.org/resource/420878115>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/420878115>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/5719013573>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/265799245>
+<http://www.worldkg.org/resource/6899386346>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/420878115>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878075>
+<http://www.worldkg.org/resource/265799245>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5719013573>
+<http://www.worldkg.org/resource/265800196>	<RegionId>	11_1
+<http://www.worldkg.org/resource/225158141>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/265800196>
+<http://www.worldkg.org/resource/420878085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6957709107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostOffice>
+<http://www.worldkg.org/resource/5719013573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/MobilePhone>
+<http://www.worldkg.org/resource/6957709107>	<RegionId>	11_1
+<http://www.worldkg.org/resource/6899386346>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/225158141>
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878075>
+<http://www.worldkg.org/resource/420878087>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6863378285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/6899386346>	<http://www.worldkg.org/schema/routeRef>	routeRef-M1
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/3938132962>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/6799248313>	<http://www.w3.org/2000/01/rdf-schema#label>	T-Mobile
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1053186
+<http://www.worldkg.org/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6957709110>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/265800196>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:The UPS Store
+<http://www.worldkg.org/resource/3938132962>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/5673505>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/225158141>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6899386346>
+<http://www.worldkg.org/resource/265799245>	<http://www.worldkg.org/schema/height>	height-11.7
+<http://www.worldkg.org/resource/265799245>	<RegionId>	11_1
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/46613634>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6799248313>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-140
+<http://www.worldkg.org/resource/46613634>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/420878075>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46613634>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/420878085>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6957709097>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q847743
+<http://www.worldkg.org/resource/265799245>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/6799248313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/MobilePhone>
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/420878075>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1051428
+<http://www.worldkg.org/resource/6863378285>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/3938132962>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/265799244>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/5673505>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/420878084>	<RegionId>	11_1
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/420878086>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/420878086>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/5673505>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/420878075>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/6957709097>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/phone>	phone-+1 212-722-5488
+<http://www.worldkg.org/resource/420878086>	<RegionId>	11_1
+<http://www.worldkg.org/resource/420878115>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420878086>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/265799245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6957709110>	<RegionId>	11_1
+<http://www.worldkg.org/resource/420878087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6957709097>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/420878086>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/265800196>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/225158141>
+<http://www.worldkg.org/resource/5670540>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/420878084>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q327634
+<http://www.worldkg.org/resource/3938132962>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/265799248>	<Polygon_buildings-Contain-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/brand>	brand-The UPS Store
+<http://www.worldkg.org/resource/6799248313>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q327634
+<http://www.worldkg.org/resource/5719013573>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/5670540>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<http://www.worldkg.org/resource/420878084>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/265799244>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/6899386346>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/dispensing>	dispensing-yes
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/6799248313>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/6899386346>	<RegionId>	11_1
+<http://www.worldkg.org/resource/265799245>	<Point_pofw-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/2714230679>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/3938132962>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Sa 10:00-20:00; Su 11:00-18:00
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Within-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/website>	website-https://www.t-mobile.com/stores/bd/t-mobile-new-york-ny-10026-5642
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/height>	height-13.4
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/265799248>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-130
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/facebook>	facebook-sndheadquarters
+<http://www.worldkg.org/resource/6799248313>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:T-Mobile
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1400
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/46613634>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878086>
+<http://www.worldkg.org/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/6957709110>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Popeyes
+<http://www.worldkg.org/resource/420878075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/3938132962>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/5670540>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-55
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/265799245>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1051432
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/225158141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420878075>
+<http://www.worldkg.org/resource/6957709110>	<http://www.w3.org/2000/01/rdf-schema#label>	Popeyes
+<http://www.worldkg.org/resource/6863378285>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Bank>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/6957709110>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/brand>	brand-CVS Pharmacy
+<http://www.worldkg.org/resource/420878115>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/2714230679>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/420878087>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/265799248>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799244>
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6799248313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/265799248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/265799244>	<http://www.w3.org/2000/01/rdf-schema#label>	Salvation and Deliverence Church
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/225158141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/6957709100>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pharmacy>
+<http://www.worldkg.org/resource/420878086>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5673505>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/420878115>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/420878086>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/5670540>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3938132962>
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/420878086>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673505>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/46613634>	<http://www.w3.org/2000/01/rdf-schema#label>	West 118th Street
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6899386346>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/5673505>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6899386346>
+<http://www.worldkg.org/resource/420878086>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420878085>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/265799248>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1085936
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/265799245>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-11
+<http://www.worldkg.org/resource/265799248>	<RegionId>	11_1
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878075>
+<http://www.worldkg.org/resource/420878075>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q2078880
+<http://www.worldkg.org/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/email>	email-info@sndhq.org
+<http://www.worldkg.org/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/420878087>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/420878085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/ref>	ref-4163
+<http://www.worldkg.org/resource/6799248313>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/3938132962>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/6899386346>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/420878115>	<RegionId>	11_1
+<http://www.worldkg.org/resource/6957709097>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Dunkin' Donuts
+<http://www.worldkg.org/resource/265799248>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/420878075>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/46613634>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3938132962>
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3938132962>
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/2714230679>	<http://www.w3.org/2000/01/rdf-schema#label>	Carver Federal Savings Bank
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/2714230679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Bank>
+<http://www.worldkg.org/resource/6899386346>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue & West 118th Street
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-130
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3938132962>
+<http://www.worldkg.org/resource/46613634>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q7771029
+<http://www.worldkg.org/resource/265800196>	<http://www.w3.org/2000/01/rdf-schema#label>	Bethel Way of the Cross Church of Christ
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/ref>	ref-5222
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5719013573>
+<http://www.worldkg.org/resource/5673505>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/225158141>	<http://www.w3.org/2000/01/rdf-schema#label>	Milbank
+<http://www.worldkg.org/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/420878086>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/265799248>	<http://www.w3.org/2000/01/rdf-schema#label>	The Renaissance
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/phone>	phone-+1 212-876-8800
+<http://www.worldkg.org/resource/265800196>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/225158141>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5670540>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/46613634>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/46613634>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/6957709097>	<http://www.worldkg.org/schema/brand>	brand-Dunkin'
+<http://www.worldkg.org/resource/5719013573>	<http://www.w3.org/2000/01/rdf-schema#label>	T-Mobile
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/website>	website-https://locations.theupsstore.com/ny/new-york/55-w-116th-st
+<http://www.worldkg.org/resource/6957709097>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:T-Mobile
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/6957709097>	<RegionId>	11_1
+<http://www.worldkg.org/resource/6957709097>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/6957709097>	<http://www.worldkg.org/schema/altName>	altName-Dunkin' Donuts
+<http://www.worldkg.org/resource/6957709107>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Copyshop>
+<http://www.worldkg.org/resource/2714230679>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-142
+<http://www.worldkg.org/resource/420878075>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/6957709100>	<http://www.worldkg.org/schema/website>	website-https://www.cvs.com/store-locator/new-york-ny-pharmacies/130-lenox-ave-btwn-116th-and-117th-st-new-york-ny-10026
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/3938132962>	<RegionId>	11_1
+<http://www.worldkg.org/resource/265799244>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10026
+<http://www.worldkg.org/resource/420878087>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878087>
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-23
+<http://www.worldkg.org/resource/420878075>	<RegionId>	11_1
+<http://www.worldkg.org/resource/265799248>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5670540>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/265799245>
+<http://www.worldkg.org/resource/420878075>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/6957709097>	<http://www.worldkg.org/schema/cuisine>	cuisine-donut;coffee_shop
+<http://www.worldkg.org/resource/420878115>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/265800196>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/phone>	phone-+1 646-490-5393
+<http://www.worldkg.org/resource/6957709107>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/5673505>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/265799248>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/420878085>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/420878075>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/420878085>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/6957709110>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709097>
+<http://www.worldkg.org/resource/420878087>	<RegionId>	11_1
+<http://www.worldkg.org/resource/5673505>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:The UPS Store
+<http://www.worldkg.org/resource/5719013573>	<RegionId>	11_1
+<http://www.worldkg.org/resource/420878087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/6957709110>	<http://www.worldkg.org/schema/cuisine>	cuisine-chicken
+<http://www.worldkg.org/resource/420878075>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/420878087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709107>
+<http://www.worldkg.org/resource/6957709107>	<http://www.w3.org/2000/01/rdf-schema#label>	The UPS Store
+<http://www.worldkg.org/resource/265799244>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3938132962>
+<http://www.worldkg.org/resource/6957709100>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6957709110>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/website>	website-https://www.sndhq.org
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/operator>	operator-The UPS Store
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709110>
+<http://www.worldkg.org/resource/420878075>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/420878075>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878084>
+<http://www.worldkg.org/resource/420878084>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5673505>
+<http://www.worldkg.org/resource/5719013573>	<http://www.worldkg.org/schema/brand>	brand-T-Mobile
+<http://www.worldkg.org/resource/3938132962>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 147
+<http://www.worldkg.org/resource/225158141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420878084>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/420878086>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46613634>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/6863378285>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670540>
+<http://www.worldkg.org/resource/2714230679>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2714230679>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878115>
+<http://www.worldkg.org/resource/420878085>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/5673505>	<http://www.worldkg.org/schema/motorVehicleConditional>	motorVehicleConditional-destination @ (08:00-20:00)
+<http://www.worldkg.org/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6863378285>
+<http://www.worldkg.org/resource/6957709107>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/6957709110>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q1330910
+<http://www.worldkg.org/resource/265800196>	<http://www.worldkg.org/schema/ele>	ele-7
+<http://www.worldkg.org/resource/420878087>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/6799248313>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/420878085>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613634>
+<http://www.worldkg.org/resource/420878085>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878085>
+<http://www.worldkg.org/resource/6957709100>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6799248313>
+<http://www.worldkg.org/resource/420878087>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/265799248>
+<http://www.worldkg.org/resource/5670540>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2714230679>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/420878084>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6957709100>
+<http://www.worldkg.org/resource/265799244>	<http://www.worldkg.org/schema/height>	height-22.6
+<http://www.worldkg.org/resource/420878085>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/420878115>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5673505>

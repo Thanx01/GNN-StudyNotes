@@ -1,0 +1,129 @@
+<http://www.worldkg.org/resource/275099208>	<RegionId>	13_18
+<http://www.worldkg.org/resource/275099148>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2501
+<http://www.worldkg.org/resource/3105305>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/5670438>
+<http://www.worldkg.org/resource/5670438>	<RegionId>	13_18
+<http://www.worldkg.org/resource/469101348>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/275099144>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101348>
+<http://www.worldkg.org/resource/5670438>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420874480>
+<http://www.worldkg.org/resource/275099208>	<http://www.w3.org/2000/01/rdf-schema#label>	Morgenstern Residence Hall
+<http://www.worldkg.org/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/275099151>
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099148>
+<http://www.worldkg.org/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/275099148>
+<http://www.worldkg.org/resource/5384045093>	<RegionId>	13_18
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/275099144>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101347>
+<http://www.worldkg.org/resource/3105305>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/420874480>
+<http://www.worldkg.org/resource/469101347>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/275099144>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2495
+<http://www.worldkg.org/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099144>
+<http://www.worldkg.org/resource/5670438>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275099144>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10033
+<http://www.worldkg.org/resource/275099151>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2521
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/469101348>
+<http://www.worldkg.org/resource/469101348>	<RegionId>	13_18
+<http://www.worldkg.org/resource/275099148>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101348>
+<http://www.worldkg.org/resource/745675478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/275099144>	<http://www.worldkg.org/schema/height>	height-76.7
+<http://www.worldkg.org/resource/275099148>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101347>
+<http://www.worldkg.org/resource/275099148>	<http://www.w3.org/2000/01/rdf-schema#label>	Max Stern Athletic Center
+<http://www.worldkg.org/resource/469101348>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/275099144>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5384045093>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue & West 187th Street
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099151>
+<http://www.worldkg.org/resource/275099208>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/275099148>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099144>
+<http://www.worldkg.org/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099151>
+<http://www.worldkg.org/resource/5384045093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3105305>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/275099208>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099148>
+<http://www.worldkg.org/resource/275099151>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101348>
+<http://www.worldkg.org/resource/275099148>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/275099148>	<http://www.worldkg.org/schema/height>	height-19.4
+<http://www.worldkg.org/resource/3105305>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5384045093>
+<http://www.worldkg.org/resource/745675478>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/420874480>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/275099148>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099208>
+<http://www.worldkg.org/resource/420874480>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<http://www.worldkg.org/resource/469101347>	<RegionId>	13_18
+<http://www.worldkg.org/resource/745675478>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420874480>
+<http://www.worldkg.org/resource/5384045093>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670438>
+<http://www.worldkg.org/resource/275099148>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099151>
+<http://www.worldkg.org/resource/275099208>	<http://www.worldkg.org/schema/height>	height-24.5
+<http://www.worldkg.org/resource/275099208>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101348>
+<http://www.worldkg.org/resource/275099144>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099151>
+<http://www.worldkg.org/resource/275099144>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1063580
+<http://www.worldkg.org/resource/3105305>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/469101348>
+<http://www.worldkg.org/resource/275099208>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1063582
+<http://www.worldkg.org/resource/5384045093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099208>
+<http://www.worldkg.org/resource/275099151>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099148>
+<http://www.worldkg.org/resource/420874480>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<http://www.worldkg.org/resource/5384045093>	<http://www.worldkg.org/schema/bench>	bench-no
+<http://www.worldkg.org/resource/5384045093>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/3105305>	<RegionId>	13_18
+<http://www.worldkg.org/resource/275099144>	<RegionId>	13_18
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099144>
+<http://www.worldkg.org/resource/469101348>	<http://www.w3.org/2000/01/rdf-schema#label>	Danciger Quadrangle
+<http://www.worldkg.org/resource/5670438>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/420874480>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/469101347>
+<http://www.worldkg.org/resource/420874480>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/745675478>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<http://www.worldkg.org/resource/275099151>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/275099144>	<http://www.w3.org/2000/01/rdf-schema#label>	Belfer Hall
+<http://www.worldkg.org/resource/469101347>	<http://www.w3.org/2000/01/rdf-schema#label>	Tenzer Garden
+<http://www.worldkg.org/resource/745675478>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5670438>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/745675478>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/3105305>	<http://www.w3.org/2000/01/rdf-schema#label>	Yeshiva University - Wilf Campus
+<http://www.worldkg.org/resource/420874480>	<RegionId>	13_18
+<http://www.worldkg.org/resource/5384045093>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/469101347>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099208>
+<http://www.worldkg.org/resource/275099151>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099144>
+<http://www.worldkg.org/resource/420874480>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099144>
+<http://www.worldkg.org/resource/275099208>	<Polygon_buildings-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/275099151>
+<http://www.worldkg.org/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/275099208>
+<http://www.worldkg.org/resource/275099151>	<http://www.worldkg.org/schema/height>	height-12.1
+<http://www.worldkg.org/resource/420874480>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/275099151>	<Polygon_buildings-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/275099208>
+<http://www.worldkg.org/resource/275099148>	<RegionId>	13_18
+<http://www.worldkg.org/resource/3105305>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/469101347>
+<http://www.worldkg.org/resource/275099148>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10033
+<http://www.worldkg.org/resource/3105305>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityUniversity>
+<http://www.worldkg.org/resource/275099151>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1081871
+<http://www.worldkg.org/resource/420874480>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/469101348>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099148>
+<http://www.worldkg.org/resource/3105305>	<http://www.worldkg.org/schema/type>	type-multipolygon
+<http://www.worldkg.org/resource/275099144>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420874480>
+<http://www.worldkg.org/resource/420874480>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/745675478>
+<http://www.worldkg.org/resource/275099144>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/275099148>
+<http://www.worldkg.org/resource/275099144>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/275099151>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/3105305>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/745675478>
+<http://www.worldkg.org/resource/745675478>	<RegionId>	13_18
+<http://www.worldkg.org/resource/420874480>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/275099148>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5384045093>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/5384045093>	<http://www.worldkg.org/schema/routeRef>	routeRef-M101
+<http://www.worldkg.org/resource/469101348>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/5670438>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/745675478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670438>	<http://www.w3.org/2000/01/rdf-schema#label>	West 187th Street
+<http://www.worldkg.org/resource/420874480>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/5384045093>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/275099148>	<http://www.worldkg.org/schema/fixme>	fixme-name?
+<http://www.worldkg.org/resource/275099208>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101347>
+<http://www.worldkg.org/resource/5670438>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5384045093>
+<http://www.worldkg.org/resource/275099208>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/3105305>
+<http://www.worldkg.org/resource/5384045093>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/745675478>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<http://www.worldkg.org/resource/3105305>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/275099144>
+<http://www.worldkg.org/resource/745675478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/275099151>	<RegionId>	13_18
+<http://www.worldkg.org/resource/745675478>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/469101347>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/275099151>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10033
+<http://www.worldkg.org/resource/275099148>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1081872
+<http://www.worldkg.org/resource/275099151>	<http://www.w3.org/2000/01/rdf-schema#label>	Strenger Residence Hall
+<http://www.worldkg.org/resource/469101348>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/469101347>
+<http://www.worldkg.org/resource/275099151>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/469101347>

@@ -1,0 +1,681 @@
+<http://www.worldkg.org/resource/284868519>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/357621702>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2084003
+<http://www.worldkg.org/resource/6247724456>	<http://www.worldkg.org/schema/routeRef>	routeRef-M86
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621702>
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/6237394819>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/478478415>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6247724456>
+<http://www.worldkg.org/resource/6247731351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/478478415>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/531989620>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670795>
+<http://www.worldkg.org/resource/266904808>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083602
+<http://www.worldkg.org/resource/6247724456>	<http://www.worldkg.org/schema/shelter>	shelter-no
+<http://www.worldkg.org/resource/717537135>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/531989620>	<http://www.worldkg.org/schema/crossing>	crossing-marked
+<http://www.worldkg.org/resource/420626388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/5309510961>	<http://www.w3.org/2000/01/rdf-schema#label>	1 Av/E 86 St
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907L
+<http://www.worldkg.org/resource/717537135>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/5672418>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/308989079>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/5309508065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/5309510961>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670795>	<http://www.w3.org/2000/01/rdf-schema#label>	Henderson Place
+<http://www.worldkg.org/resource/5670459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/nameRu>	nameRu-1-я Авеню
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/478478415>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/531989610>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/108159406>	<http://www.worldkg.org/schema/source>	source-bing
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/routeRef>	routeRef-M15;M15-SBS
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/531989635>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/308989079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/1504407631>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/308989242>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/531989635>
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/5670459>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6059038904>
+<http://www.worldkg.org/resource/531989620>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/5672418>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/gtfsStopId>	gtfsStopId-401715
+<http://www.worldkg.org/resource/5682367690>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672418>
+<http://www.worldkg.org/resource/531989622>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/6247731351>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5682367690>
+<http://www.worldkg.org/resource/5652766523>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10128
+<http://www.worldkg.org/resource/531989629>	<RegionId>	9_33
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-406
+<http://www.worldkg.org/resource/531989610>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357642359>
+<http://www.worldkg.org/resource/531989610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989635>
+<http://www.worldkg.org/resource/531989632>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/6059038904>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/478478415>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5682367690>
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/level>	level-0
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/5309508065>	<http://www.w3.org/2000/01/rdf-schema#label>	East 86th Street & 1st Avenue
+<http://www.worldkg.org/resource/357642359>	<RegionId>	9_33
+<http://www.worldkg.org/resource/266904793>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5652766523>	<http://www.w3.org/2000/01/rdf-schema#label>	New York Paint & Hardware
+<http://www.worldkg.org/resource/531989629>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/6247731351>	<http://www.worldkg.org/schema/network>	network-NYC Transit
+<http://www.worldkg.org/resource/420626397>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/facebook>	facebook-StJosephsChurchYorkville
+<http://www.worldkg.org/resource/531989622>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1716
+<http://www.worldkg.org/resource/6247731351>	<http://www.worldkg.org/schema/operator>	operator-MTA
+<http://www.worldkg.org/resource/6247724456>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/5857904387>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/5670459>	<RegionId>	9_33
+<http://www.worldkg.org/resource/1504407631>	<http://www.w3.org/2000/01/rdf-schema#label>	Carl Schurz Park
+<http://www.worldkg.org/resource/717537135>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:86th Street (Manhattan)
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/dispensing>	dispensing-yes
+<http://www.worldkg.org/resource/2357937221>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pharmacy>
+<http://www.worldkg.org/resource/266904793>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/network>	network-MTA New York City Bus
+<http://www.worldkg.org/resource/531989635>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/531989635>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/308989242>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989079>
+<http://www.worldkg.org/resource/717537135>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/5670795>	<RegionId>	9_33
+<http://www.worldkg.org/resource/531989620>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357642359>
+<http://www.worldkg.org/resource/6237394819>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/717537135>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5682367690>
+<http://www.worldkg.org/resource/531989629>	<http://www.w3.org/2000/01/rdf-schema#label>	East 88th Street
+<http://www.worldkg.org/resource/266904793>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/531989610>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/226015245>	<RegionId>	9_33
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/717537135>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/420626397>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<http://www.worldkg.org/resource/478478415>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/5682367690>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/6247724456>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5670795>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/531989610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/6247731351>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/531989635>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/5672418>	<http://www.worldkg.org/schema/altName>	altName-East 84th Street
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/startDate>	startDate-1895
+<http://www.worldkg.org/resource/5672418>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/284868519>	<http://www.w3.org/2000/01/rdf-schema#label>	Gracie Mansion
+<http://www.worldkg.org/resource/5857904387>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978510509>
+<http://www.worldkg.org/resource/5652766523>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/5672418>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/phone>	phone-+1 212-289-6030
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/brand>	brand-Duane Reade
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/308989242>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/website>	website-https://www.walgreens.com/locator/duane+reade-401+e+86th+st-new+york-ny-10028/id=14242
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/email>	email-animalvetnyc@gmail.com
+<http://www.worldkg.org/resource/6247731351>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978510509>
+<http://www.worldkg.org/resource/266904793>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/1504407631>	<Point_pois-Within-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/308989079>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989242>
+<http://www.worldkg.org/resource/531989632>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/478478415>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6247731351>
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Duane Reade
+<http://www.worldkg.org/resource/5309508065>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/420626388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621702>
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/531989622>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/1504407631>	<http://www.worldkg.org/schema/maintenance>	maintenance-ok
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/266904808>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/2357937221>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/5978510509>	<RegionId>	9_33
+<http://www.worldkg.org/resource/531989610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/5652766523>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/531989622>	<http://www.w3.org/2000/01/rdf-schema#label>	East 89th Street
+<http://www.worldkg.org/resource/5309508065>	<http://www.worldkg.org/schema/routeRef>	routeRef-M86-SBS
+<http://www.worldkg.org/resource/531989629>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/6237394819>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/531989622>	<http://www.worldkg.org/schema/surface>	surface-concrete
+<http://www.worldkg.org/resource/5682367690>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5857904387>
+<http://www.worldkg.org/resource/6247724456>	<http://www.worldkg.org/schema/operator>	operator-MTA
+<http://www.worldkg.org/resource/6247731351>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/420626388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6059038904>
+<http://www.worldkg.org/resource/5857904387>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6247731351>
+<http://www.worldkg.org/resource/531989615>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/5652760938>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/5978510509>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5857904387>
+<http://www.worldkg.org/resource/108159406>	<RegionId>	9_33
+<http://www.worldkg.org/resource/308989079>	<http://www.w3.org/2000/01/rdf-schema#label>	Small Dog Run
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2629371903>
+<http://www.worldkg.org/resource/420626397>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/531989620>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989635>
+<http://www.worldkg.org/resource/420626388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2629371903>
+<http://www.worldkg.org/resource/531989635>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5670459>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5978510509>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/6237394819>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/5652766523>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/2357937221>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/tactilePaving>	tactilePaving-yes
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/phone>	phone-+1 212-876-9332
+<http://www.worldkg.org/resource/6059038904>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5670795>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6247731351>	<RegionId>	9_33
+<http://www.worldkg.org/resource/266904808>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q5310380
+<http://www.worldkg.org/resource/420626397>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/2629371903>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/2357937221>	<http://www.w3.org/2000/01/rdf-schema#label>	Duane Reade
+<http://www.worldkg.org/resource/531989610>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670459>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-lane
+<http://www.worldkg.org/resource/5670459>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/cuisine>	cuisine-diner
+<http://www.worldkg.org/resource/32959995>	<http://www.w3.org/2000/01/rdf-schema#label>	FDR Drive
+<http://www.worldkg.org/resource/357642359>	<http://www.worldkg.org/schema/ele>	ele-9
+<http://www.worldkg.org/resource/717537135>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6247731351>
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/2357937221>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/website>	website-http://www.eatnewsunnyeast88nyc.com/
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/6247724456>	<http://www.worldkg.org/schema/network>	network-NYC Transit
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083607
+<http://www.worldkg.org/resource/2629371903>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621702>
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/height>	height-12.6
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Sa 06:00-01:00; Su 06:00-24:00
+<http://www.worldkg.org/resource/478478415>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/357621702>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6059038904>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672418>
+<http://www.worldkg.org/resource/531989615>	<http://www.w3.org/2000/01/rdf-schema#label>	East 88th Street
+<http://www.worldkg.org/resource/531989620>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/5670795>	<http://www.worldkg.org/schema/access>	access-private
+<http://www.worldkg.org/resource/6059038904>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/6247731351>	<http://www.w3.org/2000/01/rdf-schema#label>	York Ave/ E 86 St
+<http://www.worldkg.org/resource/531989615>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/531989610>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/531989622>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670795>
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/phone>	phone-+1 212-360-5820
+<http://www.worldkg.org/resource/226015245>	<http://www.w3.org/2000/01/rdf-schema#label>	John Finley Walk
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/operator>	operator-United States Postal Service
+<http://www.worldkg.org/resource/420626388>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989079>
+<http://www.worldkg.org/resource/266904808>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2084012
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989079>
+<http://www.worldkg.org/resource/5652766523>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/2629371903>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/717537135>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/420626388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/420626388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/717537135>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/1504407631>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672418>
+<http://www.worldkg.org/resource/478478415>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/531989635>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10128
+<http://www.worldkg.org/resource/531989632>	<http://www.w3.org/2000/01/rdf-schema#label>	East 89th Street
+<http://www.worldkg.org/resource/420626388>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/6059038904>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/serviceTimes>	serviceTimes-Mo-Fr 07:00, 12:15; Sa 08:00, 12:15, 16:00; Su 08:00, 10:00, 12:00, 14:00, 18:00
+<http://www.worldkg.org/resource/5309510961>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/layer>	layer--2
+<http://www.worldkg.org/resource/5978510509>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6247731351>
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10128
+<http://www.worldkg.org/resource/6237394819>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/420626388>	<RegionId>	9_33
+<http://www.worldkg.org/resource/308989242>	<RegionId>	9_33
+<http://www.worldkg.org/resource/531989610>	<RegionId>	9_33
+<http://www.worldkg.org/resource/531989620>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5652760938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Veterinary>
+<http://www.worldkg.org/resource/266904793>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Joseph's Church
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q8007
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/717537135>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5857904387>
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/5682367690>	<http://www.w3.org/2000/01/rdf-schema#label>	Duane Reade
+<http://www.worldkg.org/resource/266904808>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5857904387>	<RegionId>	9_33
+<http://www.worldkg.org/resource/531989615>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5652766523>	<RegionId>	9_33
+<http://www.worldkg.org/resource/6247731351>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/5682367690>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5978510509>
+<http://www.worldkg.org/resource/308989242>	<http://www.w3.org/2000/01/rdf-schema#label>	Large Dog Run
+<http://www.worldkg.org/resource/531989620>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/5978510509>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1657
+<http://www.worldkg.org/resource/308989079>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/DogPark>
+<http://www.worldkg.org/resource/1504407631>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityDrinkingWater>
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357642359>
+<http://www.worldkg.org/resource/531989615>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/717537135>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/531989620>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q668687
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/bin>	bin-yes
+<http://www.worldkg.org/resource/5652760938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5978510509>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5682367690>
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-shared_lane
+<http://www.worldkg.org/resource/32960691>	<http://www.w3.org/2000/01/rdf-schema#label>	FDR Drive
+<http://www.worldkg.org/resource/357642359>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/357642359>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/357621702>	<http://www.w3.org/2000/01/rdf-schema#label>	Richard R Green High School of Teaching
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/foot>	foot-designated
+<http://www.worldkg.org/resource/478478415>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5670795>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357642359>
+<http://www.worldkg.org/resource/6247731351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/6247731351>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5857904387>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/308989242>
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q5310380
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/226015245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/420626397>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/531989632>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/108159406>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/6059038904>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2629371903>
+<http://www.worldkg.org/resource/32960691>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407631>
+<http://www.worldkg.org/resource/6247724456>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/531989615>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/531989620>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/531989610>	<http://www.worldkg.org/schema/crossing>	crossing-marked
+<http://www.worldkg.org/resource/5309508065>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/altName>	altName-Franklin Delano Roosevelt Drive
+<http://www.worldkg.org/resource/6237394819>	<http://www.w3.org/2000/01/rdf-schema#label>	New Sunny East 88
+<http://www.worldkg.org/resource/6237394819>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/5652760938>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/5682367690>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pharmacy>
+<http://www.worldkg.org/resource/531989622>	<RegionId>	9_33
+<http://www.worldkg.org/resource/531989632>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989242>
+<http://www.worldkg.org/resource/5670459>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/5670795>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2629371903>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Duane Reade
+<http://www.worldkg.org/resource/357621702>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/5857904387>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/5309508065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/driveThrough>	driveThrough-no
+<http://www.worldkg.org/resource/5672418>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/531989629>	<http://www.worldkg.org/schema/crossing>	crossing-marked
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/cuisine>	cuisine-chinese
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/ref>	ref-14393
+<http://www.worldkg.org/resource/717537135>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/5670459>	<http://www.w3.org/2000/01/rdf-schema#label>	East 89th Street
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/531989629>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/717537135>	<RegionId>	9_33
+<http://www.worldkg.org/resource/717537135>	<http://www.w3.org/2000/01/rdf-schema#label>	East 86th Street
+<http://www.worldkg.org/resource/266904808>	<http://www.worldkg.org/schema/ele>	ele-13
+<http://www.worldkg.org/resource/531989635>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670795>
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/5857904387>	<http://www.w3.org/2000/01/rdf-schema#label>	The Mansion Restaurant
+<http://www.worldkg.org/resource/357642359>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/108159406>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/5670459>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/brand>	brand-Duane Reade
+<http://www.worldkg.org/resource/32960691>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/266904793>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/357642359>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989635>
+<http://www.worldkg.org/resource/478478415>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5857904387>
+<http://www.worldkg.org/resource/531989632>	<http://www.worldkg.org/schema/surface>	surface-concrete
+<http://www.worldkg.org/resource/32959995>	<RegionId>	9_33
+<http://www.worldkg.org/resource/420626388>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/108159406>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Carl Schurz Park
+<http://www.worldkg.org/resource/420626397>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/refNrhp>	refNrhp-75001205
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Contain-Point_pois>	<http://www.worldkg.org/resource/1504407631>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989635>
+<http://www.worldkg.org/resource/5670459>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:89th Street (Manhattan)
+<http://www.worldkg.org/resource/5670795>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6059038904>
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/2629371903>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5309508065>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/266904808>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1086922
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/phone>	phone-+1 917-492-8801
+<http://www.worldkg.org/resource/6237394819>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/denomination>	denomination-catholic
+<http://www.worldkg.org/resource/5652760938>	<http://www.w3.org/2000/01/rdf-schema#label>	Animal Health Center
+<http://www.worldkg.org/resource/6247731351>	<http://www.worldkg.org/schema/networkWikidata>	networkWikidata-Q1325591
+<http://www.worldkg.org/resource/531989622>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/5309510961>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1676
+<http://www.worldkg.org/resource/531989615>	<http://www.worldkg.org/schema/crossing>	crossing-marked
+<http://www.worldkg.org/resource/5672418>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1085796
+<http://www.worldkg.org/resource/5978510509>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/operatorType>	operatorType-public
+<http://www.worldkg.org/resource/531989610>	<http://www.w3.org/2000/01/rdf-schema#label>	East 87th Street
+<http://www.worldkg.org/resource/2629371903>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<http://www.worldkg.org/resource/5672418>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/357642359>	<http://www.w3.org/2000/01/rdf-schema#label>	Henderson Place Historic District
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/ref>	ref-14242
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/357621702>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/altName>	altName-Franklin Delano Roosevelt Drive
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/email>	email-info@mansiondiner.com
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 07:30-18:30; Sa 08:00-18:30; Su 10:00-18:30
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/5309508065>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5670459>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/357642359>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670795>
+<http://www.worldkg.org/resource/284868519>	<RegionId>	9_33
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/5670459>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/531989615>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/5670795>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/357642359>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/308989079>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/5670795>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/531989620>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907L
+<http://www.worldkg.org/resource/108159406>	<http://www.w3.org/2000/01/rdf-schema#label>	Carl Schurz Park
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-401
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989079>
+<http://www.worldkg.org/resource/5682367690>	<RegionId>	9_33
+<http://www.worldkg.org/resource/2629371903>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostBox>
+<http://www.worldkg.org/resource/308989242>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/DogPark>
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/108159406>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/5309508065>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/420626397>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/branch>	branch-Yorkville
+<http://www.worldkg.org/resource/6247731351>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/2629371903>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6059038904>
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/tunnel>	tunnel-yes
+<http://www.worldkg.org/resource/266904793>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/fax>	fax-+1 212-369-3678
+<http://www.worldkg.org/resource/357621702>	<http://www.worldkg.org/schema/ele>	ele-10
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/website>	website-https://www.walgreens.com/locator/duane+reade-1637+york+ave-new+york-ny-10028/id=14393
+<http://www.worldkg.org/resource/5652766523>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989622>
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/32959995>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407631>
+<http://www.worldkg.org/resource/266904793>	<Point_transport-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/6247724456>	<RegionId>	9_33
+<http://www.worldkg.org/resource/478478415>	<http://www.w3.org/2000/01/rdf-schema#label>	York Avenue
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/height>	height-23.9
+<http://www.worldkg.org/resource/6247731351>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/108159406>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-973403
+<http://www.worldkg.org/resource/531989635>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/531989635>	<http://www.w3.org/2000/01/rdf-schema#label>	East 86th Street
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/collectionTimes>	collectionTimes-Mo-Fr 15:00, Sa 10:00
+<http://www.worldkg.org/resource/5682367690>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/6247724456>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/308989242>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/357642359>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2418015
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/717537135>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/6247724456>	<http://www.worldkg.org/schema/networkWikidata>	networkWikidata-Q1325591
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/website>	website-https://www.stjosephsyorkville.org/
+<http://www.worldkg.org/resource/1504407631>	<RegionId>	9_33
+<http://www.worldkg.org/resource/266904793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/32960691>	<RegionId>	9_33
+<http://www.worldkg.org/resource/226015245>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407631>
+<http://www.worldkg.org/resource/1504407631>	<http://www.worldkg.org/schema/description>	description-http://www.nycgovparks.org/facilities/waterfountains
+<http://www.worldkg.org/resource/531989629>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/266904808>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/2357937221>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/308989079>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/5672418>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5652760938>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/308989079>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/531989610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670795>
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/website>	website-https://www.mansiondiner.com
+<http://www.worldkg.org/resource/420626388>	<http://www.w3.org/2000/01/rdf-schema#label>	1st Avenue
+<http://www.worldkg.org/resource/357621702>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1637
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/6247731351>	<http://www.worldkg.org/schema/routeRef>	routeRef-M86
+<http://www.worldkg.org/resource/478478415>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5978510509>
+<http://www.worldkg.org/resource/531989610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/308989242>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-no
+<http://www.worldkg.org/resource/2357937221>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/2357937221>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/531989632>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/6247724456>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/2357937221>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/531989620>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/nameRu>	nameRu-1-я Авеню
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/5857904387>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5682367690>
+<http://www.worldkg.org/resource/5670459>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621702>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/1504407631>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-181
+<http://www.worldkg.org/resource/531989632>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/nameEn>	nameEn-1st Avenue
+<http://www.worldkg.org/resource/266904793>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/5652760938>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/357621702>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/5652766523>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5652766523>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/5652760938>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266904793>
+<http://www.worldkg.org/resource/2629371903>	<http://www.worldkg.org/schema/brand>	brand-USPS
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/operator>	operator-Metropolitan Transportation Authority
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/website>	website-https://phoshopnyc.com
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/brand>	brand-Benjamin Moore
+<http://www.worldkg.org/resource/531989635>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989620>
+<http://www.worldkg.org/resource/5652760938>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/5672418>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407631>
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10128
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/lanes>	lanes-4
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/6237394819>	<RegionId>	9_33
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1073877
+<http://www.worldkg.org/resource/420626397>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5670459>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6247724456>
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/531989629>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/420626397>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/2629371903>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/226015245>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989242>
+<http://www.worldkg.org/resource/531989620>	<http://www.w3.org/2000/01/rdf-schema#label>	East 87th Street
+<http://www.worldkg.org/resource/5672418>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1680
+<http://www.worldkg.org/resource/32959995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/357621702>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5672418>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/531989635>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357642359>
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1634
+<http://www.worldkg.org/resource/5857904387>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/531989615>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/531989622>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/531989635>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989242>
+<http://www.worldkg.org/resource/531989615>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/email>	email-info@stjosephsyorkville.com
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/5978510509>	<http://www.w3.org/2000/01/rdf-schema#label>	Park East Wines & Spirits
+<http://www.worldkg.org/resource/266904808>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-420
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Gracie Mansion
+<http://www.worldkg.org/resource/2357937221>	<RegionId>	9_33
+<http://www.worldkg.org/resource/108159406>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/startDate>	startDate-1799
+<http://www.worldkg.org/resource/6059038904>	<RegionId>	9_33
+<http://www.worldkg.org/resource/266904808>	<http://www.worldkg.org/schema/height>	height-20.9
+<http://www.worldkg.org/resource/108159406>	<http://www.worldkg.org/schema/ele>	ele-9
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/delivery>	delivery-yes
+<http://www.worldkg.org/resource/226015245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cycleway>
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Su 11:30-21:30
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5652760938>
+<http://www.worldkg.org/resource/5652766523>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/531989632>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/5670795>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989635>
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/cuisine>	cuisine-vietnamese
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/phone>	phone-+1 212-535-8888
+<http://www.worldkg.org/resource/531989615>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FootwayCrossing>
+<http://www.worldkg.org/resource/308989079>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/website>	website-https://www.animalvetnyc.com
+<http://www.worldkg.org/resource/6247724456>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/108159406>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/32959995>
+<http://www.worldkg.org/resource/5857904387>	<http://www.worldkg.org/schema/delivery>	delivery-06:30-24:30
+<http://www.worldkg.org/resource/6059038904>	<http://www.worldkg.org/schema/phone>	phone-+1 212-369-9888
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/531989632>	<RegionId>	9_33
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/266904793>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/nameEtymologyWikidata>	nameEtymologyWikidata-Q8007
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/layer>	layer--1
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/ele>	ele-10
+<http://www.worldkg.org/resource/531989629>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/284868519>
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/phone>	phone-+1 212-249-1614
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1668
+<http://www.worldkg.org/resource/717537135>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/5978510509>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Alcohol>
+<http://www.worldkg.org/resource/531989615>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989610>
+<http://www.worldkg.org/resource/5652760938>	<RegionId>	9_33
+<http://www.worldkg.org/resource/1504407631>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/32960691>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/1504407631>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/6247724456>	<http://www.w3.org/2000/01/rdf-schema#label>	York Avenue & East 88th Street
+<http://www.worldkg.org/resource/5978510509>	<http://www.worldkg.org/schema/phone>	phone-+1 212-534-2093
+<http://www.worldkg.org/resource/6237394819>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/tunnel>	tunnel-yes
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/2357937221>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/5309510961>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/308989242>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/420626397>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5652766523>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/226015245>
+<http://www.worldkg.org/resource/5652760938>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6237394819>
+<http://www.worldkg.org/resource/32959995>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/6059038904>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621702>
+<http://www.worldkg.org/resource/357621702>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2629371903>
+<http://www.worldkg.org/resource/266904808>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Joseph's School of Yorkville
+<http://www.worldkg.org/resource/420626397>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5309508065>
+<http://www.worldkg.org/resource/266904793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingChurch>
+<http://www.worldkg.org/resource/717537135>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5309510961>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/6059038904>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/531989629>
+<http://www.worldkg.org/resource/5978510509>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Sa 10:00-22:00; Su 12:00-20:00
+<http://www.worldkg.org/resource/5309510961>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/717537135>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/surface>	surface-paving_stones
+<http://www.worldkg.org/resource/531989610>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/531989632>
+<http://www.worldkg.org/resource/717537135>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/531989635>	<http://www.worldkg.org/schema/crossing>	crossing-marked
+<http://www.worldkg.org/resource/6237394819>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420626397>
+<http://www.worldkg.org/resource/284868519>	<http://www.worldkg.org/schema/source>	source-USGS Geonames
+<http://www.worldkg.org/resource/478478415>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/284868519>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/108159406>
+<http://www.worldkg.org/resource/32959995>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/531989615>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/5672418>	<http://www.w3.org/2000/01/rdf-schema#label>	Gracie Square
+<http://www.worldkg.org/resource/108159406>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/308989079>
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/308989242>
+<http://www.worldkg.org/resource/284868519>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/531989615>
+<http://www.worldkg.org/resource/531989620>	<RegionId>	9_33
+<http://www.worldkg.org/resource/32959995>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672418>
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/420626388>	<http://www.worldkg.org/schema/lanes>	lanes-5
+<http://www.worldkg.org/resource/5682367690>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6247731351>
+<http://www.worldkg.org/resource/266904808>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/717537135>
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-track
+<http://www.worldkg.org/resource/2357937221>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309510961>
+<http://www.worldkg.org/resource/6059038904>	<http://www.w3.org/2000/01/rdf-schema#label>	Pho Shop
+<http://www.worldkg.org/resource/531989622>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/420626397>	<http://www.worldkg.org/schema/nameEn>	nameEn-1st Avenue
+<http://www.worldkg.org/resource/32960691>	<http://www.worldkg.org/schema/maxheight>	maxheight-11'5\\\" .
+<http://www.worldkg.org/resource/46694766> <Point_pois-Adjacent-Line_roads> <http://www.worldkg.org/resource/6725371118> .
+<http://www.worldkg.org/resource/295969929> <Point_pois-Adjacent-Point_pois> <http://www.worldkg.org/resource/6670244857> .
+<http://www.worldkg.org/resource/46211848> <Line_roads-Adjacent-Line_railway> <http://www.worldkg.org/resource/818927671> .
+<http://www.worldkg.org/resource/3590689282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/sf#Point> .
+<http://www.worldkg.org/resource/5599003433> <Point_pois-Adjacent-Point_pois> <http://www.worldkg.org/resource/3590689282> .
+<http://www.worldkg.org/resource/6270654468> <http://www.worldkg.org/schema/bench> bench-yes"
+<http://www.worldkg.org/resource/531989615>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670459>
+<http://www.worldkg.org/resource/266904793>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/308989242>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/32960691>
+<http://www.worldkg.org/resource/226015245>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/5652760938>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo, We, Sa 09:00-15:00; Tu, Th, Fr 09:00-18:00
+<http://www.worldkg.org/resource/308989242>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/1504407631>	<http://www.worldkg.org/schema/source>	source-osmsync:findafountain
+<http://www.worldkg.org/resource/5652766523>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Hardware>
+<http://www.worldkg.org/resource/5670459>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2629371903>
+<http://www.worldkg.org/resource/308989079>	<RegionId>	9_33
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420626388>
+<http://www.worldkg.org/resource/5652766523>	<http://www.worldkg.org/schema/website>	website-http://www.nypaintandhardware.com
+<http://www.worldkg.org/resource/6237394819>	<http://www.worldkg.org/schema/openingHours>	openingHours-Fr, Sa 11:30-23:00; Mo-Th, Su 11:30-22:30
+<http://www.worldkg.org/resource/266904793>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/2357937221>
+<http://www.worldkg.org/resource/357621702>	<RegionId>	9_33
+<http://www.worldkg.org/resource/478478415>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:York Avenue and Sutton Place
+<http://www.worldkg.org/resource/5857904387>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5309508065>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266904808>
+<http://www.worldkg.org/resource/266904793>	<http://www.worldkg.org/schema/fax>	fax-+1 212-348-8075
+<http://www.worldkg.org/resource/32960691>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672418>
+<http://www.worldkg.org/resource/5682367690>	<http://www.worldkg.org/schema/dispensing>	dispensing-yes
+<http://www.worldkg.org/resource/5670459>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/478478415>
+<http://www.worldkg.org/resource/266904808>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5309510961>

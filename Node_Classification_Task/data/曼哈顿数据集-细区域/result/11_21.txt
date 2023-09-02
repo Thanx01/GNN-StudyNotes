@@ -1,0 +1,66 @@
+<http://www.worldkg.org/resource/271875895>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5415651945>
+<http://www.worldkg.org/resource/5415651945>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/420895470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/6296851689>	<http://www.w3.org/2000/01/rdf-schema#label>	Hot Pot Under De Tree
+<http://www.worldkg.org/resource/5415651945>	<http://www.worldkg.org/schema/lit>	lit-no
+<http://www.worldkg.org/resource/204084138>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6296851689>
+<http://www.worldkg.org/resource/5296084265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/204084138>	<RegionId>	11_21
+<http://www.worldkg.org/resource/5415651945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271875895>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10039
+<http://www.worldkg.org/resource/5415651945>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/420895470>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5296084265>
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/5296084265>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 155th Street
+<http://www.worldkg.org/resource/420895470>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/204084138>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/6296851689>	<http://www.worldkg.org/schema/cuisine>	cuisine-jamaican
+<http://www.worldkg.org/resource/5296084265>	<RegionId>	11_21
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/6296851689>	<http://www.worldkg.org/schema/phone>	phone-+1-212-234-3505
+<http://www.worldkg.org/resource/5296084265>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271875895>
+<http://www.worldkg.org/resource/5296084265>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5415651945>
+<http://www.worldkg.org/resource/5415651945>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271875895>
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/bridgeName>	bridgeName-Macombs Dam Bridge
+<http://www.worldkg.org/resource/5296084265>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420895470>
+<http://www.worldkg.org/resource/271875895>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1060902
+<http://www.worldkg.org/resource/271875895>	<RegionId>	11_21
+<http://www.worldkg.org/resource/5296084265>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/5296084265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271875895>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Brooks Senior Housing
+<http://www.worldkg.org/resource/5415651945>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/271875895>	<http://www.worldkg.org/schema/socialFacilityFor>	socialFacilityFor-underprivileged
+<http://www.worldkg.org/resource/204084138>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5415651945>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5296084265>
+<http://www.worldkg.org/resource/6296851689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/6296851689>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/204084138>
+<http://www.worldkg.org/resource/420895470>	<http://www.w3.org/2000/01/rdf-schema#label>	West 155th Street
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Macombs Dam Bridge
+<http://www.worldkg.org/resource/271875895>	<Point_transport-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5296084265>
+<http://www.worldkg.org/resource/5415651945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/5296084265>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/204084138>	<http://www.w3.org/2000/01/rdf-schema#label>	West 151st Street
+<http://www.worldkg.org/resource/420895470>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271875895>
+<http://www.worldkg.org/resource/271875895>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-304
+<http://www.worldkg.org/resource/204084138>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/204084138>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5296084265>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/271875895>	<http://www.worldkg.org/schema/height>	height-9.9
+<http://www.worldkg.org/resource/420895470>	<RegionId>	11_21
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/layer>	layer-2
+<http://www.worldkg.org/resource/204084138>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/271875895>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420895470>
+<http://www.worldkg.org/resource/6296851689>	<RegionId>	11_21
+<http://www.worldkg.org/resource/6296851689>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2839
+<http://www.worldkg.org/resource/5415651945>	<http://www.w3.org/2000/01/rdf-schema#label>	Frederick Douglass Boulevard & West 154th Street
+<http://www.worldkg.org/resource/6296851689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/bridge>	bridge-yes
+<http://www.worldkg.org/resource/5296084265>	<http://www.worldkg.org/schema/routeRef>	routeRef-M10
+<http://www.worldkg.org/resource/5296084265>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/5415651945>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/420895470>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/5415651945>	<http://www.worldkg.org/schema/routeRef>	routeRef-M10
+<http://www.worldkg.org/resource/271875895>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5415651945>	<RegionId>	11_21
+<http://www.worldkg.org/resource/5415651945>	<http://www.worldkg.org/schema/bus>	bus-yes

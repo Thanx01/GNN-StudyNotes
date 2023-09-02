@@ -1,0 +1,183 @@
+<http://www.worldkg.org/resource/452339698>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Henry Street (Manhattan)
+<http://www.worldkg.org/resource/739591695>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/739591695>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/440122889>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/730300445>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46154286>
+<http://www.worldkg.org/resource/739591695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46154286>
+<http://www.worldkg.org/resource/5670888>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122889>
+<http://www.worldkg.org/resource/452339698>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/730300445>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/440122889>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-track
+<http://www.worldkg.org/resource/450896752>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<http://www.worldkg.org/resource/452339697>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/263088941>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/450896752>	<RegionId>	3_17
+<http://www.worldkg.org/resource/452339698>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/317348442>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/317349867>
+<http://www.worldkg.org/resource/739591695>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Street
+<http://www.worldkg.org/resource/5670888>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<http://www.worldkg.org/resource/46154286>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5670888>	<RegionId>	3_17
+<http://www.worldkg.org/resource/317349867>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/317348442>
+<http://www.worldkg.org/resource/452339698>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122889>
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339698>
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339697>
+<http://www.worldkg.org/resource/730300445>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/263088941>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/452339697>
+<http://www.worldkg.org/resource/5670888>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/278255525>	<http://www.worldkg.org/schema/height>	height-13.8
+<http://www.worldkg.org/resource/317348442>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 137
+<http://www.worldkg.org/resource/440122889>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayService>
+<http://www.worldkg.org/resource/730300445>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/317348442>
+<http://www.worldkg.org/resource/730300445>	<http://www.w3.org/2000/01/rdf-schema#label>	Montgomery Street
+<http://www.worldkg.org/resource/450896752>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/440122889>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/317349867>
+<http://www.worldkg.org/resource/5670888>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/730300445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/450896752>
+<http://www.worldkg.org/resource/317349867>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Cherry Playground
+<http://www.worldkg.org/resource/364262683>	<RegionId>	3_17
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/46154286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/317349867>	<RegionId>	3_17
+<http://www.worldkg.org/resource/278255525>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingSchool>
+<http://www.worldkg.org/resource/452339698>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/452339697>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/730300445>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/452339698>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/730300445>	<RegionId>	3_17
+<http://www.worldkg.org/resource/46154286>	<RegionId>	3_17
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/452339697>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/317348442>	<RegionId>	3_17
+<http://www.worldkg.org/resource/278255525>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/317348442>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/739591695>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-lane
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339697>
+<http://www.worldkg.org/resource/263088941>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339698>
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/263088941>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/452339697>	<http://www.worldkg.org/schema/foot>	foot-use_sidepath
+<http://www.worldkg.org/resource/452339697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/364262683>	<http://www.w3.org/2000/01/rdf-schema#label>	Corlears Junior High School
+<http://www.worldkg.org/resource/450896752>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/5670888>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/739591695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/263088941>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/440122889>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/730300445>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/450896752>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/46154286>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5670888>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/450896752>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/440122889>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/317348442>
+<http://www.worldkg.org/resource/452339698>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/46154286>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/452339698>	<RegionId>	3_17
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/263088941>
+<http://www.worldkg.org/resource/46154286>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/317348442>
+<http://www.worldkg.org/resource/278255525>	<RegionId>	3_17
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/730300445>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339698>
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/440122889>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/452339697>	<http://www.w3.org/2000/01/rdf-schema#label>	Montgomery Street
+<http://www.worldkg.org/resource/317349867>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/730300445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/452339698>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/263088941>	<RegionId>	3_17
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/5670888>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/317349867>
+<http://www.worldkg.org/resource/450896752>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/452339697>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/452339697>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/317349867>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2500460
+<http://www.worldkg.org/resource/364262683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339698>
+<http://www.worldkg.org/resource/450896752>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/452339698>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/364262683>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/46154286>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/452339698>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/739591695>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/450896752>
+<http://www.worldkg.org/resource/452339697>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/452339698>
+<http://www.worldkg.org/resource/452339698>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Street
+<http://www.worldkg.org/resource/450896752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670888>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/317348442>
+<http://www.worldkg.org/resource/440122889>	<http://www.w3.org/2000/01/rdf-schema#label>	Clinton Street
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670888>
+<http://www.worldkg.org/resource/730300445>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/317348442>	<http://www.worldkg.org/schema/ele>	ele-6
+<http://www.worldkg.org/resource/730300445>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/5670888>	<http://www.worldkg.org/schema/lanes>	lanes-1
+<http://www.worldkg.org/resource/450896752>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5670888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/452339697>	<RegionId>	3_17
+<http://www.worldkg.org/resource/730300445>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/263088941>
+<http://www.worldkg.org/resource/450896752>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-lane
+<http://www.worldkg.org/resource/317349867>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/440122889>
+<http://www.worldkg.org/resource/46154286>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:South Street (Manhattan)
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/450896752>
+<http://www.worldkg.org/resource/440122889>	<RegionId>	3_17
+<http://www.worldkg.org/resource/730300445>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/317348442>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/452339697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/263088941>	<http://www.w3.org/2000/01/rdf-schema#label>	Montgomery Street
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-track
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/317348442>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/730300445>
+<http://www.worldkg.org/resource/317348442>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083953
+<http://www.worldkg.org/resource/364262683>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/263088941>
+<http://www.worldkg.org/resource/46154286>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5670888>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-track
+<http://www.worldkg.org/resource/278255525>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/263088941>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/730300445>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/5670888>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/317349867>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/739591695>	<RegionId>	3_17
+<http://www.worldkg.org/resource/5670888>	<http://www.worldkg.org/schema/onewayBicycle>	onewayBicycle-no
+<http://www.worldkg.org/resource/452339698>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/452339697>
+<http://www.worldkg.org/resource/5670888>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/278255525>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-220
+<http://www.worldkg.org/resource/450896752>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/263088941>	<http://www.worldkg.org/schema/foot>	foot-use_sidepath
+<http://www.worldkg.org/resource/263088941>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46154286>	<http://www.w3.org/2000/01/rdf-schema#label>	South Street
+<http://www.worldkg.org/resource/263088941>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/739591695>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670888>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364262683>
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/739591695>
+<http://www.worldkg.org/resource/278255525>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10002
+<http://www.worldkg.org/resource/452339697>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/278255525>
+<http://www.worldkg.org/resource/730300445>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/452339697>
+<http://www.worldkg.org/resource/278255525>	<http://www.w3.org/2000/01/rdf-schema#label>	Junior High School 56
+<http://www.worldkg.org/resource/317349867>	<http://www.worldkg.org/schema/ele>	ele-5
+<http://www.worldkg.org/resource/5670888>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/450896752>
+<http://www.worldkg.org/resource/278255525>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1003223
+<http://www.worldkg.org/resource/452339698>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/730300445>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/452339697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/452339697>
+<http://www.worldkg.org/resource/46154286>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/739591695>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/263088941>
+<http://www.worldkg.org/resource/450896752>	<http://www.worldkg.org/schema/onewayBicycle>	onewayBicycle-no
+<http://www.worldkg.org/resource/452339698>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/263088941>
+<http://www.worldkg.org/resource/739591695>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/317349867>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/739591695>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Madison Street (Manhattan)
+<http://www.worldkg.org/resource/452339697>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/46154286>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/452339697>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/263088941>
+<http://www.worldkg.org/resource/278255525>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/452339698>

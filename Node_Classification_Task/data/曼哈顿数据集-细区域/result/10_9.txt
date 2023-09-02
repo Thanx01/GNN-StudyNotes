@@ -1,0 +1,401 @@
+<http://www.worldkg.org/resource/39243853>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/577906687>	<RegionId>	10_9
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/website>	website-http://www.mountsinai.org/locations/st-lukes
+<http://www.worldkg.org/resource/271461232>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/7024230437>
+<http://www.worldkg.org/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/726428014>	<Point_natual-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/438314990>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/operator>	operator-Motivate
+<http://www.worldkg.org/resource/39243853>	<RegionId>	10_9
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/669622649>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/166084358>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438314990>
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/7022723856>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/5670859>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/562510587>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/3624833>	<RegionId>	10_9
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/39243853>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/1504407840>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/726428014>	<http://www.w3.org/2000/01/rdf-schema#label>	Sequoia Tree
+<http://www.worldkg.org/resource/418371676>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/167920333>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/560851637>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438314990>
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Within-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/5670859>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-5
+<http://www.worldkg.org/resource/438314990>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/196116986>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<http://www.worldkg.org/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Attraction>
+<http://www.worldkg.org/resource/2212963>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Pond
+<http://www.worldkg.org/resource/608955193>	<http://www.worldkg.org/schema/artistName>	artistName-Gregg Wyatt
+<http://www.worldkg.org/resource/271461235>	<RegionId>	10_9
+<http://www.worldkg.org/resource/39243853>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Morningside Park (Manhattan)
+<http://www.worldkg.org/resource/166084358>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/39243853>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/5670859>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/271460385>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingSchool>
+<http://www.worldkg.org/resource/166084358>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/196116986>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/network>	network-Citi Bike
+<http://www.worldkg.org/resource/167920334>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/271461232>	<http://www.worldkg.org/schema/height>	height-62.179
+<http://www.worldkg.org/resource/560851637>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/7022723856>	<http://www.worldkg.org/schema/brand>	brand-USPS
+<http://www.worldkg.org/resource/39243853>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Park
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/phone>	phone-+1-212-523-4000
+<http://www.worldkg.org/resource/271461235>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-30
+<http://www.worldkg.org/resource/669622648>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/196116986>	<RegionId>	10_9
+<http://www.worldkg.org/resource/669622649>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/562510587>	<RegionId>	10_9
+<http://www.worldkg.org/resource/562510587>	<http://www.w3.org/2000/01/rdf-schema#label>	Mount Sinai St. Luke's
+<http://www.worldkg.org/resource/166084358>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7004398599>
+<http://www.worldkg.org/resource/166084358>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/608955193>	<Line_roads-Adjacent-Polygon_water>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/271461232>	<RegionId>	10_9
+<http://www.worldkg.org/resource/167920334>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7004398599>
+<http://www.worldkg.org/resource/271461234>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cathedral>
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/271461232>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/438314990>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/167920333>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<http://www.worldkg.org/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RouteBicycle>
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/560851637>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461234>
+<http://www.worldkg.org/resource/1504407840>	<http://www.worldkg.org/schema/source>	source-osmsync:findafountain
+<http://www.worldkg.org/resource/562510587>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/operatorType>	operatorType-private
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/brand>	brand-Citi Bike
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/7004398599>	<http://www.w3.org/2000/01/rdf-schema#label>	guard house
+<http://www.worldkg.org/resource/577906687>	<http://www.worldkg.org/schema/waste>	waste-dog_excrement
+<http://www.worldkg.org/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/NaturalWater>
+<http://www.worldkg.org/resource/2212963>	<http://www.worldkg.org/schema/type>	type-multipolygon
+<http://www.worldkg.org/resource/271461232>	<http://www.worldkg.org/schema/startDate>	startDate-2008
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-123
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:110th Street (Manhattan)
+<http://www.worldkg.org/resource/167920334>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Luke's–Roosevelt Hospital Center
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/271461232>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/669622648>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/438314990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/altName>	altName-Cathedral Church of Saint John the Divine in the City and Diocese of New York
+<http://www.worldkg.org/resource/271461235>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1084029
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/669622649>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/271461235>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/669622649>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/438314990>	<RegionId>	10_9
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438314990>
+<http://www.worldkg.org/resource/3624833>	<http://www.w3.org/2000/01/rdf-schema#label>	Cathedral of Saint John the Divine
+<http://www.worldkg.org/resource/562510587>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/271461234>	<RegionId>	10_9
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461232>
+<http://www.worldkg.org/resource/7024230437>	<http://www.w3.org/2000/01/rdf-schema#label>	Citi Bike - Cathedral Pky / Amsterdam Av
+<http://www.worldkg.org/resource/196116986>	<http://www.w3.org/2000/01/rdf-schema#label>	Cathedral Parkway
+<http://www.worldkg.org/resource/167920333>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7004398599>
+<http://www.worldkg.org/resource/7004398599>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/39243853>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/669622649>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/271461234>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/418371676>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Drive
+<http://www.worldkg.org/resource/669622649>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670859>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/669622649>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/1310874087>	<http://www.worldkg.org/schema/artworkType>	artworkType-statue
+<http://www.worldkg.org/resource/418371676>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/271461235>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/271461235>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/560851637>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/438314990>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10027
+<http://www.worldkg.org/resource/167920334>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<http://www.worldkg.org/resource/271461234>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/2212963>	<Polygon_water-Adjacent-Point_pois>	<http://www.worldkg.org/resource/577906687>
+<http://www.worldkg.org/resource/438314990>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-400
+<http://www.worldkg.org/resource/271460385>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/726428014>	<http://www.worldkg.org/schema/ele>	ele-30.407226
+<http://www.worldkg.org/resource/167920333>	<RegionId>	10_9
+<http://www.worldkg.org/resource/669622649>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/438314990>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1082706
+<http://www.worldkg.org/resource/7022723856>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<http://www.worldkg.org/resource/5672019>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/166084358>	<http://www.w3.org/2000/01/rdf-schema#label>	West 113th Street
+<http://www.worldkg.org/resource/167920333>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/7024230437>	<Point_pois-Adjacent-Polygon_water>	<http://www.worldkg.org/resource/608955193>
+<http://www.worldkg.org/resource/271461235>	<http://www.worldkg.org/schema/height>	height-38.2
+<http://www.worldkg.org/resource/7024230437>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/167920333>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/271461234>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/560851637>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/7004398599>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/7022723856>	<http://www.worldkg.org/schema/operatorType>	operatorType-public
+<http://www.worldkg.org/resource/669622648>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Steps>
+<http://www.worldkg.org/resource/608955193>	<Polygon_water-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/1504407840>	<http://www.worldkg.org/schema/description>	description-http://www.nycgovparks.org/facilities/waterfountains
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/271461235>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/560851637>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/nameFr>	nameFr-Cathédrale Saint-Jean le Divin
+<http://www.worldkg.org/resource/167920334>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1055890
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Contain-Polygon_water>	<http://www.worldkg.org/resource/2212963>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7004398599>
+<http://www.worldkg.org/resource/196116986>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461232>
+<http://www.worldkg.org/resource/196116986>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/196116986>	<http://www.worldkg.org/schema/altName>	altName-West 110th Street
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7004398599>
+<http://www.worldkg.org/resource/167920334>	<RegionId>	10_9
+<http://www.worldkg.org/resource/7022723856>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostBox>
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Morningside Drive (Manhattan)
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Contain-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10027
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461232>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/562510587>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/167920334>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Footway>
+<http://www.worldkg.org/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/7004398599>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/669622648>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271461234>
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/maxspeedType>	maxspeedType-sign
+<http://www.worldkg.org/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7004398599>
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/sidewalk>	sidewalk-separate
+<http://www.worldkg.org/resource/5670859>	<RegionId>	10_9
+<http://www.worldkg.org/resource/7022723856>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271461235>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438314990>
+<http://www.worldkg.org/resource/5670859>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/271460385>	<RegionId>	10_9
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/height>	height-51.4
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461235>
+<http://www.worldkg.org/resource/560851637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/608955193>	<RegionId>	10_9
+<http://www.worldkg.org/resource/271461234>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/271461232>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/726428014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10029
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/7024230437>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/271461235>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/196116986>	<Line_roads-Adjacent-Polygon_water>	<http://www.worldkg.org/resource/608955193>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/denomination>	denomination-episcopal
+<http://www.worldkg.org/resource/271461235>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/7024230437>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461232>
+<http://www.worldkg.org/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-946040
+<http://www.worldkg.org/resource/726428014>	<Point_natual-Adjacent-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/namePl>	namePl-Katedra świętego Jana
+<http://www.worldkg.org/resource/5672019>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/669622648>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/577906687>
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/fee>	fee-yes
+<http://www.worldkg.org/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7022723856>
+<http://www.worldkg.org/resource/577906687>	<http://www.worldkg.org/schema/dog>	dog-off_leash
+<http://www.worldkg.org/resource/196116986>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/562510587>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438314990>
+<http://www.worldkg.org/resource/3624833>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271461232>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/166084358>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/altNameFr>	altNameFr-Cathédrale Saint-Jean le Théologien;Cathédrale Saint-Jean le Théologien de New York
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/7004398599>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/167920334>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/577906687>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/DogPark>
+<http://www.worldkg.org/resource/2212963>	<Polygon_water-Intersect-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/type>	type-multipolygon
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/608955193>	<Point_pois-Adjacent-Polygon_water>	<http://www.worldkg.org/resource/7022723856>
+<http://www.worldkg.org/resource/1504407840>	<RegionId>	10_9
+<http://www.worldkg.org/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271461234>
+<http://www.worldkg.org/resource/271461232>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1087754
+<http://www.worldkg.org/resource/271461234>	<http://www.worldkg.org/schema/height>	height-20.6
+<http://www.worldkg.org/resource/577906687>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/669622648>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/271461235>	<http://www.w3.org/2000/01/rdf-schema#label>	30 Morningside
+<http://www.worldkg.org/resource/271461232>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/669622648>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/oldName>	oldName-Saint Luke's Hospital Center
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/5672019>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-963825
+<http://www.worldkg.org/resource/271461234>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/7024230437>	<RegionId>	10_9
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/altName>	altName-PS36
+<http://www.worldkg.org/resource/7004398599>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/438314990>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/ele>	ele-37
+<http://www.worldkg.org/resource/39243853>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-957684
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/5672019>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/website>	website-https://www.stjohndivine.org
+<http://www.worldkg.org/resource/438314990>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/5670859>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461232>
+<http://www.worldkg.org/resource/5670859>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/oldName>	oldName-Morningside Park West
+<http://www.worldkg.org/resource/1504407840>	<http://www.worldkg.org/schema/maintenance>	maintenance-ok
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/networkWikidata>	networkWikidata-Q2974438
+<http://www.worldkg.org/resource/1310874087>	<http://www.w3.org/2000/01/rdf-schema#label>	Carl Schurz Memorial
+<http://www.worldkg.org/resource/560851637>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/166084358>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/1310874087>	<http://www.worldkg.org/schema/startDate>	startDate-1913
+<http://www.worldkg.org/resource/39243853>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/560851637>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Apartments>
+<http://www.worldkg.org/resource/577906687>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Dog Run
+<http://www.worldkg.org/resource/2212963>	<Polygon_water-Within-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/7004398599>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/560851637>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672019>
+<http://www.worldkg.org/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7024230437>
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Within-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/2212963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/NaturalWater>
+<http://www.worldkg.org/resource/3624833>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/271461232>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/608955193>	<http://www.w3.org/2000/01/rdf-schema#label>	The Peace Fountain
+<http://www.worldkg.org/resource/7004398599>	<RegionId>	10_9
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1111
+<http://www.worldkg.org/resource/418371676>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/438314990>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/5670859>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/271460385>
+<http://www.worldkg.org/resource/669622648>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<http://www.worldkg.org/resource/7024230437>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BicycleRental>
+<http://www.worldkg.org/resource/562510587>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271460385>
+<http://www.worldkg.org/resource/560851637>	<http://www.w3.org/2000/01/rdf-schema#label>	Enclave
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:Motivate (company)
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1047
+<http://www.worldkg.org/resource/196116986>	<http://www.worldkg.org/schema/network>	network-lcn
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271461234>
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/openingHours>	openingHours-24/7
+<http://www.worldkg.org/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/5670859>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/7022723856>	<http://www.worldkg.org/schema/operatorWikipedia>	operatorWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Citi Bike
+<http://www.worldkg.org/resource/418371676>	<http://www.worldkg.org/schema/surface>	surface-paved
+<http://www.worldkg.org/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Kerb>
+<http://www.worldkg.org/resource/5672019>	<http://www.worldkg.org/schema/altName>	altName-West 110th Street
+<http://www.worldkg.org/resource/5670859>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/166084358>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/7022723856>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/196116986>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/577906687>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/438314990>	<http://www.w3.org/2000/01/rdf-schema#label>	Enclave 1
+<http://www.worldkg.org/resource/5670859>	<Point_natual-Adjacent-Line_roads>	<http://www.worldkg.org/resource/726428014>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Contain-Point_pois>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/height>	height-13.6
+<http://www.worldkg.org/resource/166084358>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/39243853>	<Point_pois-Intersect-Point_pois>	<http://www.worldkg.org/resource/577906687>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10025
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/669622648>	<http://www.worldkg.org/schema/incline>	incline-down
+<http://www.worldkg.org/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/271460385>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/271461234>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1086190
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672019>
+<http://www.worldkg.org/resource/418371676>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562510587>
+<http://www.worldkg.org/resource/271461235>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/39243853>	<Polygon_water-Intersect-Point_pois>	<http://www.worldkg.org/resource/2212963>
+<http://www.worldkg.org/resource/1504407840>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityDrinkingWater>
+<http://www.worldkg.org/resource/196116986>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/1310874087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/167920334>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/438314990>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/167920333>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/562510587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2212963>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/271461234>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461232>
+<http://www.worldkg.org/resource/7004398599>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/166084358>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/608955193>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Fountain>
+<http://www.worldkg.org/resource/7024230437>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q2974438
+<http://www.worldkg.org/resource/562510587>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityHospital>
+<http://www.worldkg.org/resource/577906687>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/608955193>	<Point_pois-Adjacent-Polygon_water>	<http://www.worldkg.org/resource/7024230437>
+<http://www.worldkg.org/resource/271460385>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 36
+<http://www.worldkg.org/resource/7004398599>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Police>
+<http://www.worldkg.org/resource/166084358>	<RegionId>	10_9
+<http://www.worldkg.org/resource/1310874087>	<http://www.worldkg.org/schema/subjectWikipedia>	subjectWikipedia-en:Carl Schurz
+<http://www.worldkg.org/resource/726428014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tree>
+<http://www.worldkg.org/resource/562510587>	<http://www.worldkg.org/schema/operator>	operator-Mount Sinai
+<http://www.worldkg.org/resource/1504407840>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670859>
+<http://www.worldkg.org/resource/560851637>	<RegionId>	10_9
+<http://www.worldkg.org/resource/271461234>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116986>
+<http://www.worldkg.org/resource/1310874087>	<RegionId>	10_9
+<http://www.worldkg.org/resource/669622649>	<RegionId>	10_9
+<http://www.worldkg.org/resource/608955193>	<http://www.worldkg.org/schema/startDate>	startDate-1985
+<http://www.worldkg.org/resource/726428014>	<RegionId>	10_9
+<http://www.worldkg.org/resource/3624833>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Cathedral of St. John the Divine
+<http://www.worldkg.org/resource/577906687>	<Polygon_water-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2212963>
+<http://www.worldkg.org/resource/5672019>	<http://www.w3.org/2000/01/rdf-schema#label>	Cathedral Parkway
+<http://www.worldkg.org/resource/669622649>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1504407840>
+<http://www.worldkg.org/resource/3624833>	<Polygon_water-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/608955193>
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622649>
+<http://www.worldkg.org/resource/1310874087>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Memorial>
+<http://www.worldkg.org/resource/418371676>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/418371676>	<RegionId>	10_9
+<http://www.worldkg.org/resource/5670859>	<http://www.w3.org/2000/01/rdf-schema#label>	Morningside Avenue
+<http://www.worldkg.org/resource/271460385>	<http://www.worldkg.org/schema/startDate>	startDate-1966
+<http://www.worldkg.org/resource/271461232>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271461234>
+<http://www.worldkg.org/resource/271461235>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/39243853>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/167920334>
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/669622648>
+<http://www.worldkg.org/resource/39243853>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/562510587>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/166084358>
+<http://www.worldkg.org/resource/669622648>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/5672019>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/271461235>	<http://www.worldkg.org/schema/website>	website-https://30morningsidedrive.com
+<http://www.worldkg.org/resource/7022723856>	<http://www.worldkg.org/schema/operator>	operator-United States Postal Service
+<http://www.worldkg.org/resource/669622649>	<http://www.w3.org/2000/01/rdf-schema#label>	West 116th Street
+<http://www.worldkg.org/resource/39243853>	<Point_natual-Adjacent-Point_pois>	<http://www.worldkg.org/resource/726428014>
+<http://www.worldkg.org/resource/5670859>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/167920333>
+<http://www.worldkg.org/resource/2212963>	<RegionId>	10_9
+<http://www.worldkg.org/resource/271461234>	<http://www.w3.org/2000/01/rdf-schema#label>	The Cathedral School
+<http://www.worldkg.org/resource/560851637>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3624833>
+<http://www.worldkg.org/resource/7022723856>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q668687
+<http://www.worldkg.org/resource/5672019>	<RegionId>	10_9
+<http://www.worldkg.org/resource/271461232>	<http://www.w3.org/2000/01/rdf-schema#label>	Avalon Morningside Park
+<http://www.worldkg.org/resource/7022723856>	<RegionId>	10_9
+<http://www.worldkg.org/resource/7022723856>	<Point_pois-Adjacent-Polygon_water>	<http://www.worldkg.org/resource/608955193>
+<http://www.worldkg.org/resource/669622648>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/39243853>
+<http://www.worldkg.org/resource/669622648>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:116th Street (Manhattan)
+<http://www.worldkg.org/resource/1310874087>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/167920333>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1310874087>
+<http://www.worldkg.org/resource/669622648>	<RegionId>	10_9
+<http://www.worldkg.org/resource/271460385>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/418371676>
+<http://www.worldkg.org/resource/196116986>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271461234>

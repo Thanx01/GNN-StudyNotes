@@ -1,0 +1,311 @@
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/543906141>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/museum>	museum-art
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7123476606>
+<http://www.worldkg.org/resource/3583312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingSchool>
+<http://www.worldkg.org/resource/266934254>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/brand>	brand-Starbucks
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Lululemon Athletica
+<http://www.worldkg.org/resource/357621689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1134
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/46613697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/website>	website-https://www.starbucks.com/store-locator/store/1015661/85th-madison-1142-madison-ave-new-york-ny-100280414-us
+<http://www.worldkg.org/resource/3583312>	<Polygon_buildings-Contain-Point_pois>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/6920873862>	<http://www.w3.org/2000/01/rdf-schema#label>	USPS
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 09:30-19:00; Sa 10:00-19:00; Su 11:00-19:00
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/46613697>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/5471959738>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/2689474985>	<http://www.w3.org/2000/01/rdf-schema#label>	Starbucks
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/6920873862>
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/543906141>	<http://www.w3.org/2000/01/rdf-schema#label>	East 85th Street
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Park Avenue Christian Church
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/country>	country-BG
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/height>	height-26.5
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-5
+<http://www.worldkg.org/resource/3583312>	<RegionId>	9_4
+<http://www.worldkg.org/resource/5781151294>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/phone>	phone-+1 212-452-1909
+<http://www.worldkg.org/resource/68668527>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7123476606>
+<http://www.worldkg.org/resource/266934229>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/68668527>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Madison Avenue
+<http://www.worldkg.org/resource/68668527>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266934254>
+<http://www.worldkg.org/resource/46613697>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/68668527>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/7123476606>	<http://www.worldkg.org/schema/brand>	brand-Chase
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266933141>
+<http://www.worldkg.org/resource/6920873862>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5471959738>
+<http://www.worldkg.org/resource/7123476606>	<http://www.w3.org/2000/01/rdf-schema#label>	Chase
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/brand>	brand-Lululemon
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/7165016685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/266933141>	<Point_pofw-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/543906141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/266933141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/46613697>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/6920873862>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266934254>
+<http://www.worldkg.org/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/7123476606>
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/5471959738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Doctors>
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/email>	email-madisonave-store@lululemon.com
+<http://www.worldkg.org/resource/68668527>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/266934254>	<http://www.w3.org/2000/01/rdf-schema#label>	Neue Galerie New York
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Within-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/46613697>	<RegionId>	9_4
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-55
+<http://www.worldkg.org/resource/5774352546>	<http://www.w3.org/2000/01/rdf-schema#label>	Madewell
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/startDate>	startDate-1911
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/height>	height-26.5
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1144
+<http://www.worldkg.org/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/3583312>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/68668527>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/5471959738>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6920873862>
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-11
+<http://www.worldkg.org/resource/266934229>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Diplomatic>
+<http://www.worldkg.org/resource/266934250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Museum>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Sa 10:00-19:00; Su 11:00-18:00
+<http://www.worldkg.org/resource/543906141>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:85th Street (Manhattan)
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/5471959738>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1049
+<http://www.worldkg.org/resource/5471959738>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/branch>	branch-Madison Avenue
+<http://www.worldkg.org/resource/7165016685>	<http://www.w3.org/2000/01/rdf-schema#label>	The New Amity Restaurant
+<http://www.worldkg.org/resource/266933141>	<http://www.w3.org/2000/01/rdf-schema#label>	Park Avenue Christian Church
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q64026213
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/6920873862>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/543906141>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/brand>	brand-Madewell
+<http://www.worldkg.org/resource/68668527>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/2689474985>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/543906141>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/68668527>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/3583312>	<http://www.w3.org/2000/01/rdf-schema#label>	Regis High School
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1046823
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5471959738>
+<http://www.worldkg.org/resource/543906141>	<RegionId>	9_4
+<http://www.worldkg.org/resource/543906141>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/266933141>
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7123476606>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/description>	description-Regis High School is a private Jesuit university-preparatory school for Roman Catholic young men located on Manhattan's Upper East Side. Annual class enrollment is limited to approximately 135 male students.
+<http://www.worldkg.org/resource/46613697>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/fax>	fax-+1 212-861-3260
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/operator>	operator-The Leon Levy Foundation
+<http://www.worldkg.org/resource/543906141>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/6920873862>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5774352546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Clothes>
+<http://www.worldkg.org/resource/5471959738>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/branch>	branch-Madison Avenue
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/46613697>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/denomination>	denomination-protestant
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q6702957
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/46613697>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/target>	target-UN
+<http://www.worldkg.org/resource/7123476606>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/46613697>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:85th Street (Manhattan)
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/phone>	phone-+1 212-861-3255
+<http://www.worldkg.org/resource/5781151294>	<http://www.w3.org/2000/01/rdf-schema#label>	Lululemon
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1046843
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/phone>	phone-+1 212-249-2409
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/7165016685>	<RegionId>	9_4
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1048
+<http://www.worldkg.org/resource/266933141>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/46613697>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5471959738>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266934254>
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/3583312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1146
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1046821
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/6920873862>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/266933141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingChurch>
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7123476606>
+<http://www.worldkg.org/resource/3583312>	<Point_pofw-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/266933141>
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-15
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/266934254>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/6920873862>
+<http://www.worldkg.org/resource/6920873862>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:United States Postal Service
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/website>	website-http://isaw.nyu.edu/
+<http://www.worldkg.org/resource/5471959738>	<http://www.worldkg.org/schema/phone>	phone-+1-212-257-3263
+<http://www.worldkg.org/resource/7123476606>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/543906141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/7123476606>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/7123476606>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Bank>
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/7123476606>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/website>	website-https://info.lululemon.com/stores/us/new-york/madisonave
+<http://www.worldkg.org/resource/266934254>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/height>	height-29.8
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/ele>	ele-29
+<http://www.worldkg.org/resource/266934250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Library>
+<http://www.worldkg.org/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/height>	height-23.1
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/46613697>	<http://www.w3.org/2000/01/rdf-schema#label>	East 85th Street
+<http://www.worldkg.org/resource/7123476606>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934229>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/266934250>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5471959738>	<http://www.worldkg.org/schema/description>	description-cosmetic operation
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/68668527>	<http://www.w3.org/2000/01/rdf-schema#label>	Madison Avenue
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/diplomatic>	diplomatic-permanent_mission
+<http://www.worldkg.org/resource/7123476606>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Chase Bank
+<http://www.worldkg.org/resource/357621689>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2084000
+<http://www.worldkg.org/resource/5781151294>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Clothes>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/3583312>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/phone>	phone-212-992-7800
+<http://www.worldkg.org/resource/5471959738>	<http://www.w3.org/2000/01/rdf-schema#label>	Steven Wallach MD, FACS
+<http://www.worldkg.org/resource/3583312>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/46613697>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/5774352546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/6920873862>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q668687
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/68668527>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/543906141>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/2689474985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Cafe>
+<http://www.worldkg.org/resource/46613697>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/cuisine>	cuisine-coffee_shop
+<http://www.worldkg.org/resource/5774352546>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/architect>	architect-Carrère and Hastings
+<http://www.worldkg.org/resource/266934229>	<RegionId>	9_4
+<http://www.worldkg.org/resource/68668527>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Starbucks
+<http://www.worldkg.org/resource/357621689>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/543906141>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/7165016685>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5471959738>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1142
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-1010
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/openingHours>	openingHours-Mo-Fr 05:30-20:00; Sa, Su 06:00-20:00
+<http://www.worldkg.org/resource/3583312>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/ele>	ele-28
+<http://www.worldkg.org/resource/266934254>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/clothes>	clothes-men;women
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/357621689>	<http://www.worldkg.org/schema/ele>	ele-29
+<http://www.worldkg.org/resource/5471959738>	<RegionId>	9_4
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/6920873862>	<http://www.worldkg.org/schema/brand>	brand-USPS
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/altName>	altName-UN Mission Bulgaria
+<http://www.worldkg.org/resource/46613697>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/buildingArchitecture>	buildingArchitecture-Louis XIII
+<http://www.worldkg.org/resource/357621689>	<http://www.w3.org/2000/01/rdf-schema#label>	Regis High School
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083546
+<http://www.worldkg.org/resource/266934254>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Museum>
+<http://www.worldkg.org/resource/266934229>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/6920873862>
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/68668527>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Neue Galerie New York
+<http://www.worldkg.org/resource/543906141>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/6920873862>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostBox>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q37158
+<http://www.worldkg.org/resource/266934250>	<http://www.w3.org/2000/01/rdf-schema#label>	Institute for the Study of the Ancient World
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/266933141>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/266934229>	<http://www.w3.org/2000/01/rdf-schema#label>	Permanent Mission of the Republic of Bulgaria to the United Nations
+<http://www.worldkg.org/resource/266933141>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/543906141>
+<http://www.worldkg.org/resource/5781151294>	<RegionId>	9_4
+<http://www.worldkg.org/resource/2689474985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/266934254>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5471959738>
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/266933141>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/website>	website-https://www.parkavenuechristian.com/
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/openingHours>	openingHours-06:00-21:00
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1046815
+<http://www.worldkg.org/resource/266934250>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-6
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/oldName>	oldName-South Reformed Church
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/website>	website-https://www.neuegalerie.org/
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/5781151294>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/phone>	phone-+1 212-288-1506
+<http://www.worldkg.org/resource/543906141>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/7123476606>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q524629
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5774352546>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5781151294>
+<http://www.worldkg.org/resource/7123476606>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46613697>
+<http://www.worldkg.org/resource/6920873862>	<RegionId>	9_4
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/height>	height-25.1
+<http://www.worldkg.org/resource/5781151294>	<http://www.worldkg.org/schema/clothes>	clothes-men;women
+<http://www.worldkg.org/resource/266934229>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1046814
+<http://www.worldkg.org/resource/543906141>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3583312>
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/cuisine>	cuisine-diner; greek
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/266934229>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/357621689>	<RegionId>	9_4
+<http://www.worldkg.org/resource/2689474985>	<http://www.worldkg.org/schema/drinkTea>	drinkTea-yes
+<http://www.worldkg.org/resource/266934254>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10028
+<http://www.worldkg.org/resource/266933141>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083545
+<http://www.worldkg.org/resource/5471959738>	<http://www.worldkg.org/schema/website>	website-https://www.stevenwallachmd.com/
+<http://www.worldkg.org/resource/68668527>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/7165016685>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/68668527>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46613697>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/7165016685>
+<http://www.worldkg.org/resource/68668527>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5774352546>	<http://www.worldkg.org/schema/website>	website-https://stores.madewell.com/en/madewell-madison-avenue
+<http://www.worldkg.org/resource/266934229>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/266934250>	<RegionId>	9_4
+<http://www.worldkg.org/resource/7123476606>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/357621689>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2689474985>
+<http://www.worldkg.org/resource/5774352546>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68668527>
+<http://www.worldkg.org/resource/3583312>	<http://www.worldkg.org/schema/type>	type-multipolygon
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621689>
+<http://www.worldkg.org/resource/266934250>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/266934229>
+<http://www.worldkg.org/resource/2689474985>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/266934250>
+<http://www.worldkg.org/resource/7165016685>	<http://www.worldkg.org/schema/level>	level-0

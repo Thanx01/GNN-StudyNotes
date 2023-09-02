@@ -1,0 +1,837 @@
+<http://www.worldkg.org/resource/271822573>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/271827327>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/587061864>	<http://www.worldkg.org/schema/nameRu>	nameRu-5-я авеню
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/420878114>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/5670615>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/763320786>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/438383443>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/587061864>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/511930974>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/5670411>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/557733485>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/271827329>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/511930974>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/1740707014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/5670615>	<RegionId>	11_24
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/796488147>	<Polygon_landuse-Contain-Point_pois>	<http://www.worldkg.org/resource/1740707014>
+<http://www.worldkg.org/resource/420590036>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/271827344>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/438383443>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271822573>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/271822573>	<http://www.w3.org/2000/01/rdf-schema#label>	A.M.E. Metropolitan Church
+<http://www.worldkg.org/resource/557733485>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/577528456>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621742>
+<http://www.worldkg.org/resource/5670615>	<http://www.worldkg.org/schema/bicycle>	bicycle-no
+<http://www.worldkg.org/resource/271827342>	<http://www.worldkg.org/schema/denomination>	denomination-catholic
+<http://www.worldkg.org/resource/407580298>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590034>
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/438383443>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/5670881>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827342>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1081381
+<http://www.worldkg.org/resource/271825819>	<http://www.worldkg.org/schema/height>	height-9.6
+<http://www.worldkg.org/resource/3545220730>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-34
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/796488147>	<Point_pois-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/357621260>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/357621124>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/557733485>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<http://www.worldkg.org/resource/46240148>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/271822571>	<Polygon_landuse-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/3545220730>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/271827344>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/562540012>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/562540012>	<http://www.w3.org/2000/01/rdf-schema#label>	NYC Health + Hospitals/Harlem
+<http://www.worldkg.org/resource/420590036>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/357621275>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/763320785>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/46240148>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/587061864>	<RegionId>	11_24
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/271822571>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/224025207>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/271822571>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1081456
+<http://www.worldkg.org/resource/1740707014>	<http://www.w3.org/2000/01/rdf-schema#label>	McDonald's
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/46240148>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/5671332>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/271825819>	<Polygon_landuse-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/420590032>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46240148>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RouteBicycle>
+<http://www.worldkg.org/resource/224023183>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/357621275>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827327>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-29
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/763320785>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/2767707740>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/271827342>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/224023183>	<http://www.w3.org/2000/01/rdf-schema#label>	Hansborough Recreation Center
+<http://www.worldkg.org/resource/2767707740>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2252
+<http://www.worldkg.org/resource/357621742>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/557733488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5670411>	<RegionId>	11_24
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/271827327>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/357621742>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/420590036>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5670615>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/224025207>	<http://www.w3.org/2000/01/rdf-schema#label>	McCray Playground
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/763320785>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/1740707014>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/420590036>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/557733485>	<http://www.worldkg.org/schema/nameRu>	nameRu-5-я авеню
+<http://www.worldkg.org/resource/577528456>	<Polygon_buildings-Contain-Point_pofw>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/271825819>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/420878114>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/271825819>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/224023183>	<http://www.worldkg.org/schema/covered>	covered-yes
+<http://www.worldkg.org/resource/420590036>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/271827342>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/420590034>
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/557733485>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/557733488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RouteBicycle>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/357621742>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/46240152>	<http://www.w3.org/2000/01/rdf-schema#label>	West 138th Street
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/587061864>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/557733485>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/577528456>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/420590032>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/587061864>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/2562438629>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/271822573>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1053896
+<http://www.worldkg.org/resource/118524668>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/511930974>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670411>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/271822571>	<http://www.worldkg.org/schema/height>	height-18.4
+<http://www.worldkg.org/resource/2562438629>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-448
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/271827327>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Harlem Hospital Center
+<http://www.worldkg.org/resource/357621124>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271822571>	<http://www.w3.org/2000/01/rdf-schema#label>	Hansborough Recreation Center
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/271827344>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/2767633739>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670411>	<http://www.worldkg.org/schema/bicycle>	bicycle-no
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/operator>	operator-NYC Health + Hospitals
+<http://www.worldkg.org/resource/420878114>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/438383443>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/557733485>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/271822571>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-35
+<http://www.worldkg.org/resource/420590034>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/271825819>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/118524668>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2500798
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/763320786>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/357621124>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/1740707014>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878114>
+<http://www.worldkg.org/resource/5670615>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/420878090>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/420590034>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/577528456>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/271827327>	<http://www.w3.org/2000/01/rdf-schema#label>	Beacon Towers
+<http://www.worldkg.org/resource/796488147>	<Polygon_landuse-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/271827327>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/763320786>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/271827329>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/3545220730>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/271822571>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/763320785>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/271825819>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1076433
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/46240148>	<RegionId>	11_24
+<http://www.worldkg.org/resource/796488147>	<RegionId>	11_24
+<http://www.worldkg.org/resource/2767633739>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pharmacy>
+<http://www.worldkg.org/resource/364026610>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/118524668>	<http://www.worldkg.org/schema/ele>	ele-5
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878114>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/364026610>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-952234
+<http://www.worldkg.org/resource/763320786>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/763320785>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/271827327>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/5670881>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46240148>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/271825819>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingSchool>
+<http://www.worldkg.org/resource/420878090>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/271827329>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/2562438629>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/271822571>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/763320786>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/364026610>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/118524668>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/271825819>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2230
+<http://www.worldkg.org/resource/587061864>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<http://www.worldkg.org/resource/271822571>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/420878114>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-wlan
+<http://www.worldkg.org/resource/557733485>	<http://www.worldkg.org/schema/nameEn>	nameEn-5th Avenue
+<http://www.worldkg.org/resource/796488147>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/LanduseResidential>
+<http://www.worldkg.org/resource/271822571>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/763320785>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/420878114>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878090>
+<http://www.worldkg.org/resource/46240148>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/5671332>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/271827344>	<http://www.w3.org/2000/01/rdf-schema#label>	Beacon Mews
+<http://www.worldkg.org/resource/2562438629>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/ShopSupermarket>
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/420590032>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/271827327>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/note>	note-Access restricted to hospital related vehicles and personnel.
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271827342>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/420878090>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/5670615>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/796488147>	<Point_pois-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/420590032>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/271822571>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/1740707014>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878090>
+<http://www.worldkg.org/resource/587061864>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590034>
+<http://www.worldkg.org/resource/420590034>	<RegionId>	11_24
+<http://www.worldkg.org/resource/2767633739>	<http://www.worldkg.org/schema/driveThrough>	driveThrough-no
+<http://www.worldkg.org/resource/407580298>	<http://www.w3.org/2000/01/rdf-schema#label>	West 136th Street
+<http://www.worldkg.org/resource/420590034>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/420590034>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/364026610>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/5670411>	<http://www.w3.org/2000/01/rdf-schema#label>	West 134th Street
+<http://www.worldkg.org/resource/763320785>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1740707014>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878090>
+<http://www.worldkg.org/resource/46240148>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/763320786>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/763320785>	<RegionId>	11_24
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/46240152>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/420878114>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/2767633739>	<http://www.w3.org/2000/01/rdf-schema#label>	Lenox Terrace
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/5671332>	<RegionId>	11_24
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/420878090>
+<http://www.worldkg.org/resource/511930974>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/5670881>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/438383443>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/763320785>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/420590036>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5670881>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/420878090>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/577528456>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BuildingCommercial>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878114>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/271822573>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/3545220730>
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/271827327>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1087610
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/118524668>	<http://www.w3.org/2000/01/rdf-schema#label>	Howard Bennett Playground
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/557733485>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/420878090>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/357621260>	<RegionId>	11_24
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q38076
+<http://www.worldkg.org/resource/562540012>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/357621275>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271822571>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10030
+<http://www.worldkg.org/resource/2562438629>	<http://www.worldkg.org/schema/addrCountry>	addrCountry-US
+<http://www.worldkg.org/resource/271827329>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621742>
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/796488147>	<http://www.w3.org/2000/01/rdf-schema#label>	Lenox Terrace
+<http://www.worldkg.org/resource/271825819>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/3545220730>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/271825819>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/420590032>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271825819>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/357621742>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/271827329>	<RegionId>	11_24
+<http://www.worldkg.org/resource/2562438629>	<http://www.w3.org/2000/01/rdf-schema#label>	Associated Supermarket
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/2562438629>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878114>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/587061864>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/271827329>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-51
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/357621124>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271822573>	<http://www.worldkg.org/schema/height>	height-15.0
+<http://www.worldkg.org/resource/271827344>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1087516
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/foot>	foot-no
+<http://www.worldkg.org/resource/357621275>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/420590036>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/118524668>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5671332>	<http://www.w3.org/2000/01/rdf-schema#label>	West 137th Street
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/2767633739>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/271827344>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/224025207>	<RegionId>	11_24
+<http://www.worldkg.org/resource/525854245>	<RegionId>	11_24
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/763320786>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/420590032>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420590035>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/577528456>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-540
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/network>	network-lcn
+<http://www.worldkg.org/resource/271827329>	<http://www.worldkg.org/schema/socialFacilityFor>	socialFacilityFor-underprivileged
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/network>	network-lcn
+<http://www.worldkg.org/resource/1740707014>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827327>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/364026610>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/357621742>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/3545220730>	<Point_pois-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/46240152>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/bicycle>	bicycle-no
+<http://www.worldkg.org/resource/420590036>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E;W
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/420590035>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271825819>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271827342>	<Line_roads-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/420590034>
+<http://www.worldkg.org/resource/224023183>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SportsCentre>
+<http://www.worldkg.org/resource/525854245>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/271827329>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/420878090>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/2562438629>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10030
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/796488147>	<http://www.worldkg.org/schema/residential>	residential-apartments
+<http://www.worldkg.org/resource/420590034>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/763320785>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/420878090>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/271827329>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/763320786>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/763320786>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/46240152>	<RegionId>	11_24
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/420590035>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/796488147>	<Point_pofw-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/website>	website-http://www.mcnewyork.com/3660
+<http://www.worldkg.org/resource/557733485>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/5670615>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878090>
+<http://www.worldkg.org/resource/420590032>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/internetAccessFee>	internetAccessFee-no
+<http://www.worldkg.org/resource/420878114>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/438383443>	<http://www.w3.org/2000/01/rdf-schema#label>	West 135th Street
+<http://www.worldkg.org/resource/271822571>	<http://www.worldkg.org/schema/description>	description-City of New York Parks and Recreation Facility (gym, exercise facilities and pool)
+<http://www.worldkg.org/resource/5670615>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/openingHours>	openingHours-24/7
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/271827344>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/511930974>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/46240152>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271827342>	<http://www.worldkg.org/schema/religion>	religion-christian
+<http://www.worldkg.org/resource/763320785>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/46240148>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46240152>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/587061864>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/271827329>	<http://www.w3.org/2000/01/rdf-schema#label>	Alma Rangel Gardens
+<http://www.worldkg.org/resource/364026610>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/420590035>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/cuisine>	cuisine-burger
+<http://www.worldkg.org/resource/557733488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/525854245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/website>	website-https://www.nychealthandhospitals.org/harlem/
+<http://www.worldkg.org/resource/271822571>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/3545220730>
+<http://www.worldkg.org/resource/271827344>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/271827329>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1087476
+<http://www.worldkg.org/resource/420878114>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/271825819>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/357621275>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621742>
+<http://www.worldkg.org/resource/420878090>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2562438629>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/271822571>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/271827344>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/3545220730>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CommunityCentre>
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/357621124>	<http://www.worldkg.org/schema/ele>	ele-5
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/357621275>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083857
+<http://www.worldkg.org/resource/357621275>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/271827329>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/271827344>	<http://www.worldkg.org/schema/height>	height-24.3
+<http://www.worldkg.org/resource/5671332>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/557733488>	<RegionId>	11_24
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/420590034>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/577528456>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/420878090>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1740707014>
+<http://www.worldkg.org/resource/420878090>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/420878090>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/420590034>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/271822571>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/364026610>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/557733485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/796488147>	<Polygon_landuse-Intersect-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590034>
+<http://www.worldkg.org/resource/2767633739>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-20
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/763320785>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2562438629>
+<http://www.worldkg.org/resource/587061864>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/5671332>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/46240152>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/357621260>	<http://www.worldkg.org/schema/ele>	ele-3
+<http://www.worldkg.org/resource/271825819>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-961486
+<http://www.worldkg.org/resource/525854245>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/420590036>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/224023183>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/5670411>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/420590034>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/420878114>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/beds>	beds-272
+<http://www.worldkg.org/resource/587061864>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271827344>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/271827342>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/46240148>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/511930974>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/2562438629>	<RegionId>	11_24
+<http://www.worldkg.org/resource/5670615>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/271827344>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/224025207>	<http://www.worldkg.org/schema/source>	source-http://www.nycgovparks.org/parks/howardbennettplayground/map
+<http://www.worldkg.org/resource/420590034>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/horse>	horse-no
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:McDonald's
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/763320785>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/224025207>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/271822573>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-58
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/557733488>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/763320785>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/511930974>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/364026610>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827329>	<http://www.worldkg.org/schema/height>	height-21.2
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271825819>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/224023183>	<http://www.worldkg.org/schema/access>	access-yes
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/5670615>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3545220730>
+<http://www.worldkg.org/resource/420590035>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/420590032>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/407580298>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271822573>	<RegionId>	11_24
+<http://www.worldkg.org/resource/3545220730>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/511930974>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827329>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/3545220730>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/5670615>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/5670615>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/364026610>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/420590035>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/271827329>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/2562438629>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/1740707014>
+<http://www.worldkg.org/resource/271827344>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-34
+<http://www.worldkg.org/resource/407580298>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-private
+<http://www.worldkg.org/resource/271827342>	<http://www.worldkg.org/schema/height>	height-13.6
+<http://www.worldkg.org/resource/796488147>	<Polygon_landuse-Contain-Point_pofw>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/2562438629>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420878090>
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/557733485>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/420878114>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/577528456>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/420878114>	<RegionId>	11_24
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590034>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/271822573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/420878114>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2562438629>
+<http://www.worldkg.org/resource/5671332>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/796488147>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/420590035>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3545220730>
+<http://www.worldkg.org/resource/587061864>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/420878090>	<RegionId>	11_24
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/557733485>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/271825819>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/5670411>	<Line_roads-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/364026610>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/438383443>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Tertiary>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/357621742>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/2767707740>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/357621124>	<Point_pofw-Within-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/357621260>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-2266
+<http://www.worldkg.org/resource/357621260>	<http://www.w3.org/2000/01/rdf-schema#label>	Lincolnton Station New York Post Office
+<http://www.worldkg.org/resource/46240152>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/altName>	altName-Harlem Hospital Center
+<http://www.worldkg.org/resource/2767707740>	<http://www.w3.org/2000/01/rdf-schema#label>	Kennedy Fried Chicken & Pizza
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/nameEn>	nameEn-5th Avenue
+<http://www.worldkg.org/resource/357621275>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/5670411>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/271827329>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/557733485>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827327>	<http://www.worldkg.org/schema/height>	height-26.1
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/5670615>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/511930974>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/420878090>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/357621742>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Mark the Evangelist School
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Point_pofw>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-yes
+<http://www.worldkg.org/resource/357621742>	<http://www.worldkg.org/schema/ele>	ele-5
+<http://www.worldkg.org/resource/224023183>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827327>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/577528456>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/271827342>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Mark's Roman Catholic Church
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/796488147>	<Polygon_landuse-Contain-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/420878090>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420878114>
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621742>
+<http://www.worldkg.org/resource/420590036>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/271822571>	<RegionId>	11_24
+<http://www.worldkg.org/resource/1740707014>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/2767707740>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/763320786>	<RegionId>	11_24
+<http://www.worldkg.org/resource/5671332>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/357621275>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/357621275>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/438383443>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/phone>	phone-+1 212 939 1000
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/357621260>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PostOffice>
+<http://www.worldkg.org/resource/5670411>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/3545220730>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827327>	<RegionId>	11_24
+<http://www.worldkg.org/resource/118524668>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Park>
+<http://www.worldkg.org/resource/5670411>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3545220730>
+<http://www.worldkg.org/resource/5671332>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/357621742>
+<http://www.worldkg.org/resource/5670615>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/420590032>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/357621742>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/763320786>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/271822571>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/587061864>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/5671332>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/271827342>
+<http://www.worldkg.org/resource/118524668>	<RegionId>	11_24
+<http://www.worldkg.org/resource/577528456>	<RegionId>	11_24
+<http://www.worldkg.org/resource/420878114>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5670881>
+<http://www.worldkg.org/resource/271825819>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/577528456>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/2767633739>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/2562438629>	<http://www.worldkg.org/schema/operator>	operator-Associated Supermarkets
+<http://www.worldkg.org/resource/5670881>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/toilets>	toilets-yes
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/271825819>	<http://www.worldkg.org/schema/ele>	ele-4
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/5670411>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/46240148>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/5671332>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/407580298>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/1740707014>	<Point_pois-Within-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/511930974>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/5671332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/587061864>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/5670615>	<Line_roads-Intersect-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/357621260>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420590034>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/438383443>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/577528456>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/420590032>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/407580298>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/562540012>	<RegionId>	11_24
+<http://www.worldkg.org/resource/420590035>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/587061864>	<http://www.worldkg.org/schema/nameEn>	nameEn-5th Avenue
+<http://www.worldkg.org/resource/2767707740>	<RegionId>	11_24
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Intersect-Point_pois>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/357621275>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Mark the Evangelist Preschool
+<http://www.worldkg.org/resource/5671332>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/nameEn>	nameEn-5th Avenue
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/525854245>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/420878114>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/420878090>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/557733485>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/420590034>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/224025207>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/364026610>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/5670411>	<Line_roads-Within-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/271822571>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/438383443>
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670411>
+<http://www.worldkg.org/resource/511930974>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5670615>	<http://www.w3.org/2000/01/rdf-schema#label>	Lenox Terrace Place
+<http://www.worldkg.org/resource/5670881>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/562540012>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-506
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Lenox Avenue
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/557733488>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/420878114>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/5670411>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/357621275>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/altName>	altName-Lenox Avenue
+<http://www.worldkg.org/resource/1740707014>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2562438629>
+<http://www.worldkg.org/resource/357621124>	<http://www.w3.org/2000/01/rdf-schema#label>	Union Congregational Church
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/420590034>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/271827342>	<RegionId>	11_24
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827327>
+<http://www.worldkg.org/resource/357621742>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2084013
+<http://www.worldkg.org/resource/224023183>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Swimming>
+<http://www.worldkg.org/resource/2562438629>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/763320786>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/420590035>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/511930974>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320786>
+<http://www.worldkg.org/resource/271822573>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/420590034>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/796488147>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/420590036>
+<http://www.worldkg.org/resource/562540012>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityHospital>
+<http://www.worldkg.org/resource/577528456>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/420590036>	<RegionId>	11_24
+<http://www.worldkg.org/resource/357621260>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2767707740>
+<http://www.worldkg.org/resource/420878114>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/271827344>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621742>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/brand>	brand-McDonald's
+<http://www.worldkg.org/resource/2767633739>	<RegionId>	11_24
+<http://www.worldkg.org/resource/5670411>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/420590032>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/271827344>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/357621742>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224025207>
+<http://www.worldkg.org/resource/420590034>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/364026610>
+<http://www.worldkg.org/resource/357621275>	<http://www.worldkg.org/schema/ele>	ele-5
+<http://www.worldkg.org/resource/271827327>	<http://www.worldkg.org/schema/buildingLevels>	buildingLevels-8
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/763320785>
+<http://www.worldkg.org/resource/1740707014>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-444
+<http://www.worldkg.org/resource/2767707740>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10037
+<http://www.worldkg.org/resource/420878114>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/1740707014>
+<http://www.worldkg.org/resource/557733488>	<http://www.w3.org/2000/01/rdf-schema#label>	5th Avenue
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/nameRu>	nameRu-5-я авеню
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Within-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590035>
+<http://www.worldkg.org/resource/557733485>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Fifth Avenue
+<http://www.worldkg.org/resource/587061864>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46240148>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/562540012>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/271827329>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/407580298>
+<http://www.worldkg.org/resource/557733488>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621260>
+<http://www.worldkg.org/resource/271822573>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/5670411>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/271827342>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PlaceOfWorship>
+<http://www.worldkg.org/resource/577528456>	<http://www.w3.org/2000/01/rdf-schema#label>	Salvation Army Corps Community Center
+<http://www.worldkg.org/resource/525854245>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/364026610>	<Point_pofw-Adjacent-Line_roads>	<http://www.worldkg.org/resource/357621124>
+<http://www.worldkg.org/resource/420590035>	<http://www.w3.org/2000/01/rdf-schema#label>	Malcolm X Boulevard
+<http://www.worldkg.org/resource/271825819>	<RegionId>	11_24
+<http://www.worldkg.org/resource/271827342>	<Point_pofw-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/357621260>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083817
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/nameRu>	nameRu-5-я авеню
+<http://www.worldkg.org/resource/46240148>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/420878090>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/587061864>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/224023183>
+<http://www.worldkg.org/resource/557733485>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/557733488>	<Line_roads-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/420590034>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/796488147>
+<http://www.worldkg.org/resource/271825819>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/562540012>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/224025207>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827329>
+<http://www.worldkg.org/resource/587061864>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/557733485>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46240152>
+<http://www.worldkg.org/resource/5670411>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271822571>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2767633739>
+<http://www.worldkg.org/resource/511930974>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/577528456>
+<http://www.worldkg.org/resource/271825819>	<http://www.w3.org/2000/01/rdf-schema#label>	John B. Russwurm Elementary School P.S. 197
+<http://www.worldkg.org/resource/357621742>	<RegionId>	11_24
+<http://www.worldkg.org/resource/3545220730>	<http://www.w3.org/2000/01/rdf-schema#label>	Lt. Joseph P. Kennedy Center
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/525854245>
+<http://www.worldkg.org/resource/46240152>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733485>
+<http://www.worldkg.org/resource/577528456>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/357621275>
+<http://www.worldkg.org/resource/271822571>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FitnessCentre>
+<http://www.worldkg.org/resource/357621124>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2083744
+<http://www.worldkg.org/resource/562540012>	<Point_pofw-Adjacent-Point_pois>	<http://www.worldkg.org/resource/271822573>
+<http://www.worldkg.org/resource/796488147>	<Point_pois-Adjacent-Polygon_landuse>	<http://www.worldkg.org/resource/118524668>
+<http://www.worldkg.org/resource/271827344>	<RegionId>	11_24
+<http://www.worldkg.org/resource/438383443>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/5671332>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/224023183>	<http://www.worldkg.org/schema/source>	source-http://www.nycgovparks.org/parks/hansboroughrecreationcenter/facilities/pools
+<http://www.worldkg.org/resource/5670615>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/525854245>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/5670881>	<http://www.worldkg.org/schema/source>	source-Bing
+<http://www.worldkg.org/resource/271827327>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/587061864>
+<http://www.worldkg.org/resource/224023183>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670615>
+<http://www.worldkg.org/resource/420590036>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/420590032>
+<http://www.worldkg.org/resource/420590035>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/562540012>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/557733488>
+<http://www.worldkg.org/resource/407580298>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46240148>
+<http://www.worldkg.org/resource/271827327>	<Polygon_buildings-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271827344>
+<http://www.worldkg.org/resource/271827327>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/5671332>
+<http://www.worldkg.org/resource/118524668>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/271825819>
+<http://www.worldkg.org/resource/557733488>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-E;W
+<http://www.worldkg.org/resource/271827342>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-59

@@ -1,0 +1,386 @@
+<http://www.worldkg.org/resource/46111604>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46577955>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/584971388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46577955>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/3627534297>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10032
+<http://www.worldkg.org/resource/440122883>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796929069>
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/inlineSkates>	inlineSkates-yes
+<http://www.worldkg.org/resource/68196325>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/46577949>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/46111604>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/338164601>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Basketball>
+<http://www.worldkg.org/resource/46577965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46577948>	<RegionId>	13_20
+<http://www.worldkg.org/resource/68196311>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/2796929069>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/3627534297>
+<http://www.worldkg.org/resource/46577948>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/440122910>	<http://www.worldkg.org/schema/onewayBicycle>	onewayBicycle-no
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/foot>	foot-yes
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/46577955>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/3627534297>	<RegionId>	13_20
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/lit>	lit-yes
+<http://www.worldkg.org/resource/46577949>	<RegionId>	13_20
+<http://www.worldkg.org/resource/584971388>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/68196311>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/toll>	toll-no
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/734561425>	<RegionId>	13_20
+<http://www.worldkg.org/resource/2796929069>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/584971388>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive West
+<http://www.worldkg.org/resource/765251404>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/765251404>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/8119432>
+<http://www.worldkg.org/resource/5670976>	<RegionId>	13_20
+<http://www.worldkg.org/resource/4701485489>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BicycleParking>
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907V
+<http://www.worldkg.org/resource/68196325>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/476650291>
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/440122883>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/338164601>	<http://www.w3.org/2000/01/rdf-schema#label>	Basketball courts
+<http://www.worldkg.org/resource/122738271>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<http://www.worldkg.org/resource/2796929069>	<RegionId>	13_20
+<http://www.worldkg.org/resource/3627534297>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/338164601>	<RegionId>	13_20
+<http://www.worldkg.org/resource/476650291>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Polygon>
+<http://www.worldkg.org/resource/338164601>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/46577965>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/765251404>
+<http://www.worldkg.org/resource/5670976>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/765251404>
+<http://www.worldkg.org/resource/46577949>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46577955>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/46111604>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/338164601>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/734561425>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/notName>	notName-West Side Highway
+<http://www.worldkg.org/resource/46577948>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/476650291>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/68196325>
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/goods>	goods-no
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/ref>	ref-HH;NY 9A
+<http://www.worldkg.org/resource/8119432>	<RegionId>	13_20
+<http://www.worldkg.org/resource/338166913>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166914>
+<http://www.worldkg.org/resource/46111604>	<RegionId>	13_20
+<http://www.worldkg.org/resource/304334605>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/122738271>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/68196311>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46114478>	<RegionId>	13_20
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q38076
+<http://www.worldkg.org/resource/440122883>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577955>
+<http://www.worldkg.org/resource/8119432>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/8119432>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<http://www.worldkg.org/resource/4701485489>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670983>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577955>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46577965>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/338166912>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/765251404>	<http://www.w3.org/2000/01/rdf-schema#label>	Lily Brown Playground
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/5670976>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:McDonald's
+<http://www.worldkg.org/resource/3627534297>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Restaurant>
+<http://www.worldkg.org/resource/2796929069>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122883>
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/338166914>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166912>
+<http://www.worldkg.org/resource/3627534297>	<http://www.worldkg.org/schema/addrState>	addrState-NY
+<http://www.worldkg.org/resource/2796929069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/notName>	notName-West Side Highway
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/8119432>
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338164601>
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/brand>	brand-McDonald's
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/338164601>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/584971388>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/toll>	toll-no
+<http://www.worldkg.org/resource/8119432>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/440122910>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/440122883>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/3627534297>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122883>
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/68196311>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/338166913>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/338166913>	<RegionId>	13_20
+<http://www.worldkg.org/resource/338164601>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/8119432>
+<http://www.worldkg.org/resource/734561425>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/46577955>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3627534297>
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/734561425>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577955>
+<http://www.worldkg.org/resource/5670983>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/8119432>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/3627534297>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-3801
+<http://www.worldkg.org/resource/2796929069>	<http://www.w3.org/2000/01/rdf-schema#label>	McDonald's
+<http://www.worldkg.org/resource/476650291>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/68196311>
+<http://www.worldkg.org/resource/734561425>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/122738271>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577948>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/5670983>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/765251404>
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/68196325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46577951>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577955>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122883>
+<http://www.worldkg.org/resource/46577948>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/68196325>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/motorcar>	motorcar-designated
+<http://www.worldkg.org/resource/440122910>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3627534297>
+<http://www.worldkg.org/resource/2796929069>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/46114478>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/68196325>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68196311>
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/68196311>	<RegionId>	13_20
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/surface>	surface-asphalt
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/goods>	goods-no
+<http://www.worldkg.org/resource/3627534297>	<http://www.w3.org/2000/01/rdf-schema#label>	Coral Diner
+<http://www.worldkg.org/resource/122738271>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/68196325>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Fort Washington Avenue
+<http://www.worldkg.org/resource/734561425>	<http://www.w3.org/2000/01/rdf-schema#label>	Fort Washington Avenue
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/440122910>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46577951>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive West
+<http://www.worldkg.org/resource/338166912>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/46577955>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/338166914>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338164601>
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/338166913>	<http://www.w3.org/2000/01/rdf-schema#label>	Kids Water Park Area
+<http://www.worldkg.org/resource/440122883>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/68196325>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/68196325>	<RegionId>	13_20
+<http://www.worldkg.org/resource/68196311>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/notName>	notName-West Side Highway
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/segregated>	segregated-no
+<http://www.worldkg.org/resource/46577955>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/5670983>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/765251404>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/8119432>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/46577948>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/68196325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/46114478>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338164601>
+<http://www.worldkg.org/resource/338166912>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166913>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/8119432>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/2796929069>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/3627534297>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/5670983>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/5670983>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/765251404>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/46114478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/338166912>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166914>
+<http://www.worldkg.org/resource/304334605>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Path>
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/bicycle>	bicycle-designated
+<http://www.worldkg.org/resource/46577955>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/3627534297>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68196311>
+<http://www.worldkg.org/resource/46114478>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3627534297>
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/440122910>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/440122883>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/440122910>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/440122883>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/4701485489>	<Point_traffic-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/122738271>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/765251404>
+<http://www.worldkg.org/resource/304334605>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/8119432>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/304334605>	<http://www.worldkg.org/schema/motorVehicle>	motorVehicle-no
+<http://www.worldkg.org/resource/68196311>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/476650291>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166914>
+<http://www.worldkg.org/resource/3627534297>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/338166912>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/304334605>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Walk
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/8119432>
+<http://www.worldkg.org/resource/440122910>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/476650291>	<http://www.w3.org/2000/01/rdf-schema#label>	security shed
+<http://www.worldkg.org/resource/5670976>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/5670976>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/734561425>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3627534297>
+<http://www.worldkg.org/resource/476650291>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/46577949>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/440122910>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/68196311>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/476650291>
+<http://www.worldkg.org/resource/46577951>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/5670983>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/46577965>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Motorway>
+<http://www.worldkg.org/resource/734561425>	<Point_traffic-Adjacent-Line_roads>	<http://www.worldkg.org/resource/4701485489>
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166912>
+<http://www.worldkg.org/resource/4701485489>	<RegionId>	13_20
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/motorcar>	motorcar-designated
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/46114478>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/734561425>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Fort Washington Avenue
+<http://www.worldkg.org/resource/68196311>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/734561425>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/304334605>
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-3809
+<http://www.worldkg.org/resource/734561425>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/440122883>	<RegionId>	13_20
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166913>
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/338166914>	<RegionId>	13_20
+<http://www.worldkg.org/resource/338166914>	<http://www.worldkg.org/schema/note>	note-Rope bridge, gym bars, treehouse, climbing ropes
+<http://www.worldkg.org/resource/584971388>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68196311>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/338166913>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/440122910>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577955>
+<http://www.worldkg.org/resource/46577951>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/734561425>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796929069>
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907V
+<http://www.worldkg.org/resource/584971388>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/440122910>	<RegionId>	13_20
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/338166914>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/5670976>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/8119432>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/68196325>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/SharedLane>
+<http://www.worldkg.org/resource/338166912>	<http://www.w3.org/2000/01/rdf-schema#label>	Swingsets
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/goods>	goods-no
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/8119432>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/338166914>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166913>
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10032
+<http://www.worldkg.org/resource/765251404>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenityDrinkingWater>
+<http://www.worldkg.org/resource/46577949>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/46577951>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Riverside Drive (Manhattan)
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/440122883>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/2796929069>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577955>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/338166913>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166914>
+<http://www.worldkg.org/resource/46577949>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/440122910>
+<http://www.worldkg.org/resource/440122910>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122883>
+<http://www.worldkg.org/resource/440122910>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796929069>
+<http://www.worldkg.org/resource/765251404>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/46111604>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/68196311>	<http://www.w3.org/2000/01/rdf-schema#label>	West 165th Street
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/8119432>
+<http://www.worldkg.org/resource/46577965>	<http://www.w3.org/2000/01/rdf-schema#label>	Henry Hudson Parkway
+<http://www.worldkg.org/resource/5670983>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/46577948>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/68196311>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/734561425>	<Line_roads-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/476650291>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/46577948>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/338164601>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Pitch>
+<http://www.worldkg.org/resource/3627534297>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2796929069>
+<http://www.worldkg.org/resource/765251404>	<RegionId>	13_20
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/5670976>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577949>
+<http://www.worldkg.org/resource/440122910>	<http://www.worldkg.org/schema/cyclewayRight>	cyclewayRight-track
+<http://www.worldkg.org/resource/440122883>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Broadway (Manhattan)
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/440122883>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/734561425>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/584971388>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/338166912>	<RegionId>	13_20
+<http://www.worldkg.org/resource/338166914>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/584971388>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/3627534297>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577955>
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46577949>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/584971388>
+<http://www.worldkg.org/resource/46577951>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/440122910>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/3627534297>	<http://www.worldkg.org/schema/cuisine>	cuisine-diner
+<http://www.worldkg.org/resource/4701485489>	<http://www.w3.org/2000/01/rdf-schema#label>	bike pole
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/734561425>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68196325>
+<http://www.worldkg.org/resource/46577951>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/ref>	ref-HH;NY 9A
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/46577955>	<http://www.worldkg.org/schema/cyclewayLeft>	cyclewayLeft-opposite_lane
+<http://www.worldkg.org/resource/46577965>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338164601>
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46577948>
+<http://www.worldkg.org/resource/338166913>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/338166912>
+<http://www.worldkg.org/resource/338166914>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/motorcar>	motorcar-designated
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670983>
+<http://www.worldkg.org/resource/46577949>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/440122883>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/3627534297>
+<http://www.worldkg.org/resource/338164601>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/440122910>	<http://www.w3.org/2000/01/rdf-schema#label>	West 158th Street
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/ref>	ref-HH;NY 9A
+<http://www.worldkg.org/resource/734561425>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/68196311>
+<http://www.worldkg.org/resource/440122883>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/122738271>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577951>
+<http://www.worldkg.org/resource/440122883>	<http://www.worldkg.org/schema/nameRu>	nameRu-Бродвей
+<http://www.worldkg.org/resource/304334605>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/cuisine>	cuisine-burger
+<http://www.worldkg.org/resource/68196311>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/68196325>
+<http://www.worldkg.org/resource/440122910>	<http://www.worldkg.org/schema/cyclewayRightOneway>	cyclewayRightOneway-no
+<http://www.worldkg.org/resource/46114478>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/765251404>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/122738271>
+<http://www.worldkg.org/resource/46577948>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/46577965>	<http://www.worldkg.org/schema/hgv>	hgv-no
+<http://www.worldkg.org/resource/8119432>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/765251404>
+<http://www.worldkg.org/resource/5670976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/46577951>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/46577955>	<RegionId>	13_20
+<http://www.worldkg.org/resource/440122883>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/46114478>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5670976>
+<http://www.worldkg.org/resource/46577955>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796929069>
+<http://www.worldkg.org/resource/8119432>	<http://www.worldkg.org/schema/unsignedRef>	unsignedRef-NY 907V
+<http://www.worldkg.org/resource/2796929069>	<http://www.worldkg.org/schema/driveThrough>	driveThrough-no
+<http://www.worldkg.org/resource/440122910>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/46111604>
+<http://www.worldkg.org/resource/734561425>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/440122883>
+<http://www.worldkg.org/resource/46111604>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/122738271>	<http://www.worldkg.org/schema/oneway>	oneway-yes
+<http://www.worldkg.org/resource/46577955>	<http://www.w3.org/2000/01/rdf-schema#label>	West 158th Street
+<http://www.worldkg.org/resource/440122883>	<http://www.w3.org/2000/01/rdf-schema#label>	Broadway
+<http://www.worldkg.org/resource/46111604>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46577965>
+<http://www.worldkg.org/resource/46111604>	<http://www.w3.org/2000/01/rdf-schema#label>	Riverside Drive
+<http://www.worldkg.org/resource/5670983>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/46114478>

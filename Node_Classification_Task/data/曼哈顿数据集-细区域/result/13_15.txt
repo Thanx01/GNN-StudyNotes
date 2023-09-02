@@ -1,0 +1,365 @@
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/753884976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/60251942>	<RegionId>	13_15
+<http://www.worldkg.org/resource/196116972>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/196117058>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/196116972>	<http://www.w3.org/2000/01/rdf-schema#label>	Amsterdam Avenue
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/subway>	subway-yes
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/196117076>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:155th Street (Manhattan)
+<http://www.worldkg.org/resource/196116972>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/2796691184>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/196117076>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/60251942>	<http://www.w3.org/2000/01/rdf-schema#label>	West 157th Street
+<http://www.worldkg.org/resource/712171085>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/569361666>	<RegionId>	13_15
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/5296023394>	<RegionId>	13_15
+<http://www.worldkg.org/resource/569361666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/196117076>	<http://www.w3.org/2000/01/rdf-schema#label>	West 155th Street
+<http://www.worldkg.org/resource/712171085>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/196117077>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10032
+<http://www.worldkg.org/resource/569361671>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/level>	level--2
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/196117058>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/5296023394>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/196116972>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5296021048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/rcnRef>	rcnRef-9
+<http://www.worldkg.org/resource/569361666>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/level>	level--3
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/operator>	operator-New York City Transit Authority
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-451
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/569361671>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/60251942>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:155th Street station (IND Eighth Avenue Line)
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/569361671>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/2796691184>	<http://www.worldkg.org/schema/ele>	ele-46
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/196117077>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/196117058>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/254594898>	<Line_railway-Adjacent-Point_pois>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/2796691184>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-961608
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/712171085>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Eighth Avenue Line
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/196117076>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/569361671>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/712171084>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwaySubway>
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/196117076>	<RegionId>	13_15
+<http://www.worldkg.org/resource/254594898>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/5296021048>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/5296021048>	<http://www.worldkg.org/schema/routeRef>	routeRef-M2
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/196116972>
+<http://www.worldkg.org/resource/196117077>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/internetAccessFee>	internetAccessFee-no
+<http://www.worldkg.org/resource/196117058>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/60251942>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/HighwayResidential>
+<http://www.worldkg.org/resource/2014101938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2796691184>	<http://www.worldkg.org/schema/addrPostcode>	addrPostcode-10032
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/196117077>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Primary>
+<http://www.worldkg.org/resource/5296023394>	<http://www.w3.org/2000/01/rdf-schema#label>	West 155th Street & Edgecomb Avenue
+<http://www.worldkg.org/resource/569361666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/712171085>	<Line_railway-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/brandWikipedia>	brandWikipedia-en:Dunkin' Donuts
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/196117076>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/196117076>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/5296021048>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/5296021048>	<http://www.worldkg.org/schema/bus>	bus-yes
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/2796691184>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/AmenitySchool>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/712171085>	<Line_railway-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/60251942>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/frequency>	frequency-0
+<http://www.worldkg.org/resource/712171084>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/altName>	altName-Dunkin' Donuts
+<http://www.worldkg.org/resource/196117077>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/access>	access-yes
+<http://www.worldkg.org/resource/196117077>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:155th Street (Manhattan)
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/5296023394>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportPlatform>
+<http://www.worldkg.org/resource/712171085>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/5296021048>
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/2796691174>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/FastFood>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/wheelchair>	wheelchair-no
+<http://www.worldkg.org/resource/196117077>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/5296021048>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/196117077>	<RegionId>	13_15
+<http://www.worldkg.org/resource/5672985>	<RegionId>	13_15
+<http://www.worldkg.org/resource/196117077>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/5296021048>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/openingHours>	openingHours-24/7
+<http://www.worldkg.org/resource/551646029>	<RegionId>	13_15
+<http://www.worldkg.org/resource/2014101938>	<http://www.w3.org/2000/01/rdf-schema#label>	155th Street
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/2796691174>	<http://www.w3.org/2000/01/rdf-schema#label>	Dunkin'
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/712171084>	<http://www.w3.org/2000/01/rdf-schema#label>	IND Eighth Avenue Line
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/rcnRef>	rcnRef-9
+<http://www.worldkg.org/resource/712171085>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/internetAccess>	internetAccess-wlan
+<http://www.worldkg.org/resource/5296021048>	<RegionId>	13_15
+<http://www.worldkg.org/resource/254594898>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2796691184>
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/196116972>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/196116972>	<http://www.worldkg.org/schema/hgv>	hgv-local
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/takeaway>	takeaway-yes
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/5296023394>	<http://www.worldkg.org/schema/bench>	bench-yes
+<http://www.worldkg.org/resource/196117076>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/569361671>	<RegionId>	13_15
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/brandWikidata>	brandWikidata-Q847743
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/cuisine>	cuisine-donut;coffee_shop
+<http://www.worldkg.org/resource/254594898>	<http://www.w3.org/2000/01/rdf-schema#label>	Orville And Wilbur Playground
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/lanes>	lanes-3
+<http://www.worldkg.org/resource/196117077>	<Line_roads-Intersect-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/2796691184>	<http://www.w3.org/2000/01/rdf-schema#label>	Public School 28
+<http://www.worldkg.org/resource/569361671>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/rcnRef>	rcnRef-9
+<http://www.worldkg.org/resource/196116972>	<RegionId>	13_15
+<http://www.worldkg.org/resource/196116972>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/196117058>	<RegionId>	13_15
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/network>	network-NYC Subway
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/tunnel>	tunnel-yes
+<http://www.worldkg.org/resource/712171085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwaySubway>
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5296021048>
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/196116972>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691184>
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/551646029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/60251942>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/station>	station-subway
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/2796691184>	<RegionId>	13_15
+<http://www.worldkg.org/resource/5296021048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/712171084>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/254594898>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2796691174>	<http://www.worldkg.org/schema/brand>	brand-Dunkin'
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/712171084>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/753884976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/196117076>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691184>
+<http://www.worldkg.org/resource/196117058>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/voltage>	voltage-625
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/196116972>
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/level>	level--3
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/254594898>	<http://www.worldkg.org/schema/gnisFeatureId>	gnisFeatureId-2500777
+<http://www.worldkg.org/resource/196117076>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/5296023394>	<http://www.worldkg.org/schema/shelter>	shelter-yes
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/712171084>	<Line_railway-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-3
+<http://www.worldkg.org/resource/712171084>	<Line_railway-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/569361671>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/5672985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/254594898>	<Point_pois-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/frequency>	frequency-0
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/5296021048>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:St. Nicholas Avenue
+<http://www.worldkg.org/resource/254594898>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Playground>
+<http://www.worldkg.org/resource/712171085>	<RegionId>	13_15
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/electrified>	electrified-rail
+<http://www.worldkg.org/resource/196117076>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/551646029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/layer>	layer--3
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/60251942>	<http://www.worldkg.org/schema/oneway>	oneway-no
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/rcnRef>	rcnRef-9
+<http://www.worldkg.org/resource/254594898>	<RegionId>	13_15
+<http://www.worldkg.org/resource/5672985>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Steps>
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/5296023394>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/2796691184>	<http://www.worldkg.org/schema/addrHousenumber>	addrHousenumber-475
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/railwayTrackRef>	railwayTrackRef-4
+<http://www.worldkg.org/resource/5296023394>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/layer>	layer--3
+<http://www.worldkg.org/resource/2796691174>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/2014101938>	<RegionId>	13_15
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/tunnel>	tunnel-yes
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/196117077>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2014101938>
+<http://www.worldkg.org/resource/2796691184>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116972>
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/2796691184>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/wikimediaCommons>	wikimediaCommons-Category:155th Street (IND Eighth Avenue Line)
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/electrified>	electrified-rail
+<http://www.worldkg.org/resource/712171084>	<http://www.worldkg.org/schema/gauge>	gauge-1435
+<http://www.worldkg.org/resource/753884976>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/196117076>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/569361671>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/254594898>	<Line_railway-Adjacent-Point_pois>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/2796691174>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/569361666>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5296021048>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/BusStop>
+<http://www.worldkg.org/resource/712171085>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/196117058>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/5296023394>	<http://www.worldkg.org/schema/routeRef>	routeRef-Bx6
+<http://www.worldkg.org/resource/196116972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/2796691184>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Point>
+<http://www.worldkg.org/resource/551646029>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/712171084>	<RegionId>	13_15
+<http://www.worldkg.org/resource/2796691174>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/5296021048>	<http://www.w3.org/2000/01/rdf-schema#label>	Edgecomb Avenue & West 155th Street
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/196116972>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/2014101938>	<http://www.worldkg.org/schema/startDate>	startDate-1932-09-10
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/196117077>	<http://www.worldkg.org/schema/tigerNameDirectionPrefix>	tigerNameDirectionPrefix-W
+<http://www.worldkg.org/resource/753884976>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/569361666>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/CyclewayLane>
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/2014101938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/PublicTransportStation>
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/altName>	altName-Bushman Steps
+<http://www.worldkg.org/resource/196117077>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5296021048>
+<http://www.worldkg.org/resource/2796691174>	<RegionId>	13_15
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/712171085>	<http://www.worldkg.org/schema/voltage>	voltage-625
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/196116972>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/2014101938>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/RailwayStation>
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Coogan's_Bluff#Polo_Grounds
+<http://www.worldkg.org/resource/5296023394>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/2796691174>
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/hgv>	hgv-destination
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/254594898>	<http://www.worldkg.org/schema/ele>	ele-46
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/196116972>
+<http://www.worldkg.org/resource/753884976>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/5672985>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/60251942>
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/196117076>
+<http://www.worldkg.org/resource/254594898>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/569361666>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/712171085>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/753884976>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/5296021048>	<Point_transport-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/196116972>	<http://www.worldkg.org/schema/wikipedia>	wikipedia-en:Tenth Avenue (Manhattan)
+<http://www.worldkg.org/resource/712171084>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.opengis.net/ont/sf#Line>
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/712171084>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/551646029>
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/569361666>
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/5672985>
+<http://www.worldkg.org/resource/196117058>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.worldkg.org/schema/Secondary>
+<http://www.worldkg.org/resource/569361671>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/196117077>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117058>
+<http://www.worldkg.org/resource/196117077>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/incline>	incline-up
+<http://www.worldkg.org/resource/551646029>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/5672985>	<http://www.worldkg.org/schema/stepCount>	stepCount-29
+<http://www.worldkg.org/resource/569361671>	<http://www.worldkg.org/schema/maxspeed>	maxspeed-25 mph
+<http://www.worldkg.org/resource/196117077>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/569361671>
+<http://www.worldkg.org/resource/60251942>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/196117058>	<http://www.worldkg.org/schema/bicycle>	bicycle-yes
+<http://www.worldkg.org/resource/196117058>	<Line_roads-Intersect-Line_roads>	<http://www.worldkg.org/resource/196117077>
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/rcnRef>	rcnRef-9
+<http://www.worldkg.org/resource/196117076>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116972>
+<http://www.worldkg.org/resource/551646029>	<http://www.w3.org/2000/01/rdf-schema#label>	Saint Nicholas Avenue
+<http://www.worldkg.org/resource/753884976>	<RegionId>	13_15
+<http://www.worldkg.org/resource/196117076>	<http://www.worldkg.org/schema/tigerReviewed>	tigerReviewed-no
+<http://www.worldkg.org/resource/753884976>	<http://www.worldkg.org/schema/lanes>	lanes-2
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
+<http://www.worldkg.org/resource/196116972>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171085>
+<http://www.worldkg.org/resource/2014101938>	<Point_transport-Adjacent-Point_transport>	<http://www.worldkg.org/resource/5296023394>
+<http://www.worldkg.org/resource/196117077>	<http://www.w3.org/2000/01/rdf-schema#label>	West 155th Street
+<http://www.worldkg.org/resource/2796691174>	<Point_transport-Adjacent-Point_pois>	<http://www.worldkg.org/resource/5296021048>
+<http://www.worldkg.org/resource/5672985>	<http://www.w3.org/2000/01/rdf-schema#label>	West 157 Street
+<http://www.worldkg.org/resource/2796691174>	<Point_pois-Adjacent-Line_roads>	<http://www.worldkg.org/resource/753884976>
+<http://www.worldkg.org/resource/551646029>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/196116972>
+<http://www.worldkg.org/resource/196117077>	<Line_roads-Adjacent-Line_railway>	<http://www.worldkg.org/resource/712171084>
+<http://www.worldkg.org/resource/196117077>	<Line_roads-Adjacent-Point_pois>	<http://www.worldkg.org/resource/254594898>
