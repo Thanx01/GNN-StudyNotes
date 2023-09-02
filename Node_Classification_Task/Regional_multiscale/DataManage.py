@@ -1,39 +1,39 @@
-import os
+# 导入difflib库，用于比较文本差异
+import difflib
 
-folder_path = r'E:\GNNStudy\Proj1\Node_Classification_Task\data\曼哈顿多区域数据集-2022.9.14\13个区域'
-file_paths = [os.path.join(folder_path, f'mht-{i}.txt') for i in range(1, 14)]
+# 定义两组文件的公共路径
+mht_path = "E:\\GNNStudy\\Proj1\\Node_Classification_Task\\data\\曼哈顿多区域数据集-2022.9.14\\13个区域\\"
+merged_path = "E:\\GNNStudy\\Proj1\\Node_Classification_Task\\data\\merged\\"
 
-special_triplets = {}
+# 定义输出文件的公共路径
+output_path = "E:\\GNNStudy\\Proj1\\Node_Classification_Task\\data\\补集\\"
 
-for file_path in file_paths:
-    with open(file_path, 'r',encoding="utf-8") as current_file:
-        for line in current_file:
-            triplet = line.strip().split(' ')
-            subject = triplet[0]
-            predicate = triplet[1]
-            object_ = triplet[2]
+# 定义一个循环，从1到13遍历每一对文件
+for i in range(1, 14):
+    # 拼接每一对文件的完整路径
+    mht_file = mht_path + "mht-" + str(i) + ".txt"
+    merged_file = merged_path + "merged_" + str(i) + ".txt"
+    output_file = output_path + "diff_" + str(i) + ".txt"
 
-            matching_files = []
+    # 以读取模式打开两个文件，并读取内容
+    with open(mht_file, "r",encoding='utf-8') as f1:
+        mht_data = f1.read()
+    with open(merged_file, "r",encoding='utf-8') as f2:
+        merged_data = f2.read()
 
-            for other_file_path in file_paths:
-                if other_file_path != file_path:
-                    with open(other_file_path, 'r',encoding="utf-8") as other_file:
-                        for other_line in other_file:
-                            other_triplet = other_line.strip().split(' ')
+    # 将内容按行分割成列表
+    mht_lines = mht_data.splitlines()
+    merged_lines = merged_data.splitlines()
 
-                            if (
-                                    other_triplet[0] == subject and
-                                    other_triplet[1] == predicate and
-                                    other_triplet[2] == object_
-                            ):
-                                matching_files.append(os.path.basename(other_file_path))
+    # 使用difflib的ndiff函数比较两个列表，并返回一个生成器对象
+    diff = difflib.ndiff(mht_lines, merged_lines)
 
-                    other_file.close()
+    # 以写入模式打开输出文件，并写入差异内容
+    with open(output_file, "w",encoding='utf-8') as f3:
+        for line in diff:
+            # 只写入以-开头的行，表示mht-1.txt中有而merged_1.txt中没有的三元组
+            if line.startswith("-"):
+                f3.write(line[2:] + "\n") # 去掉-和空格，只保留三元组内容，并换行
 
-            if matching_files:
-                special_triplets[f'{subject} {predicate} {object_}'] = matching_files
-
-        current_file.close()
-
-for triplet, files in special_triplets.items():
-    print(f'Special Triplet: {triplet}')
+# 打印完成提示信息
+print("比较完成，差异内容已保存在" + output_path)
