@@ -1,0 +1,6 @@
+Special Triplet: <http://www.worldkg.org/resource/420788302> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/420788321>
+Files: mht-1.txt
+
+Special Triplet: <http://www.worldkg.org/resource/495920787> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/495920785>
+Files: mht-1.txt
+

@@ -1,0 +1,5 @@
+<http://www.worldkg.org/resource/420788302> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/420788321> 
+<http://www.worldkg.org/resource/495920787> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/495920785> 
+<http://www.worldkg.org/resource/4957663866> <Point_pois-Adjacent-Line_roads> <http://www.worldkg.org/resource/614901558> 
+<http://www.worldkg.org/resource/413054857> <Point_pois-Adjacent-Line_roads> <http://www.worldkg.org/resource/2563930272> 
+<http://www.worldkg.org/resource/495933384> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/495933398> 
