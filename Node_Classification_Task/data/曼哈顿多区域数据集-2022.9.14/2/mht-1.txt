@@ -3,6 +3,7 @@
 <http://www.worldkg.org/resource/4957663866> <Point_pois-Adjacent-Line_roads> <http://www.worldkg.org/resource/614901558> 
 <http://www.worldkg.org/resource/413054857> <Point_pois-Adjacent-Line_roads> <http://www.worldkg.org/resource/2563930272> 
 <http://www.worldkg.org/resource/495933384> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/495933398>
+<http://www.worldkg.org/resource/495933384> <Line_roads-Adjacent-Line_roads> <http://www.worldkg.org/resource/495933398>
 <http://www.worldkg.org/resource/5670440>	<Line_roads-Adjacent-Line_roads>	<http://www.worldkg.org/resource/607091411>
 <http://www.worldkg.org/resource/310245650>	<Point_pois-Adjacent-Polygon_buildings>	<http://www.worldkg.org/resource/2565702295>
 <http://www.worldkg.org/resource/3361059>	<http://www.worldkg.org/schema/nycdoittBin>	nycdoittBin-1066406
